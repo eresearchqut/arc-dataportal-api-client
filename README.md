@@ -71,7 +71,7 @@ Filter expressions go in brackets joined by `AND(`, and `=>` separates search te
 
 ### Pagination
 
-To read every grant of a search, pass a page function to `paginate`, which yields grants lazily, or to `collect`, which returns them all. The page function receives a `pageNumber` and `pageSize` to put on the request:
+To read every grant of a search, pass a page function to `paginate`, which yields grants lazily. To get them all as an array, pass the result of `paginate` to `collect`. The page function receives a `pageNumber` and `pageSize` to put on the request:
 
 ```ts
 import { collect, paginate } from '@eresearchqut/arc-dataportal-api-client';
