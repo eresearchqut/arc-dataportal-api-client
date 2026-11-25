@@ -1,0 +1,327 @@
+{
+  "links": {
+    "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LE230100008"
+  },
+  "data": {
+    "type": "grant-details",
+    "id": "LE230100008",
+    "attributes": {
+      "code": "LE230100008",
+      "administering-organisation": "Queensland University of Technology",
+      "announcement-administering-organisation": "Queensland University of Technology",
+      "scheme-name": "Linkage Infrastructure, Equipment and Facilities",
+      "grant-status": "Closed",
+      "funding-commencement-year": 2023,
+      "years-funded": 1,
+      "project-start-date": "2023-01-01",
+      "anticipated-end-date": "2024-07-31",
+      "grant-summary": "Real-time mass spectrometry for advanced aerosol chemical characterisation. Atmospheric aerosols profoundly affect climate and human health. Aerosol chemical composition is a major factor that controls these effects. This project aims to enhance Australian aerosol research capabilities by acquiring for the first time two complementary high-sensitivity field-deployable mass spectrometers for real-time aerosol chemical characterisation. Real-time aerosol mass spectrometry revolutionises studies of dynamics of atmospheric processes, not possible using classic filter sampling and laboratory processing. This new capability will support cutting edge studies on atmospheric processes related to climate, air quality & human health, sustainability, and efficiency enhancement of industrial and energy generation processes.",
+      "funding-current": 831200,
+      "funding-at-announcement": 831200,
+      "investigators-current": [
+        {
+          "title": "A/Prof",
+          "firstName": "Branka",
+          "familyName": "Miljevic",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0003-4408-2047 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Zoran",
+          "familyName": "Ristovski",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0001-6066-6638 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Lidia",
+          "familyName": "Morawska",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-0594-9683 "
+        },
+        {
+          "title": "Adj/Prof",
+          "firstName": "Godwin",
+          "familyName": "Ayoko",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0001-8160-4209 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Clare",
+          "familyName": "Murphy  (nee Paton-Walsh)",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0003-1156-4138 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Robyn",
+          "familyName": "Schofield",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-4230-717X "
+        },
+        {
+          "title": "A/Prof",
+          "firstName": "Daniel",
+          "familyName": "Harrison",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0001-8353-6107 "
+        },
+        {
+          "title": "Dr",
+          "firstName": "Marc",
+          "familyName": "Mallet",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0003-2749-8833 "
+        },
+        {
+          "title": "Dr",
+          "firstName": "Sonya",
+          "familyName": "Fiddes",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-2752-0845 "
+        },
+        {
+          "title": "Dr",
+          "firstName": "Simon",
+          "familyName": "Alexander",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": null
+        }
+      ],
+      "investigators-at-announcement": [
+        {
+          "title": "A/Prof",
+          "firstName": "Branka",
+          "familyName": "Miljevic",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0003-4408-2047 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Zoran",
+          "familyName": "Ristovski",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0001-6066-6638 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Lidia",
+          "familyName": "Morawska",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-0594-9683 "
+        },
+        {
+          "title": "Adj/Prof",
+          "firstName": "Godwin",
+          "familyName": "Ayoko",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0001-8160-4209 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Clare",
+          "familyName": "Murphy  (nee Paton-Walsh)",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0003-1156-4138 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Robyn",
+          "familyName": "Schofield",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-4230-717X "
+        },
+        {
+          "title": "A/Prof",
+          "firstName": "Daniel",
+          "familyName": "Harrison",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0001-8353-6107 "
+        },
+        {
+          "title": "Dr",
+          "firstName": "Marc",
+          "familyName": "Mallet",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0003-2749-8833 "
+        },
+        {
+          "title": "Dr",
+          "firstName": "Sonya",
+          "familyName": "Fiddes",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-2752-0845 "
+        },
+        {
+          "title": "Dr",
+          "firstName": "Simon",
+          "familyName": "Alexander",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": null
+        }
+      ],
+      "organisations-current": [
+        {
+          "organisationName": "Queensland University of Technology",
+          "roleName": "Administering Organisation",
+          "state": "QLD"
+        },
+        {
+          "organisationName": "University of Wollongong",
+          "roleName": "Other Eligible Organisation",
+          "state": "NSW"
+        },
+        {
+          "organisationName": "The University of Melbourne",
+          "roleName": "Other Eligible Organisation",
+          "state": "VIC"
+        },
+        {
+          "organisationName": "Southern Cross University",
+          "roleName": "Other Eligible Organisation",
+          "state": "NSW"
+        },
+        {
+          "organisationName": "University of Tasmania",
+          "roleName": "Other Eligible Organisation",
+          "state": "TAS"
+        },
+        {
+          "organisationName": "Australian Antarctic Division",
+          "roleName": "Partner Organisation",
+          "state": "TAS"
+        }
+      ],
+      "organisations-at-announcement": [
+        {
+          "organisationName": "Queensland University of Technology",
+          "roleName": "Administering Organisation",
+          "state": "QLD"
+        },
+        {
+          "organisationName": "University of Wollongong",
+          "roleName": "Other Eligible Organisation",
+          "state": "NSW"
+        },
+        {
+          "organisationName": "The University of Melbourne",
+          "roleName": "Other Eligible Organisation",
+          "state": "VIC"
+        },
+        {
+          "organisationName": "Southern Cross University",
+          "roleName": "Other Eligible Organisation",
+          "state": "NSW"
+        },
+        {
+          "organisationName": "University of Tasmania",
+          "roleName": "Other Eligible Organisation",
+          "state": "TAS"
+        },
+        {
+          "organisationName": "Australian Antarctic Division",
+          "roleName": "Partner Organisation",
+          "state": "TAS"
+        }
+      ],
+      "field-of-research": [
+        {
+          "isPrimary": true,
+          "code": "3701",
+          "name": "Atmospheric Sciences",
+          "type": "FOR20"
+        },
+        {
+          "isPrimary": false,
+          "code": "370102",
+          "name": "Air Pollution Processes and Air Quality Measurement",
+          "type": "FOR20"
+        },
+        {
+          "isPrimary": false,
+          "code": "370103",
+          "name": "Atmospheric Aerosols",
+          "type": "FOR20"
+        },
+        {
+          "isPrimary": false,
+          "code": "370104",
+          "name": "Atmospheric Composition, Chemistry and Processes",
+          "type": "FOR20"
+        }
+      ],
+      "socio-economic-objective": [
+        {
+          "code": "180101",
+          "name": "Air Quality",
+          "type": "SEO20"
+        },
+        {
+          "code": "180102",
+          "name": "Atmospheric Composition (Incl. Greenhouse Gas Inventory)",
+          "type": "SEO20"
+        },
+        {
+          "code": "180103",
+          "name": "Atmospheric Processes and Dynamics",
+          "type": "SEO20"
+        }
+      ],
+      "international-collaboration": [],
+      "lief-register": [
+        {
+          "primaryItem": "Extractive Electrospray Ionisation Time of Flight Mass Spectrometer",
+          "isItemAvailable": true
+        },
+        {
+          "primaryItem": "High-resolution Time of Flight Aerosol Mass Spectrometer",
+          "isItemAvailable": true
+        }
+      ],
+      "achievement-summary": "This funding enabled procurement, commissioning and field- deployment of two high resolution time of flight mass spectrometers for real-time chemical characterisation of aerosols and their gaseous precursors. This advanced equipment addresses critical gaps in our understanding of atmospheric composition and the dynamics of atmospheric processes. Already collected datasets, and that to be gathered in future measurement campaigns, will advance climate science by supporting the development of more accurate climate models, ultimately contributing to better-informed responses to climate change.",
+      "national-interest-test-statement": "Aerosols are tiny airborne particles that are present in the air we breathe both indoors and outdoors. These aerosols profoundly influence outcomes both for climate and human health, such as recently experienced through the COVID-19 pandemic where airborne particles were shown to be vectors for transmission of disease. In both indoor and outdoor contexts, the chemical composition of aerosols is the major factor dictating outcomes for humanity and the environment. This project will enable real-time measurement of the chemical composition of aerosols using state-of-the-art instruments capable of characterising the particles in air across different environments and contexts. The expert analysis of data collected using these instruments will guide physical  (e.g., changes to building design to minimise particle-borne virus transmission) or policy-based (e.g., changes to fuel and vehicular standards to minimise particle emissions and improve air quality) interventions that will improve health, environmental  and climate outcomes for all Australians."
+    }
+  }
+}

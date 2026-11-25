@@ -1,0 +1,1570 @@
+{
+  "meta": {
+    "requested-page-number": 1,
+    "requested-page-size": 50,
+    "actual-page-size": 50,
+    "total-pages": 700,
+    "total-size": 34977,
+    "search-description": null,
+    "sort-by": ""
+  },
+  "links": {
+    "self": "http://dataportal.arc.gov.au/NCGP/API/grants?page%5Bnumber%5D=1&page%5Bsize%5D=50",
+    "first": "http://dataportal.arc.gov.au/NCGP/API/grants?page%5Bnumber%5D=1&page%5Bsize%5D=50",
+    "last": "http://dataportal.arc.gov.au/NCGP/API/grants?page%5Bnumber%5D=700&page%5Bsize%5D=50",
+    "prev": "http://dataportal.arc.gov.au/NCGP/API/grants?page%5Bnumber%5D=1&page%5Bsize%5D=50",
+    "next": "http://dataportal.arc.gov.au/NCGP/API/grants?page%5Bnumber%5D=2&page%5Bsize%5D=50"
+  },
+  "data": [
+    {
+      "type": "grants",
+      "id": "IH260100005",
+      "attributes": {
+        "code": "IH260100005",
+        "scheme-name": "Industrial Transformation Research Hubs",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "IH  ",
+          "program": "Linkage",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "IH26 Round 1"
+        },
+        "current-admin-organisation": "The University of Melbourne",
+        "announcement-admin-organisation": "The University of Melbourne",
+        "grant-summary": "ARC Research Hub for Productivity Acceleration in Construction Ecosystems. This research hub aims to transform construction productivity, cut waste/emission, and improve safety via resource-efficient and intelligent methods across design, manufacturing, site delivery, and operations. It is significant because Australia faces rising costs, labour shortages, approval delays, and the need to decarbonise buildings/infrastructure. Expected outcomes include new design tools, automated compliance and planning, human-robot worksites, low-carbon materials with traceability, and practical standards and training. Benefits are faster, safer, lower cost delivery and a more skilled workforce. Impact will be measurable reductions in time, cost, and emissions on real projects, supporting national housing and infrastructure needs.",
+        "lead-investigator": "Prof Tuan Ngo",
+        "current-funding-amount": 5012000,
+        "announced-funding-amount": 5000000,
+        "grant-status": "Active",
+        "primary-field-of-research": "4005 - Civil Engineering",
+        "anticipated-end-date": "2031-06-30",
+        "investigators": "Prof Hong Guan; Prof Tuan Ngo; Prof Ying Tan; Prof Yan Zhuge; Dr Jun-Jie Zeng; A/Prof Krista Ehinger; Prof Jun Li; Dr Yongze Song; Dr Jun Wang; A/Prof Wenchi Shou; A/Prof Behzad Rismanchi; Prof Huu-Tai Thai; Dr Davood Shojaei; Prof Rebecca Yang; Prof Christhina Candido; A/Prof Rackel San Nicolas; A/Prof Niharika Garud; Dr Dinh Xuan Bach Le; Mr Geoffrey Marsdon; Mr Jason Hughes; Mr Victor Mantilla; Mr Christopher Cole; Mr Damien Crough; Mr Qindong Li; Dr Dao Pham; Mr Aniruddha Chakraborty; Dr Linshan Bu; Dr Amir Soroush; Mr Lee Blackbourne; Mr Julian Featherston; Mr Benjamin Parker; Mr Thomas Bywater; Mr Vish Singh; Mr Andre De Godoy Nunes",
+        "lief-register": [],
+        "national-interest-test-statement": "In Australia productivity in the construction sector has been declining for decades, while demand for housing and infrastructure is increasing. Most of the sector has not adopted technological innovations, despite a shrinking labour force and lack of skilled workers. This sector has large carbon and waste footprints that are impeding our sustainable and net-zero goals. The ARC Research Hub for Productivity Acceleration in Construction Ecosystems connects engineers, architects and IT scientists with industry, government and peak bodies across Australia to address productivity along the entire construction lifecycle. It will develop building construction technologies, intelligent automation and decision support systems to link design with delivery, asset management and end-of-life using advances in digitalisation, robotics, and AI. It will increase adoption of these innovations and low-carbon solutions through workforce transformation and policy support. Faster, better and cleaner advances in on-site and off-site construction will improve sector productivity, safety, sustainability, efficiency and building maintenance. Worth 7% of Australia’s GDP, improvements in this sector will have enormous economic, commercial, environmental and social benefits, helping address the housing crisis. Hub results, tools, practices and policy briefs will be shared with industry and government via industry-led outreach programs and to the public via social and traditional media."
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/IH260100005"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "IH260100007",
+      "attributes": {
+        "code": "IH260100007",
+        "scheme-name": "Industrial Transformation Research Hubs",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "IH  ",
+          "program": "Linkage",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "IH26 Round 1"
+        },
+        "current-admin-organisation": "James Cook University",
+        "announcement-admin-organisation": "James Cook University",
+        "grant-summary": "ARC Research Hub for Next-Gen Tropical Aquaculture. The ARC ITRH for Next-Gen Tropical Aquaculture will tackle the biological challenges limiting sustainable tropical aquaculture production of seafood, such as variable growth, feed efficiency, stress, and disease. Current aquaculture systems rely on delayed or incomplete biological data, leaving issues poorly managed. By applying sensors, artificial intelligence, automation, and genomics, the Hub will enable real-time monitoring and prediction of biological performance. This will support better breeding, feeding, and health management, reducing costs and risks, improving animal welfare, and lowering environmental impacts. The Hub will strengthen northern Australia’s economy and establish the nation as a leader in sustainable aquaculture.",
+        "lead-investigator": "Prof Dean Jerry",
+        "current-funding-amount": 4875195,
+        "announced-funding-amount": 4863202,
+        "grant-status": "Active",
+        "primary-field-of-research": "3005 - Fisheries Sciences",
+        "anticipated-end-date": "2031-06-30",
+        "investigators": "Prof Dean Jerry; Prof Mostafa Rahimi Azghadi; Prof Benjamin Hayes; Prof Yvette Everingham; Dr Kelly Condon; A/Prof Bronson Philippa; Dr Jarrod Guppy; Dr Carla Chen; A/Prof Leo Nankervis; Dr Mark Cyrus; Dr Tao Huang; Prof Ronald White; Dr Connar McShane; Prof Kyall Zenger; Prof Andreas Lopata; Dr Gengkun Wang; A/Prof Yang Liu; Prof Natalie Stoeckl; A/Prof Satoshi Yamazaki; Dr Jing Wang; Mr Ethan Waters; Mr Jayce North; Mr Paul Stewart; Mr David Mann; Mr Tony Charles; Dr Paul Harrison; Mr Duncan Smith; Dr Richard Knuckey; Mr Nathan Cleasby",
+        "lief-register": [],
+        "national-interest-test-statement": "Australia’s aquaculture industry is critical for future food security, regional economies, & export competitiveness. This project will be focused on aquaculture of tropical species, such as barramundi, grouper, prawns, crayfish & pearls, which currently have an annual value of $372M that is expected to grow to $1.34B by 2030. Scientific & commercialisation outcomes of the project will be also applicable to other aquaculture industries in Australia & globally. Our industry partners estimate that the successful realization of the research objectives will result in savings to the northern Australian aquaculture of up to $5M annually. \n\nThe ARC Hub for Next-Gen Tropical Aquaculture will deliver the knowledge & tools needed to manage biological processes in real time, enabling proactive decisions that improve breeding, feeding, health, & marine environment management. This will reduce operational risks, cut waste, & enhance environmental resilience, directly benefiting industry & regional communities in northern Australia.\n\nNationally, the Hub aligns with government priorities in food security & environmental sustainability. Internationally, it positions Australia as a trusted leader in aquaculture innovation, opening opportunities for technology export & regional collaboration. By training the next generation of specialists, the Hub will build sovereign capability to produce high-quality seafood & to support industry growth, resilience, & competitiveness for decades to come.\n"
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/IH260100007"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "IH260100014",
+      "attributes": {
+        "code": "IH260100014",
+        "scheme-name": "Industrial Transformation Research Hubs",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "IH  ",
+          "program": "Linkage",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "IH26 Round 1"
+        },
+        "current-admin-organisation": "The University of Queensland",
+        "announcement-admin-organisation": "The University of Queensland",
+        "grant-summary": "ARC Research Hub for Quantum Safety Testing. Securing current IT systems from future quantum computing innovations that can easily decrypt sensitive data is critical for future-proofing and transforming Australia’s technology ecosystem to become a global leader in systems migration and quantum-resilient technologies. This research hub aims to develop automated security testing and certifications enabling critical infrastructure cybersecurity without increased burden. The expected outcomes are more secure ecosystems reducing cyberattack costs, estimated at $33 billion. The benefit is economic opportunity that is predicted to generate novel quantum safety testing and certifications enabling Australia to become a global leader in the automated testing industry valued at $45.6 billion. ",
+        "lead-investigator": "Prof Ryan Ko",
+        "current-funding-amount": 4918025,
+        "announced-funding-amount": 4906250,
+        "grant-status": "Active",
+        "primary-field-of-research": "4604 - Cybersecurity and Privacy",
+        "anticipated-end-date": "2031-06-30",
+        "investigators": "Prof Ryan Ko; A/Prof Sushmita Ruj; Dr Naipeng Dong; Dr Muhammed Esgin; Dr Karl Bertling; Prof Aleksandar Rakic; A/Prof Sergeja Slapnicar; Prof Ron Steinfeld; A/Prof Kayleen Manwaring; Dr Marc De Leeuw; A/Prof Dong Seong Kim; Dr Guowei Yang; Dr Priyanka Singh; Prof Michael Bruenig; Dr Elinor Tsen; Prof David Lacey; A/Prof David Ross; Dr Ivano Bongiovanni; Prof Dr Bart Preneel; Dr David Stockdale; Mrs Kitti Spinda; Prof Okyeon YI; Dr Hyunji Eom; Mr Alex Rizgalla; Mr JEE WEI TAN; Ms Michelle Chang; Mr Christopher Tam; Ms Sandra Roggeveen; Dr Arindam Pal; Dr Adrian Cernescu; Mr Jason Wood; Dr Dongha kim; Miss Emma Broadhead; Mr David Clarke; Mr Sean Rinas; Dr Luke Steller; Em/Prof Jonathan Katz; Mr Benjamin Di Marco",
+        "lief-register": [],
+        "national-interest-test-statement": "Most governments including the Australian Government are expecting that, by 2030, quantum computing will create vulnerabilities in existing security algorithms exposing industries to cyber risk at scale. However, securing and migrating industries to be quantum-resilient can be time-consuming and burdensome but is a necessary step to protect data and revenue. Our industry research hub will develop quantum-resilient automated testing and certification equipping Australian organisations with the ability to efficiently secure their data against future quantum computing-enabled threats while also providing Australia with an edge in the global automated testing industry. Research outcomes from this hub will accelerate the cyber security maturity of Australian companies and critical infrastructure (e.g., finance, data centres) future-proofing them against future quantum computing cyber threats. Our partners span the full range of research translation, from quantum computing and cyber security researchers through to end-users and partners, ensuring that developed testing and certification solutions can be quickly deployed and taken up by industry and society delivering world-leading quantum security and resilience."
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/IH260100014"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "IC260100006",
+      "attributes": {
+        "code": "IC260100006",
+        "scheme-name": "Industrial Transformation Training Centres",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "IC  ",
+          "program": "Linkage",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "IC26 Round 1"
+        },
+        "current-admin-organisation": "University of Technology Sydney",
+        "announcement-admin-organisation": "University of Technology Sydney",
+        "grant-summary": "ARC Training Centre for Sustainable Ground Stabilisation Technologies towards a Net-Zero Future for Strategic Infrastructure (ITTC-GeoStab). This Training Centre (ITTC-GeoStab) aims to transform infrastructure sector knowhow and practice through innovative sustainable ground stabilisation technologies that are core to the design and construction of resilient civil infrastructure. By delivering rigorous training of industry-focused researchers and professionals, the Centre will develop a highly skilled, industry-ready workforce alongside technological breakthrough. This dual focus will accelerate the shift to low-carbon, energy-efficient ground-stabilisation processes. The resulting R&D outputs will strengthen industry tools and capabilities to help Australia meet its emissions-reduction targets, while delivering substantial economic, environmental, and societal benefits.",
+        "lead-investigator": "Prof Buddhima Indraratna, AM",
+        "current-funding-amount": 5012000,
+        "announced-funding-amount": 5000000,
+        "grant-status": "Active",
+        "primary-field-of-research": "4005 - Civil Engineering",
+        "anticipated-end-date": "2031-06-30",
+        "investigators": "Prof Buddhima Indraratna, AM; Prof Anna Giacomini; Prof Abdelmalek Bouazza; Prof Arul Arulrajah; Prof Md Mizanur Rahman; Prof Christopher Chow; Dr Md Rajibul Karim; Dr Brendan Scott; Prof Cholachat Rujikiatkamjorn; Prof Olivia Mirza; Dr Christophe Camille; A/Prof Chaminda Gallage; Dr Sabrina Fawzia; Prof Ngamta Thamwattana; Prof Olivier Buzzi; Prof Jinsong Huang; A/Prof Klaus Thoeni; Dr Yujie Qi; Prof Biswajeet Pradhan; Prof Hadi Khabbaz; Prof Mohamed Shahin; Prof Yang Wang; Dr Thanh Nguyen; Dr Trung Ngo; Prof William Powrie; Prof Armin Stuedlein; Prof Xueyu Geng; Prof Dr Tatsuya Ishikawa; Prof Monica Prezzi; Dr Richard Kelly; Dr AHM Kamruzzaman; Dr AROORAN SOUNTHARARAJAH; Mr Alexandre Hubaut; Mr Adam Morrison; Mr Matthew Holloway; Mr James Grant; Dr Amir Shahkolahi; Mr Morne Breytenbach; Mr Tonny Gobrial; Dr Y Lin; Dr Wai On Leung; Dr Laricar Dominic Trani; Mr Mrigesh Tamang; Mr Stefano Pirrello; Dr Mahendra Samarawickrama; Mr Andrew Stephenson; Mr Derek Avalle; Mr Paul Amidy",
+        "lief-register": [],
+        "national-interest-test-statement": "Australia’s infrastructure sector must urgently decarbonise to meet the national Net Zero 2050 targets without compromising safety, durability or cost-effectiveness. ITTC-GeoStab will address this challenge by advancing sustainable ground stabilisation technologies to integrate low-carbon, energy-efficient and circular-economy practices. By transforming waste materials such as tyres, glass, plastics and mining byproducts into high-performance construction resources, the research will reduce landfill waste and embodied carbon, while creating new industrial value chains.\nThe research will generate clear national benefits by lowering construction and maintenance costs and extending the service life of roads, railways, and ports amid increasing climatic and loading conditions. Environmentally, the Centre will drive significant emissions reductions in civil work, while advancing sustainable resource use. It will further enhance safety, reliability, and connectivity across vital transport networks underpinning the nation’s economic resilience.\nITTC-GeoStab will drive rapid uptake of its innovations through close collaboration with industry, government, and professional bodies, and the tangible outcomes will be embedded in technical standards and design guides. Through targeted training programs and workshops, the Centre will help build a highly skilled, carbon-literate workforce, positioning Australia as a global leader in sustainable geoengineering and resilient infrastructure."
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/IC260100006"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "IC260100008",
+      "attributes": {
+        "code": "IC260100008",
+        "scheme-name": "Industrial Transformation Training Centres",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "IC  ",
+          "program": "Linkage",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "IC26 Round 1"
+        },
+        "current-admin-organisation": "The Australian National University",
+        "announcement-admin-organisation": "The Australian National University",
+        "grant-summary": "ARC Training Centre in Engineering Biology for Sustainable Materials. This Centre will address Australia’s urgent need for a sustainable materials workforce. This Centre will use Engineering Biology; a technology that programs microbes to build new materials and reduce petrochemical use. This Centre will unite universities with industry, government and investment partners. Researchers will be trained in science, regulation, business and policy to ensure innovations are market-ready. This Centre will transform bio-based manufacturing via interdisciplinary approaches aligned with national priorities. Outcomes include new biomaterials and industry-ready researchers. Benefits include an accelerated domestic bioeconomy, new future jobs and a workforce strengthening Australia’s sovereign biomanufacturing capacity.",
+        "lead-investigator": "Prof Adam Perriman",
+        "current-funding-amount": 4477857,
+        "announced-funding-amount": 4470151,
+        "grant-status": "Active",
+        "primary-field-of-research": "3101 - Biochemistry and Cell Biology",
+        "anticipated-end-date": "2031-06-30",
+        "investigators": "A/Prof Sierin Lim; Prof Adam Perriman; Prof Colin Jackson; Prof Ian Paulsen; Prof Amy Cain; Prof Nicolle Packer; Prof Noushin Nasiri; A/Prof Briardo Llorente; A/Prof Madeline Taylor; Prof Mohsen Asadnia; Dr Yosephine Gumulya; Dr Denys Villa Gomez; Prof Martie-Louise Verreynne; Prof Steven Pratt; Prof Damian Hine; A/Prof Xiaolin Wang; Prof Giuseppe Barca; Prof Luke Connal; Prof Caitlin Byrt; Prof Sujatha Raman; Prof Colin Scott; Dr Osman Kanwugu; Dr Pia Winberg; Dr Patrik Hollos; Dr Bronwyn Darlington; Dr Ming S. Liu; Dr Darren Plett; Dr Fathimath Hafna Ahmed",
+        "lief-register": [],
+        "national-interest-test-statement": "Australia’s transition toward a circular economy demands an immediate, systemic shift away from petrochemical dependence toward sustainable materials. The ARC Training Centre for Engineering Biology for Sustainable Materials (EBSM) addresses this national challenge by building the capability to design and produce new bioderived materials made using safe, renewable biological processes. The EBSM will combine expertise across microbiology, materials science, chemistry, economics and the humanities to engineer microbes and proteins for sustainable production of novel biomaterials.\nThis research will benefit Australians economically by strengthening advanced manufacturing, creating skilled jobs, and enabling local companies to compete in a global bio-based materials market. Environmentally, it supports national decarbonisation efforts by enabling low-carbon, biodegradable materials that reduce waste and pollution. Socially, it promotes responsible and transparent innovation through community engagement and clear regulatory guidance for new products.\nTo maximise adoption beyond academia, the EBSM will work closely with our innovative small business partners to train a specialised workforce with cross disciplinary expertise, and directly catalyse Australia’s shift toward a resilient, high-value economy."
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/IC260100008"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "IC260100020",
+      "attributes": {
+        "code": "IC260100020",
+        "scheme-name": "Industrial Transformation Training Centres",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "IC  ",
+          "program": "Linkage",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "IC26 Round 1"
+        },
+        "current-admin-organisation": "The University of Queensland",
+        "announcement-admin-organisation": "The University of Queensland",
+        "grant-summary": "ARC Training Centre for Advancing Capability in Biopesticides for Crops. The Adv-BioCrop Centre aims to address critical gaps in the capability, regulation and safe use of biopesticides. In doing so, the Centre will herald a transformative on-the-ground shift in how pests and diseases are managed in Australian agriculture through targeted training and industry capacity building rooted by strategic and applied research. While delivering on the urgent need for skilled professionals, the Centre will produce regulatory protocols reducing biopesticide product registration timelines by 30-50%; validated biological solutions to protect crop value; and technical guidelines supporting farmer adoption. Benefits include preserved Australian access to global markets, new commercial products, healthier foods and environment.",
+        "lead-investigator": "Prof Olufemi (Femi) Akinsanmi",
+        "current-funding-amount": 5012000,
+        "announced-funding-amount": 5000000,
+        "grant-status": "Active",
+        "primary-field-of-research": "3004 - Crop and Pasture Production",
+        "anticipated-end-date": "2031-06-30",
+        "investigators": "Prof Olufemi (Femi) Akinsanmi; Dr Zeinab Khalil; Prof Sandra Savocchia; Prof Sassan Asgari; Dr Severine van Bommel; Dr Anne Sawyer; Dr Benjamin Stodart; A/Prof Sudhir Yadav; Dr Zannie Langford; Dr Alison Kelly; Prof Dr Andre Drenth; Prof Andrew Geering; Prof Bradley Sherman; A/Prof Dharini Sivakumar; Ms Dominique Chen; Dr Donald Gardiner; Prof Geoff Gurr; Dr Jian Liu; Dr Kayvan Etebari; Dr Lilia Costa Carvalhais; Dr Mark Jackson; Prof Michael Furlong; Dr Run Zhang; Prof Victor Galea; Dr Xinyi Zhang; Prof Yasmina Sultanbawa; Dr Tiago Tomaz; Mr Andrew Doecke; Mr Nicholas Watts; Mr Jayce North; Mr Mark Peacock; Dr Miriam Villen King; A/Prof Mark Sosnowski; Prof Catherine Propper; Dr Thomas Hennessy; Ms Ashley Zamek; Dr Theunis Smit; Dr Andrew Taylor; Dr Julia Grassl; Dr Upendra Shekhawat; Dr Rebecca Roach; Ms Denise Bond; Mr Orville Hildebrand; Dr Dean Metcalf; Dr Louise Thatcher; A/Prof Pablo Cruz-Morales",
+        "lief-register": [],
+        "national-interest-test-statement": "Agriculture is an economic cornerstone in Australia, generating $71.5B in annual exports. Around 73% of production is currently enabled by crop protection products (mostly chemical)—increasing 53% in just 5 years. Climate change is expected to exacerbate and intensify threats, while widespread pesticide resistance is rendering current products obsolete and regulatory withdrawal of key chemical actives is closing off traditional solutions. International markets, which absorb over 70% of Australia's agriculture products, are also tightening pesticide restrictions. Without a fundamental shift in crop protection approach—from chemical to biological—Australia will face significant productivity losses, and risks ceding $3B in export markets to competitors. The Adv-BioCrop Centre amasses 21 strategic R&D, government and commercial partners to co-develop and directly integrate cutting-edge research that characterises novel biocontrol agents, develops and commercialises biopesticides, and produces highly skilled personnel, tools and validated biological crop protection approaches. This builds critical national capability for accelerated transformation in insect pest and disease management in Australian agriculture and more deeply seeds Australia in the global biopesticide market, projected to reach $10.9B by 2027. Australians will benefit from reduced pesticide residues in food and water, improved occupational safety for agricultural workers, and less polluted natural environments."
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/IC260100020"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "IC260100028",
+      "attributes": {
+        "code": "IC260100028",
+        "scheme-name": "Industrial Transformation Training Centres",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "IC  ",
+          "program": "Linkage",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "IC26 Round 1"
+        },
+        "current-admin-organisation": "The University of New South Wales",
+        "announcement-admin-organisation": "The University of New South Wales",
+        "grant-summary": "ARC Training Centre for Digital Architectural Translation: Accelerating Circularity Adoption. The Centre will generate specialised workforce capacity, platforms, practices and processes to accelerate the Australian architectural sector’s role in achieving national circularity targets. It will do this by leveraging advanced architectural, computational, and technical approaches to translate circularity insights into actionable forms (software, workflows, augmented intelligence and demonstrator projects) to drive real-world impacts.\nThrough its program of industry-embedded PhDs, national and international placements, industry-facing short courses, and post-doctoral projects, the Centre co-develops with industry the change agents needed to transform the architectural sector’s capability to meet our nation’s urgent circularity needs.",
+        "lead-investigator": "Prof Michael Ostwald",
+        "current-funding-amount": 4979487,
+        "announced-funding-amount": 4967615,
+        "grant-status": "Active",
+        "primary-field-of-research": "3301 - Architecture",
+        "anticipated-end-date": "2031-06-30",
+        "investigators": "Prof Michael Ostwald; Prof Dr Matthias Haeusler; Prof Tim Schork; Prof Jane Burry; Prof Ning Gu; A/Prof Devika Kannan; A/Prof Ruidong Chang; Dr Muhandiramge Nimashi Navodana Rodrigo; Dr Rongrong Yu; Em/Prof Kerrie Mengersen; Prof Tan Yigitcanlar; Dr Melissa Teo; Dr Mahdi Abolghasemi; Prof Blair Kuys; Prof Philip Oldfield; Prof George Shinkle; A/Prof Nicole Gardner; A/Prof Juhyun Lee; Dr Michael Bain; Dr Christian Criado-Perez; Dr Melodie Cartel; Dr Pantea Alambeigi; Dr Mehrnoush Latifi Khorasgani; Dr Mohamed Gomaa; Dr Daniel Prohasky; Dr Sascha Bohnenberger-Fehr; Ms Angelina Pillai; Ms Diane Jones; Mr Matthew Palmer; Mrs Helen Bell; Mrs Lucy Harris; Mr Neil Logan; Mrs Lyndal Macpherson; Dr Kirsten Orr; Mr Andrew Noonan; Mr Timothy Black; Ms Zhiyu Zhu; Ms Lisa McLean; Mr Steffen Welsch; Ms Jennifer Snyders; Prof Gerard Reinmuth; Mrs Karolina Faulkner; Ms Karmin Kenny; Ms Clare Kennedy; Mr Campbell Senz; Dr Amir Arjmand; Ms Ninotschka Titchkosky; Mr Stewart Monti; Ms Meaghan Dwyer; Dr William Liuyue Jiang; Mr Terry Tsapaliaris; Mr Farbod Fathalipouri; Mr John Ferendinos; Prof Robert (Bob) Sheil; Prof Jan Knippers; Prof Philip F. Yuan; A/Prof Paul Nicholas; Ms Mary Anne McGirr; Mr Warren Meyer; Dr Cameron Bruhn",
+        "lief-register": [],
+        "national-interest-test-statement": "The Australian Government’s Circular Economy Framework (2024) identifies the built environment as a priority for urgent transformation due to its high material use and waste generation. A central focus is investment in “design for circularity” as a key enabler for meeting national targets. Architects can drive this shift, as their decisions shape every stage of a building’s life. Yet they lack effective ways to translate Australia’s world-leading circular-economy research into practical design and construction methods.\n\nThe ARC Training Centre for Digital Architectural Translation: Accelerating Circularity Adoption will bridge this gap by turning theory into practice. It will deliver innovative training and create new software tools, workflows, and design-to-manufacturing processes to help architects reduce waste, reuse materials, support adaptation and refurbishment, and design for modularity and disassembly. Its industry-embedded postgraduates, targeted short courses, and practical solutions will help position the built environment as a central driver of Australia’s transition to a sustainable circular economy. These efforts are crucial in reducing the 29 Mt of construction waste produced each year in Australia.\n\nThe Centre’s aims and scope directly align with the National Reconstruction Fund’s ‘Enabling Capabilities’ and ‘Renewables and Low-Emissions Technologies’ priorities, as well as with the National Science and Research Priority’ Transitioning to a Net Zero Future’."
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/IC260100028"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "IH260100034",
+      "attributes": {
+        "code": "IH260100034",
+        "scheme-name": "Industrial Transformation Research Hubs",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "IH  ",
+          "program": "Linkage",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "IH26 Round 1"
+        },
+        "current-admin-organisation": "Queensland University of Technology",
+        "announcement-admin-organisation": "Queensland University of Technology",
+        "grant-summary": "ARC Research Hub for Safe and Ethical Humanoid Robot Implementation and Adoption. This project aims to ensure the safe and ethical use of humanoid robots in Australia’s care, construction, and manufacturing industries. It will bring researchers and industry together to test how these robots can support workers, reduce injury and labour shortages, and improve wellbeing and productivity. The intended outcome is practical guidance, standards, and design tools that make humanoids safe, trusted and beneficial in real workplaces. The expected benefits include stronger national capability, better workforce outcomes, and responsible adoption of emerging robotics technologies that enhance rather than replace human work.",
+        "lead-investigator": "Prof Jonathan Roberts",
+        "current-funding-amount": 5012000,
+        "announced-funding-amount": 5000000,
+        "grant-status": "Active",
+        "primary-field-of-research": "4203 - Health Services and Systems",
+        "anticipated-end-date": "2031-06-30",
+        "investigators": "Prof Jonathan Roberts; Prof Glenda Caldwell; Prof Mats Isaksson; Prof Penelope Williams; A/Prof David Hobbs; Prof Tania Leiman; A/Prof Nathan Caruana; A/Prof Elena Sitnikova; Dr Sara Howard; Prof John McCormick; Prof Clinton Fookes; Prof Evonne Miller; Prof Will Browne; Prof Eva Kyndt; Prof Nerina Jimmieson; Prof Rachael McDonald; Prof Hadi Ghaderi; Prof Prem Prakash Jayaraman; A/Prof Muge Fialho Leandro Alves Teixeira; Prof Jared Donovan; A/Prof Michael Guihot; A/Prof Timothy Rose; Prof Laurianne Sitbon; A/Prof Christopher Lehnert; Dr Krishna Manaswi Digumarti; A/Prof Tatheer Zahra; Dr Mitchell Adams; Dr Michelle Dunn; Dr Stephanie Hutchison; Dr Alan Burden; Dr Navinda Kottege; Mr Owen Teoh; Mr Jorge Henry; Ms Alicia Coombs Marr; Adj/Prof Tomasz Bednarz; Ms Samantha Prime; Mr Volker Richter; Dr Troy Cordie; Mr Ross Duncan; Mr Kristofer Armstrong; Mr James Christie; Dr Clare Dal Bon; Mr Christopher Mahar; Mr Joel Ferrie; Mr Justin Laboo; Mr Angus Dixon; Mr Vivek Aiyer; Mr Helder Carmo Lira; Mrs Liana Donleavy; Mr Lloyd Gainey",
+        "lief-register": [],
+        "national-interest-test-statement": "This project supports Australia’s people and economy by preparing the nation for the safe, ethical and productive adoption of humanoid robots across critical industries, including care, construction and manufacturing. These sectors face growing workforce shortages, safety risks and productivity pressures. Humanoids will soon be capable of working alongside people in real workplaces, yet there is little independent research on how to deploy them safely, train workers, or develop appropriate regulation. This project will deliver the evidence, design principles, and workforce tools needed to guide their responsible introduction.\n\nBy combining expertise from engineering, design, health, and the social sciences, the Hub will develop frameworks that protect workers, uphold community values, and ensure technology serves public benefit. Industry partners will use the research to improve safety, efficiency and workforce resilience, while government and regulators will gain clear standards for accountability, privacy and safety. The outcomes will build sovereign capability, attract international collaboration, and position Australia as a trusted global leader in responsible humanoid robotics. This work directly contributes to national priorities in advanced manufacturing, care innovation and building a secure, resilient nation."
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/IH260100034"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "IH260100035",
+      "attributes": {
+        "code": "IH260100035",
+        "scheme-name": "Industrial Transformation Research Hubs",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "IH  ",
+          "program": "Linkage",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "IH26 Round 1"
+        },
+        "current-admin-organisation": "The University of Queensland",
+        "announcement-admin-organisation": "The University of Queensland",
+        "grant-summary": "ARC Research Hub to Tackle Emerging Contaminants. This Hub aims to deliver fit-for-purpose, scalable and retrofit-ready technologies to address the challenge of emerging contaminants in the environment. The Hub expects to transform industry by developing innovative technologies, fast detection methods and advanced materials, supported by new business models. Expected outcomes include enhanced capabilities to secure a safe environment for both urban and rural communities, and improved health and wellbeing. The Hub will benefit Australia by opening up market opportunities for industry partners who are developing treatment technologies and sensors. The Hub will position Australia as a global leader in contaminant management and accelerate the national transition to a sustainable environment.",
+        "lead-investigator": "Prof Jianhua Guo",
+        "current-funding-amount": 5012000,
+        "announced-funding-amount": 5000000,
+        "grant-status": "Active",
+        "primary-field-of-research": "4004 - Chemical Engineering",
+        "anticipated-end-date": "2031-06-30",
+        "investigators": "Prof Jianhua Guo; Prof Nicholas Ashbolt; A/Prof Cheng Zhang; Prof Denis O'Carroll; Dr Xiaotao Jiang; Dr Ruth Fisher; Prof Frederic Leusch; Dr Ming Zhou; Prof Stefano Freguia; A/Prof Bradley Clarke; Dr Jake O'Brien; A/Prof Yichao Wang; A/Prof Gilda Carvalho; Dr Ji Lu; A/Prof Sonia Henriques; Dr Jiaying Li; Dr Zhigang Yu; Dr Zhiliang Wang; Dr Elvis Okoffo; Dr Kai Wang; Dr Marc Breulmann; Dr Michael Bartkow; Dr Gregory Jackson; Ms Zoe Rogers; Mr Jayce North; Dr William McCance; Dr Maedeh Nadimi; Mrs Lisa Kerr; Mr John STEVANONI; Dr Bicheng Yang; Dr Peter Graham; Mr YI LIU; Dr Hamid Moayyed; Mr Jiong Liu; Dr Ming Lei; Dr Yan Li; Dr Sivanesan Arumugam; Dr CHUAN HE; Mr KEAN WU; Dr Vernon Lu",
+        "lief-register": [],
+        "national-interest-test-statement": "Exposure to various emerging contaminants (e.g., antimicrobial resistance, per- and polyfluoroalkyl substances (PFAS), and micro/nanoplastics) has posed major threats to public health and ecosystem quality of Australia. The ARC Research Hub to Tackle Emerging Contaminants (ARC-TEC) aims to develop modular, scalable, and retrofit-ready technologies to address this critical challenge. Through developing advanced detection methods, innovative materials, and cutting-edge water/wastewater/biosolid treatment technologies, this Hub aims to efficiently achieve emerging contaminant removal and risk reduction with low chemical and energy demands. The Hub also aims to establish linkages between leading research groups and partner organisations to enhance the capabilities of Australian industry to address rapidly growing Australian and international challenges related to emerging contaminants in the environment. Our proposed business and practice model presents significant market opportunities and transformative potential for various stakeholders - including service and technology providers, manufacturing industry, and water industry - to become global leaders of novel detection and treatment technologies to address emerging contaminants. This ARC-TEC will bring significant economic, commercial, environmental, and social benefits to our Australian community, partner organisations, and end-users."
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/IH260100035"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "IC260100037",
+      "attributes": {
+        "code": "IC260100037",
+        "scheme-name": "Industrial Transformation Training Centres",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "IC  ",
+          "program": "Linkage",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "IC26 Round 1"
+        },
+        "current-admin-organisation": "The University of Queensland",
+        "announcement-admin-organisation": "The University of Queensland",
+        "grant-summary": "ARC Training Centre for Animal Reproductive Biotechnologies. The ARC Training Centre for Animal Reproductive Biotechnologies (CARB) connects leading academics and industry to deliver innovations to Australian livestock sectors. CARB aims to train the next generation of industry-ready researchers and deliver solutions for cattle, sheep, pig, and horse reproduction, required for sustainable food production, and biodiversity conservation.  \nExpected outcomes include a cohort of research students skilled in advanced reproductive biotechnologies, commercialisation, and adoption. By addressing critical skills shortages and targeting industry needs, CARB will drive higher fertility rates, on-farm efficiency, reduced emissions, faster genetic gain and strengthen Australia’s leadership in Agritech innovation.",
+        "lead-investigator": "A/Prof Marina Fortes",
+        "current-funding-amount": 4793171,
+        "announced-funding-amount": 4781171,
+        "grant-status": "Active",
+        "primary-field-of-research": "3003 - Animal Production",
+        "anticipated-end-date": "2031-06-30",
+        "investigators": "A/Prof Marina Fortes; Prof Simon de Graaf; A/Prof Anna Jenkins; Prof Timothy Mahony; A/Prof Zamira Gibb; Asst Prof Gry Boe-Hansen; Dr Andres Gambini; A/Prof Stephen Johnston; Dr Aleona Swegen; A/Prof Roslyn Bathgate; Dr Jessica Rickard; Prof Michael D'Occhio; Prof Sarah Robertson; Dr Taylor Pini; Dr Lisette Pregelj; A/Prof Sheila Ommeh; Dr Edgar Brea; Dr Rachel Stephenson; Dr Angela Lees; A/Prof Vitor Rodrigues Gomes Mercadante; Dr Lyndal Hulse; A/Prof Marloes Dekker Nitert; Prof Alicja Tabor; Dr Ashlee Medica; Dr Kieren McCosker; A/Prof Deanne Whitworth; Prof Michael McGowan; A/Prof Mariusz Skwarczynski; Mr Matias Suarez; Mrs Marie Ellul; Mr Jayce North; Dr Michael Pyne; Dr Charles Rikard-Bell; Dr Laercio Porto Neto; Dr Pablo Ross; Dr Jennifer Juengel; A/Prof Lindsay Wu; Dr Sophia Edwards; Mrs Elsie Vincent; Dr Muren Herrid; Dr Tiffany Wood; Ms Aline Teixeira; Mr Marcelo Gil Stiaque; Prof Alison Van Eenennaam; A/Prof Michael Laurence",
+        "lief-register": [],
+        "national-interest-test-statement": "Australia’s livestock industries underpin regional jobs, exports and food security, yet productivity and sustainability are constrained by skills shortages and slow adoption of reproductive biotechnologies. The ARC Training Centre for Animal Reproductive Biotechnologies (CARB) will build sovereign capability by training an industry-embedded workforce able to develop novel reproductive solutions, adapt technologies to Australian conditions, and deploy existing tools in ways that transform breeding efficiency and sustainability. Co-led by UQ with the University of Sydney and the University of Newcastle, and co-designed with 17 partner organisations, CARB aims to translate assisted reproduction, semen and embryo technologies, and gene editing into cost-effective protocols suited to Australian systems. Outcomes include higher pregnancy rates, improved animal welfare, accelerated genetic gains, facilitated spread of climate-resilient traits, and strengthened market competitiveness & food security.\n\nCARB’s integrated research, commercialisation and training programs align with Industrial Transformation Priorities in value-adding agriculture, enabling capabilities, and low-emissions technologies. By coupling frontier science with business model innovation, bio-entrepreneurship and adoption studies, CARB will deliver specialist workforce and technology pipeline that generates measurable economic, environmental and social benefits for producers, regional communities and biodiversity."
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/IC260100037"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "IC260100040",
+      "attributes": {
+        "code": "IC260100040",
+        "scheme-name": "Industrial Transformation Training Centres",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "IC  ",
+          "program": "Linkage",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "IC26 Round 1"
+        },
+        "current-admin-organisation": "The University of Western Australia",
+        "announcement-admin-organisation": "The University of Western Australia",
+        "grant-summary": "ARC Training Centre for Space Domain Awareness. A national research and training centre focused on space domain awareness will transform Australia’s ability to detect, track and characterise artificial and natural objects in Earth's space environment. The centre will advance and combine different sensing technologies and data-fusion methods, develop rapid hazard-assessment tools, and investigate the human and regulatory factors that support safe and responsible space operations. Intended outcomes include highly skilled graduates, new technologies for industry, and sovereign capability for managing satellites, space traffic, and space hazards. The anticipated benefits span national security, commercial growth, and broader community confidence in the reliable and sustainable use of space.",
+        "lead-investigator": "A/Prof David Coward",
+        "current-funding-amount": 5009054,
+        "announced-funding-amount": 4997076,
+        "grant-status": "Active",
+        "primary-field-of-research": "5109 - Space Sciences",
+        "anticipated-end-date": "2031-06-30",
+        "investigators": "A/Prof David Coward; Prof Danail Obreschkow; Prof Ed Kruzins; A/Prof Melrose Brown; A/Prof Lies Notebaert; Prof Simon Driver; Dr Guifré Molera Calvés; Adj/Prof Anthony Press; Dr David Gozzard; Prof Simon Ellingsen; Dr Edwin Gerardus Wilhelmus Peters; Mr John Moore; Dr George Bowden; Prof Dr Francis Chun; Dr Toshifumi Yanagisawa; Dr James Bennett; Mr Richard Tonello; Prof James Osborn; A/Prof Esa Kallio; Dr Eun Jung Choi; Ms Aditi Subramanya; Mr Harrison Phelps; Dr Mark Rutten; Mr Ben White; Dr Damith Abeywardana; Dr Jane Kaczmarek; Dr Hao Qiu; Prof James Arvanitakis; Mr Jacob Flentri; Dr Cornelius Chow II; Mr Johann Bell; Mr Matthew Dilkes",
+        "lief-register": [],
+        "national-interest-test-statement": "Australia relies on satellites for communication, navigation, weather services, transport, emergency response and national security. Yet the space around Earth is becoming increasingly crowded with satellites, debris and natural objects. This creates growing risks to systems relied on by all Australians. Although Australia sits in one of the most valuable locations on the planet for observing space, it does not yet have a coordinated national program that brings together the research capability and skilled workforce needed to detect and understand these objects. At the same time, international partners are seeking Australian data because our unique southern-hemisphere coverage fills critical gaps in global space-tracking networks.\n\nThis new centre responds directly to this national opportunity and international need. It will advance new sensing technologies, real-time data-fusion methods and rapid hazard-assessment tools, while also examining the human and regulatory factors that support safe and responsible space operations. Benefits to Australians include more reliable satellite services, stronger national security, new commercial opportunities and the development of a highly skilled workforce for a fast-growing global industry.\n\nTo maximise adoption, the centre will work closely with industry, government and international partners, promote outcomes through national training and outreach, and release tools and methods where appropriate to deliver broad community benefit."
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/IC260100040"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "IC260100045",
+      "attributes": {
+        "code": "IC260100045",
+        "scheme-name": "Industrial Transformation Training Centres",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "IC  ",
+          "program": "Linkage",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "IC26 Round 1"
+        },
+        "current-admin-organisation": "Macquarie University",
+        "announcement-admin-organisation": "Macquarie University",
+        "grant-summary": "ARC Training Centre for Advanced Integrated Circuits. This Centre aims to transform Australia's technology sector industries by training a new generation of research and design leaders in mixed-signal advanced integrated circuits (ICs). The Centre expects to foster innovative research, co-developing next-generation technologies with industry, and provide unprecedented infrastructure support and training. Expected outcomes include new IC designs that will enable our digital future. This should provide significant benefits across a broad spectrum of industry sectors and applications including wireless and satellite communications, quantum systems, consumer electronics, and future medical devices. It will foster a skilled workforce of future leaders crucial for Australia’s economic development.",
+        "lead-investigator": "Prof Iain Collings",
+        "current-funding-amount": 5000000,
+        "announced-funding-amount": 5000000,
+        "grant-status": "Not yet accepted",
+        "primary-field-of-research": "4009 - Electronics, Sensors and Digital Hardware",
+        "anticipated-end-date": "",
+        "investigators": "",
+        "lief-register": [],
+        "national-interest-test-statement": "Australia risks being left behind in the integrated circuit (IC) revolution, with the global IC market projected to exceed USD 1 trillion by 2030, assuming continued research development breakthroughs. ICs are a key Enabling Capability for all advanced economies. This Centre will address industry’s growing need for skilled IC design engineers and research innovation. This will positively impact Australia’s economic resilience and national security. The expected outcomes of the Centre include a new cohort of industry-ready skilled IC leaders who will drive IC designs that are faster, smaller, and more energy-efficient, as well as new automated IC design processes and new licensed IP. They will deliver new technologies in wireless and satellite communications, quantum systems, consumer electronics, and future medical devices. This Centre will be unique in Australia and will especially support growth in small to medium enterprises (SMEs) and new entrants to the IC market. By prioritising design and IP creation, SMEs can capture the most profitable segment of the semiconductor value chain, without prohibitive infrastructure costs. Case studies from this Centre will be used to promote career opportunities to STEM graduates through public outreach events targeting schools and career fairs.  "
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/IC260100045"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "IH260100040",
+      "attributes": {
+        "code": "IH260100040",
+        "scheme-name": "Industrial Transformation Research Hubs",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "IH  ",
+          "program": "Linkage",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "IH26 Round 1"
+        },
+        "current-admin-organisation": "The University of New South Wales",
+        "announcement-admin-organisation": "The University of New South Wales",
+        "grant-summary": "ARC Research Hub for AI-Powered Resilient Cities. This Research Hub will establish a world-leading capability in agentic artificial intelligence using multimodal geospatial data to enhance national resilience across transport, energy, and urban systems. It will enable real-time decision support and long-term scenario planning towards resilient cities. By integrating multimodal data, causal reasoning, and participatory planning, the Hub will create an end-to-end ecosystem that moves beyond prediction to reasoning, planning, and coordinated action, supporting real-time operational intelligence and long-horizon resilient planning. It will deliver significant economic, environmental, and societal benefits, safeguarding cities, communities, and critical systems against future disruptions.",
+        "lead-investigator": "Prof Flora Salim",
+        "current-funding-amount": 5012000,
+        "announced-funding-amount": 5000000,
+        "grant-status": "Active",
+        "primary-field-of-research": "4605 - Data Management and Data Science",
+        "anticipated-end-date": "2031-06-30",
+        "investigators": "Prof Flora Salim; Prof Vinayak Dixit; Prof Shirui Pan; Dr Ming Jin; Prof Xinghuo Yu; Prof Christopher Pettit; Prof Toby Walsh; Prof Sanjay Jha; Prof Nasser Khalili; Prof Benjamin Newell; A/Prof Meead Saberi; A/Prof Negin Nazarian; Dr Hao Xue; A/Prof Andy Song; Dr Damiano Spina; Dr Huaming Chen; Prof Kimberlee Weatherall; Dr Tingru Cui; A/Prof Jianzhong Qi; Prof Egemen Tanin; Prof Majid Sarvi; A/Prof Renata Borovica-Gajic; Dr Aditya Joshi; Dr Benjamin Tag; Dr Mike Harris; Mr Dan Mons; Dr Mo Sarwat; Ms Sherri Fields; Ms Melinda Dewsnap; Mr Timothy Lim; Mr Syed Ahmed; Mr Gareth Birch; Dr Ronny Kutadinata; Ms Stacey Ryan; Dr Martin Rice; Mr Adrian Schoenig; Mr David Lillo-Trynes; Mr Sam Romaniuk; Dr Gareth Swarbrick; Mr Jian Liang; Mr Martin Williams; Dr Arina Tang; Dr Yongjian (Roger) Chen; Mrs Kaitlin Lee",
+        "lief-register": [],
+        "national-interest-test-statement": "This research project will help Australia better prepare for the unexpected by using artificial intelligence (AI) to understand and respond to complex, unpredictable challenges. The project aims to build intelligent systems that can detect and adapt to emerging threats, those we don’t yet know or fully understand. These “unknown unknowns” could include sudden infrastructure failures, unexpected shifts in urban mobility, or disruptions caused by new technologies or social behaviours. By analysing large volumes of real-world data, the AI models and agentic systems will support fast decision-making and long-term planning across transport, energy, and urban systems. This Hub unifies partners across academia, government, and industry to co-develop open, adaptive, and explainable AI systems that transform decision-making across transport, energy, and urban infrastructure. The Hub pioneers sovereign foundation models, simulation frameworks, and participatory design platforms that enable policy and operational coordination between agencies and sectors. The outcomes will benefit Australia economically by reducing the cost of reactive responses, socially by improving public safety and service delivery, and environmentally by enabling smarter infrastructure design. This research ensures public funds are invested in future-ready solutions that protect communities and help governments and industries stay ahead of change."
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/IH260100040"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "IH260100041",
+      "attributes": {
+        "code": "IH260100041",
+        "scheme-name": "Industrial Transformation Research Hubs",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "IH  ",
+          "program": "Linkage",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "IH26 Round 1"
+        },
+        "current-admin-organisation": "The University of Queensland",
+        "announcement-admin-organisation": "The University of Queensland",
+        "grant-summary": "ARC Research Hub for Sustainable and Climate Smart Wastewater Solutions (SUCCESS) . Australia’s wastewater sector provides critical infrastructure that supports Australians' daily life. Yet, the already over-burdened sector lacks the capability to align with net-zero targets while providing reliable, cost-effective services. This Hub aims to use the challenge of greenhouse gas emissions as a catalyst to rethink entire interconnected wastewater systems. The Hub brings together universities, industry and community partners to develop new treatment solutions and digital tools that support better decisions, informing the upcoming once-in-a-generation opportunity to reshape Australia’s water systems. Hub innovations will deliver long-term benefits, including reduced pollution, lower energy use, and revitalised infrastructure.",
+        "lead-investigator": "Prof Liu Ye",
+        "current-funding-amount": 5011998,
+        "announced-funding-amount": 4999998,
+        "grant-status": "Active",
+        "primary-field-of-research": "4004 - Chemical Engineering",
+        "anticipated-end-date": "2031-06-30",
+        "investigators": "Prof Liu Ye; Prof Shihu Hu; Prof Shaobin Wang; Prof Xiaoguang Duan; Prof Deli Chen; Dr Mei Bai; Dr Clayton Butterly; Prof Zi Huang; Dr Sebastian Hörning; Dr Kaili Li; A/Prof Adrian Oehmen; Dr Zhiyao Wang; Dr Alistair Grinham; Prof Dirk Erler; Em/Prof Jurg Keller; Dr Jennifer Leigh Campbell; Dr Jurij Karlovsek; Dr Jiuling Li; Dr Ruihong Qiu; Mr Elliot Lee; Dr Peter Wardrop; Mr Vincent Bianchini; Mr Jason Mingo; Dr Petra Reeve; M. Clare Idriss; Dr Deepak Surendhra Mallya; Dr Jason Dwyer; Dr Maedeh Nadimi; Mr Liam Owen; Dr Romain Lemaire; Mr Kevan Brian; Mr Hamid reza Sokhan shirin; Dr Tao Li; Prof George Wells; Prof Dr Konrad Koch; Prof Yan Zhou",
+        "lief-register": [],
+        "national-interest-test-statement": "Treating billions of litres of wastewater every day, our national utilities critically support public health, environmental protection and community liveability. However, Australia’s already over-burdened wastewater systems, which are large energy users and a major source of methane and nitrous oxide, are poorly equipped for meeting national net-zero targets. This Hub leverages an impressive collaboration of 22 universities, water utilities, technology companies and community partners to co-develop and deliver low-emissions, climate-smart urban water services through embedded mitigation in day-to-day operations, investment planning, and cross-sector interfaces with intelligent digital agents. Importantly, the Hub aligns precisely with major investment and planning cycles that Australian utilities will undertake over the next decade. Hub outputs will contribute directly to national climate resilience, economic productivity and community wellbeing. Hub innovations are expected to offer benefits to Australia, such as 10-25% savings to the sector on capital and operational/maintenance costs; adaptive controls to reduce N2O emissions by 20–40%; and local manufacturing and commercialisation opportunities for new technologies in growing domestic and international markets, such as the treatment solutions market expected to exceed $364B by 2029. The Hub will further deliver national capacity and help build a resilient workforce ready to support Australia’s net-zero transition. "
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/IH260100041"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "IH260100044",
+      "attributes": {
+        "code": "IH260100044",
+        "scheme-name": "Industrial Transformation Research Hubs",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "IH  ",
+          "program": "Linkage",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "IH26 Round 1"
+        },
+        "current-admin-organisation": "RMIT University",
+        "announcement-admin-organisation": "RMIT University",
+        "grant-summary": "ARC Research Hub for Recovering Energy and New Resources from Organics. The RENEW Organics Hub aims to create new ways to turn organic waste that currently goes to landfill into useful and safe products for farms, industry and clean energy. Many organic waste streams contain contaminants that make reuse difficult. The Hub will create safe, science-based methods to recover carbon, nutrients and energy by understanding contaminant behaviour and how they can be removed, neutralised or used safely. Working with industry, government and communities, it will deliver new processes, clear standards and trusted products that support jobs, protect the environment and advance Australia’s shift to a cleaner, circular, low-emission future while supporting key national priorities in waste, agriculture and clean energy.",
+        "lead-investigator": "Prof Kalpit Shah",
+        "current-funding-amount": 4911760,
+        "announced-funding-amount": 4900000,
+        "grant-status": "Active",
+        "primary-field-of-research": "4011 - Environmental Engineering",
+        "anticipated-end-date": "2031-06-30",
+        "investigators": "Dr Yun Yu; Prof Kalpit Shah; Prof Andrew Ball; Prof Damien Batstone; Dr Zhiyao Wang; A/Prof Dana Cordell; Prof Qilin Wang; Dr Melita Jazbec; Prof Matthew Kearnes; Prof Denis O'Carroll; Prof Richard Stuetz; Prof Heidi Norman; Dr Sasha Jenkins; Dr Bede Mickan; A/Prof Tejas Bhatelia; Dr Chamila Gunasekara; A/Prof Mahdokht Shaibani; Dr Barry Warwick; Dr David Bergmann; Mr Jason Sylvester; Mr Jason Mingo; Dr Sophie Bourgues; Dr Michael Thomas; Dr Aravind Surapaneni; Ms Johanna Johnson; Dr Marc Breulmann; Mr Timothy Richards; Mr John Mckew; Mr Bret Ryan; Miss Lauren Smith; Ms Lisa McLean; Mr Alejandro Jantus; Mr Kudachchige Asanga Geethanjana De Alwis; Mr Vlad Finn; Mr Nikhil David; Adj/Prof Sam Rudd; Mr Patrick Quin; Mr Jacob Cassar; Mr Jason Cotton; Prof Madhu Khanna; Em/Prof Johan Sanders; Prof Sushil Adhikari",
+        "lief-register": [],
+        "national-interest-test-statement": "Australia generates over 14 million tonnes of organic waste each year, with 6.8 million tonnes still sent to landfill, producing methane emissions and losing valuable carbon, nutrients and energy. A major barrier to reuse is the presence of contaminants. Some contaminants could add value to new products, but only if their behaviour is understood and safely re-engineered. Australia lacks the contaminant-fate data, predictive models and risk frameworks needed to know when contaminants should be destroyed, immobilised or repurposed during thermal, chemical and biological processing.\n\nThe RENEW Organics Hub will address these gaps by creating Australia’s first contaminant-adaptive circular-manufacturing platform. Working with water utilities, councils, regulators, policy makers and industry, the Hub will generate new evidence, contaminant-fate models, scalability analysis and life-cycle data to support safe production of advanced carbon materials, fertilisers and clean fuels from complex wastes.\n\nRENEW supports the National Waste Policy Action Plan, Circular Economy Framework and Net Zero targets. Outcomes will be promoted through government briefings, regulatory guidance, industry reports and co-designed public engagement programs. By providing the missing scientific evidence and translating it into policy and practice, RENEW will turn environmental liabilities into circular assets that reduce emissions, create regional jobs and strengthen Australia’s resource security."
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/IH260100044"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "IH260100045",
+      "attributes": {
+        "code": "IH260100045",
+        "scheme-name": "Industrial Transformation Research Hubs",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "IH  ",
+          "program": "Linkage",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "IH26 Round 1"
+        },
+        "current-admin-organisation": "The Australian National University",
+        "announcement-admin-organisation": "The Australian National University",
+        "grant-summary": "ARC Research Hub: Geodynamic Pathways to Critical Resources (GeoPath) . The ARC Research Hub for Geodynamic Pathways to Critical Resources (GeoPath) will create a Virtual Earth for Resources to reveal how, where and why mineral systems form and persist through time. It will link deep Earth dynamics to surface processes and use AI to predict new mineral potential by combining plate reconstructions, mantle and landscape models, and data fusion tools. Working with industry, government and international partners, the Hub will reduce exploration risk and cost, support responsible resource discovery, and train a new generation of researchers skilled in geoscience, data analytics and decision science, strengthening Australia's resilience and supporting the global clean-energy transition.",
+        "lead-investigator": "Prof Rhodri Davies",
+        "current-funding-amount": 3668085,
+        "announced-funding-amount": 3660405,
+        "grant-status": "Active",
+        "primary-field-of-research": "3706 - Geophysics",
+        "anticipated-end-date": "2031-06-30",
+        "investigators": "Prof Rhodri Davies; Dr Grace Shephard; Prof Dietmar Muller; A/Prof Maria Seton; Dr Samuel Boone; Prof Alan Collins; Prof Carl Spandler; Dr Laura Morrissey; Dr Andrew Merdith; Prof Anya Reading; A/Prof Simon Williams; Dr Matthew Cracknell; Dr Sheree Armistead; Dr Mark Hoggard; Em/Prof Malcolm Sambridge; Dr Siavash Ghelichkhan; Prof Peter Yu; Prof Nicholas Bainton; Dr Karol Czarnota; Dr Michael Tetley; Dr Rebecca Sproule; Ms Helen Smith; Prof Saskia Goes; Prof Benjamin Mills; Dr Huaiyu Yuan; Dr David Kelsey; Dr Carmen Krapf; Ms Ho Sonia Yeung; Mr David Purdy; Dr Vladimir Lisitsin; Dr Timothy Rawling; Dr Timothy Jones; Mr Satyam Pratap Singh; Dr Hooshang Asadi Haroni",
+        "lief-register": [],
+        "national-interest-test-statement": "The ARC Research Hub for Geodynamic Pathways to Critical Resources (GeoPath) will enhance Australia's ability to discover and responsibly develop the minerals essential for a secure, low-carbon and strategically independent future. Copper and other critical minerals underpin renewable-energy technologies, defence capability, and advanced manufacturing, from batteries and satellites to telecommunications and electric vehicles. Yet discovery rates are falling as near-surface deposits are exhausted. GeoPath will combine deep-Earth modelling, surface-process simulations and artificial intelligence to predict where new resources are most likely to occur, reducing exploration risk, cost and environmental impact.\n\nThe Hub will unite Australian universities, government agencies and industry partners to create a national \"Virtual Earth for Resources\" -- an open, digital framework for predictive geoscience that connects deep-time Earth processes to modern exploration. This collaboration will position Australia as a global leader in responsible resource discovery, strengthen critical-minerals supply chains, and build sovereign capability vital for energy and defence security. GeoPath will also train a new generation of researchers skilled in geoscience, data analytics and decision science, expanding national expertise and diversity. The outcomes will advance national priorities on the net-zero transition, economic resilience, and the protection of Australia’s strategic interests."
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/IH260100045"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "IC260100050",
+      "attributes": {
+        "code": "IC260100050",
+        "scheme-name": "Industrial Transformation Training Centres",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "IC  ",
+          "program": "Linkage",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "IC26 Round 1"
+        },
+        "current-admin-organisation": "Deakin University",
+        "announcement-admin-organisation": "Deakin University",
+        "grant-summary": "ARC Training Centre for AI Governance, Oversight and Assurance. This ARC Training Centre for AI Governance, Oversight and Assurance aims to train a specialised workforce and advance safe, secure and privacy-preserving AI in critical sectors. Its significance lies in addressing Australia’s need for trustworthy AI and expertise in governance, assurance, certification and human-AI teaming. Expected outcomes include practical frameworks, tools and testbeds for transparent, compliant and resilient AI. The Centre will benefit partners through safer deployment and reduced systemic risk and its research impact will position Australia as a leader in responsible, standards-aligned, sovereign AI technologies.",
+        "lead-investigator": "Prof Sunil Gupta",
+        "current-funding-amount": 4986391,
+        "announced-funding-amount": 4986391,
+        "grant-status": "Not yet accepted",
+        "primary-field-of-research": "4608 - Human-Centred Computing",
+        "anticipated-end-date": "",
+        "investigators": "",
+        "lief-register": [],
+        "national-interest-test-statement": "Artificial intelligence (AI) is rapidly being adopted everywhere including critical sectors such as defence, healthcare and Finance, where reliability and safety are paramount. However, Australia currently lacks the frameworks, tools, and skilled workforce needed to ensure these AI systems can be tested, certified, and deployed with confidence.\nThis ARC Training Centre for AI Governance, Oversight and Assurance will address this gap by developing practical methods to translate regulatory and safety requirements into technical processes that organisations can apply in real-world settings. Through collaboration with industry, government, and regulators, the Centre will create controlled test environments, assurance tools, and national frameworks that enable AI to be responsibly operationalised in high-stakes applications.\nBy building sovereign capability and training workforce who can bridge technology, safety, and regulation, the Centre will strengthen Australia’s ability to deploy advanced AI systems safely and at scale. These outcomes will enhance the performance and resilience of key national sectors, reduce risks from AI failure or misuse, and support innovation and productivity across the economy."
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/IC260100050"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "FT260100001",
+      "attributes": {
+        "code": "FT260100001",
+        "scheme-name": "ARC Future Fellowships",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "FT  ",
+          "program": "Discovery",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "FT26 Round 1"
+        },
+        "current-admin-organisation": "The University of Melbourne",
+        "announcement-admin-organisation": "The University of Melbourne",
+        "grant-summary": "A novel integrated framework to study bacterial metabolism . This project will decipher how bacteria maintain metabolic homeostasis. Using an integrated approach that combines insights from enzyme chemistry with multi-omics datasets, it will study how bacteria regulate nutrient use to balance energy production and biosynthesis under changing conditions. The outcomes will include textbook-level knowledge of bacterial metabolism, revealing weak points in the metabolic network, and allowing us to explain and predict how bacteria adapt to nutrient stress. This innovative approach will set a new standard for linking how enzymes work with how cells behave. In the long term, the insights will inform antibiotic development and microbial engineering, strengthening Australia’s health and biotech capabilities.",
+        "lead-investigator": "Dr Ivanhoe Leung",
+        "current-funding-amount": 1170067,
+        "announced-funding-amount": 1166563,
+        "grant-status": "Active",
+        "primary-field-of-research": "3404 - Medicinal and Biomolecular Chemistry",
+        "anticipated-end-date": "2030-06-30",
+        "investigators": "Dr Ivanhoe Leung",
+        "lief-register": [],
+        "national-interest-test-statement": "Bacteria are essential to life on Earth, sustaining ecosystems, driving industrial processes and affecting human health. However, we still know very little about how bacteria control the use of nutrients that keep them alive. This lack of understanding limits our ability to harness their potential and manage their risks. This project will address this gap by uncovering how the bacteria that cause tuberculosis manage nutrient allocation and use under changing conditions. Understanding these processes will help Australia tackle challenges across multiple sectors. In health, it could lead to new strategies for treating infections such as tuberculosis, which disproportionately affects indigenous and migrant communities. In agriculture, it could contribute to controlling tuberculosis affecting livestock, potentially benefiting animal health, improving farming productivity and supporting an industry vital to Australia. In biotechnology, potential advances include sustainable manufacturing by improving microbial systems for water treatment, waste recycling and bio-based manufacturing. This project will also provide world-class training to the next generation of scientists. The results will be shared beyond academia through partnerships with industry, open-access data and public engagement. It will strengthen Australia’s capabilities in health, sustainability and biotechnology, while deepening our understanding of the fundamental biology that underpins these national priorities."
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/FT260100001"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "FT260100002",
+      "attributes": {
+        "code": "FT260100002",
+        "scheme-name": "ARC Future Fellowships",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "FT  ",
+          "program": "Discovery",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "FT26 Round 1"
+        },
+        "current-admin-organisation": "The University of New South Wales",
+        "announcement-admin-organisation": "The University of New South Wales",
+        "grant-summary": "Climate change of the future constrained by the deep past. Future projections of climate change are similar to greenhouse conditions that the Earth last experienced more than 5 million years ago. These past greenhouse worlds had strong polar warming, which is not accurately reproduced by climate models. This project aims to improve simulations of past climate change that represent analogues of future climate change under medium and high emissions scenarios. Expected outcomes include improved paleoclimate reconstructions, more accurate polar warming and ocean circulation, and better constraints on future climate change. These outcomes should improve Australia’s capacity in climate modelling, and an improved understanding of cloud radiative forcing in past and future climates.",
+        "lead-investigator": "Dr David Hutchinson",
+        "current-funding-amount": 1008032,
+        "announced-funding-amount": 1005016,
+        "grant-status": "Active",
+        "primary-field-of-research": "3709 - Physical Geography and Environmental Geoscience",
+        "anticipated-end-date": "2031-01-31",
+        "investigators": "Dr David Hutchinson",
+        "lief-register": [],
+        "national-interest-test-statement": "Climate change is one of Australia's most significant challenges, which affects our environment, health, economy and security. We rely on climate model projections to give accurate estimates of our long-term future, so that we can plan for, mitigate and adapt to future climate scenarios and their impact on society. Climate models are generally tested and tuned against historical observations of climate and weather. This means that they are not as well-tested or as accurate when compared with long-term geological records. However, future climate change scenarios are likely to resemble warm climates of the past, meaning it is crucial to be able to accurately explain and model past warm climates to give confidence in future projections. This project is expected to improve our understanding of past warm climates, especially in modelling the strong polar warming that is found in geological records. These outcomes will help to better understand future climate change, and the impact of enhanced polar warming on the ice sheets."
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/FT260100002"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "FT260100003",
+      "attributes": {
+        "code": "FT260100003",
+        "scheme-name": "ARC Future Fellowships",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "FT  ",
+          "program": "Discovery",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "FT26 Round 1"
+        },
+        "current-admin-organisation": "The University of New South Wales",
+        "announcement-admin-organisation": "The University of New South Wales",
+        "grant-summary": "Nitrate-to-Ammonia Conversion for Circular Nitrogen Management. This project aims to develop a biological-chemical process to transform nitrate, a widespread pollutant, into valuable ammonia. Ammonia plays a vital role in food production and is increasingly recognised as a potential clean fuel. The project will investigate the microbial mechanisms driving nitrate-to-ammonia conversion and design an integrated treatment system to recover ammonia from nitrate-laden waste streams. Expected outcomes include uncovering fundamental microbial mechanisms and developing an innovative biochemical process for green ammonia recovery, with reduced nitrate pollution. The benefits include reduced environmental impacts and new opportunities for circular economy practices in agriculture, energy and the environment.",
+        "lead-investigator": "Prof Min Zheng",
+        "current-funding-amount": 1332296,
+        "announced-funding-amount": 1328307,
+        "grant-status": "Active",
+        "primary-field-of-research": "4011 - Environmental Engineering",
+        "anticipated-end-date": "2031-06-27",
+        "investigators": "Prof Min Zheng",
+        "lief-register": [],
+        "national-interest-test-statement": "Ammonia is one of the most important chemicals in Australia’s economy, underpinning agriculture and increasingly recognised as a potential clean fuel in the energy sector. However, almost all ammonia today is produced by the Haber–Bosch process, which is highly energy-intensive and contributes substantially to global carbon dioxide emissions. At the same time, nitrate pollution from agriculture, industry, and wastewater poses ongoing risks to Australia’s waterways, ecosystems, and public health. This project directly addresses these two challenges by creating a new pathway to recover green ammonia from nitrate waste streams. The process will transform nitrate, currently managed as a costly pollutant, into a valuable ammonia product. If successful, the technology will reduce energy consumption, lower greenhouse gas emissions, and support Australia’s transition to a circular economy. It will also help reduce the environmental and social impacts of nitrate pollution, benefiting communities by protecting water quality. To maximise real-world impact, research outcomes will be promoted through industry partners, government agencies, and water utilities. Public communication will include workshops, demonstration projects, and outreach through media and community engagement programs. These activities will enhance awareness, accelerate technology translation, and support adoption by sectors critical to Australia’s clean energy and environmental sustainability goals."
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/FT260100003"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "FT260100005",
+      "attributes": {
+        "code": "FT260100005",
+        "scheme-name": "ARC Future Fellowships",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "FT  ",
+          "program": "Discovery",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "FT26 Round 1"
+        },
+        "current-admin-organisation": "The Australian National University",
+        "announcement-admin-organisation": "The Australian National University",
+        "grant-summary": "Climate risks of a slowdown in Southern Ocean heat and carbon uptake. The Southern Ocean absorbs much of the excess heat and carbon released by human activity, slowing atmospheric warming and moderating extreme weather. However, there is a risk these ocean sinks of heat and carbon are not secure and could slow down as the ocean warms and becomes more acidic. Climate model projections are highly uncertain, which complicates adaptation planning. Using Australia’s next-generation ocean model, this project will develop new fundamental understanding of the complex ocean processes that control how the Southern Ocean takes up and stores heat and carbon. This will deliver more reliable projections of future climate and sea level, informing Australia’s planning for climate adaptation and coastal resilience.",
+        "lead-investigator": "Dr Adele Morrison",
+        "current-funding-amount": 1163869,
+        "announced-funding-amount": 1160364,
+        "grant-status": "Active",
+        "primary-field-of-research": "3708 - Oceanography",
+        "anticipated-end-date": "2030-06-30",
+        "investigators": "Dr Adele Morrison",
+        "lief-register": [],
+        "national-interest-test-statement": "The Southern Ocean absorbs much of the excess heat and carbon released by human activity, acting as a crucial buffer of climate change and slowing atmospheric warming. However, there is a risk that this buffering capacity may not be secure. As the ocean warms and becomes more acidic, its absorption of heat and carbon could slow down this century and amplify warming of the atmosphere. Reliable projections of future climate are essential for national planning, yet climate models differ widely in how much heat and carbon they predict the Southern Ocean will absorb. \nThis project will use Australia’s next-generation ocean model to develop fundamental understanding of the processes that govern how the Southern Ocean takes up, stores, and releases heat and carbon. It will examine how circulation, mixing, and fine-scale flows interact to shape this storage, how long heat and carbon remain sequestered, and how these processes respond to future climate change. \nBy reducing uncertainty in projections of climate and sea-level rise, the project will directly support Australia’s climate adaptation strategies and coastal resilience. This will benefit the many sectors of society reliant on accurate medium- and long-term projections, including critical infrastructure, cultural heritage and ecosystem services. Results will be translated and shared with community, industry and government stakeholders through animations, public talks and policy briefings."
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/FT260100005"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "FT260100006",
+      "attributes": {
+        "code": "FT260100006",
+        "scheme-name": "ARC Future Fellowships",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "FT  ",
+          "program": "Discovery",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "FT26 Round 1"
+        },
+        "current-admin-organisation": "Monash University",
+        "announcement-admin-organisation": "Monash University",
+        "grant-summary": "New Photochemical Strategies for Chemical Synthesis. This project aims to discover new light-driven catalytic strategies for advanced chemical synthesis. By integrating photochemical activation with precisely engineered auxiliaries and transition-metal catalysts, this project will deliver new synthetic technologies that employ inexpensive, abundant chemical feedstock such as carboxylic acids and olefins to rapidly generate molecules of increasing complexity and value. Expected outcomes include transformative advances in how chemists approach the design and synthesis of complex molecules, supporting innovation in the agricultural, pharmaceutical and materials sectors, and the training of highly skilled research scientists that strengthen Australia’s capacity in synthesis and catalysis. ",
+        "lead-investigator": "Dr Daniel Priebbenow",
+        "current-funding-amount": 1164235,
+        "announced-funding-amount": 1160764,
+        "grant-status": "Active",
+        "primary-field-of-research": "3405 - Organic Chemistry",
+        "anticipated-end-date": "2030-06-30",
+        "investigators": "Dr Daniel Priebbenow",
+        "lief-register": [],
+        "national-interest-test-statement": "The chemical and pharmaceutical sectors are vital to Australia’s economy, contributing over $38 billion annually and supporting a large, highly skilled workforce. However, many existing manufacturing processes remain energy-intensive and environmentally unsustainable long term. This project will develop innovative catalytic technologies that harness renewable visible light to drive efficient and selective chemical transformations. These new methods will reduce costs, energy use, and waste generation across chemical synthesis and manufacturing programs. By enabling the design and synthesis of molecules that are inaccessible using existing technologies, this research will directly advance drug discovery, materials development, and chemical biology, facilitating the creation of compounds with novel properties and functions. These outcomes will drive innovation across the agrochemical, pharmaceutical, and materials sectors, providing cleaner, safer, and more sustainable routes to high-value chemicals. Engagement with industry and research partners throughout this project will ensure the rapid translation of new discoveries into commercially relevant applications. This Future Fellowship will also strengthen national research capability by training highly skilled scientists and consolidating Australia’s leadership in sustainable chemical synthesis and advanced manufacturing."
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/FT260100006"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "FT260100014",
+      "attributes": {
+        "code": "FT260100014",
+        "scheme-name": "ARC Future Fellowships",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "FT  ",
+          "program": "Discovery",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "FT26 Round 1"
+        },
+        "current-admin-organisation": "Deakin University",
+        "announcement-admin-organisation": "Deakin University",
+        "grant-summary": "Market and Welfare Implications of Biased Beliefs. Markets work well when people read signals—prices, reviews, labels—correctly. This project aims to explain when and why people misread those signals, and how to fix it. The project expects to generate new knowledge by developing and experimentally testing behavioural models of how individuals form and update beliefs. Expected outcomes include new economic frameworks to quantify the impact of distorted beliefs for auctions, negotiations, and firm pricing. These frameworks should yield substantial economic and social benefits by providing new policy instruments to help markets convey information more accurately, such as quality certification standards and transparent advertising rules, thereby supporting fairer and more efficient markets.",
+        "lead-investigator": "Prof Dr Antonio Rosato",
+        "current-funding-amount": 1333797,
+        "announced-funding-amount": 1329808,
+        "grant-status": "Active",
+        "primary-field-of-research": "3801 - Applied Economics",
+        "anticipated-end-date": "2035-10-31",
+        "investigators": "Prof Dr Antonio Rosato",
+        "lief-register": [],
+        "national-interest-test-statement": "This project examines how people form and update beliefs in everyday economic situations, and why they often misinterpret key signals like prices, product reviews, or labels. By combining behavioural insights with economic theory and experimental studies, it will pinpoint when these misread signals lead to problems in markets—such as paying too much at auctions, failing to reach a deal in negotiations, or undermining the value of product certifications. Understanding these belief errors is crucial as they can cost Australians money, reduce fair competition, and erode trust. For example, if consumers misunderstand a high price as a guarantee of quality or put too much faith in an online review, they might overpay or select the wrong product. The findings will help regulators like the Australian Competition and Consumer Commission (ACCC) and agencies such as the Australian Government's Behavioural Economics Team (BETA) craft stronger consumer protection policies and clearer pricing guidelines. Industry can also benefit by learning to present information in ways that consumers can easily understand, leading to more informed choices and less wasteful spending. Importantly, the project will develop simple, practical tools-—like improved product labels or clearer disclosure rules—to help people make better decisions. All results will be shared widely through workshops and open-access publications, ensuring policymakers, businesses, and the public can benefit from the findings."
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/FT260100014"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "FT260100021",
+      "attributes": {
+        "code": "FT260100021",
+        "scheme-name": "ARC Future Fellowships",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "FT  ",
+          "program": "Discovery",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "FT26 Round 1"
+        },
+        "current-admin-organisation": "Swinburne University of Technology",
+        "announcement-admin-organisation": "Swinburne University of Technology",
+        "grant-summary": "Families, Housing Precarity and Generational Inequalities. This study explores how Australian family lives are being reshaped by the housing crisis. Family homelessness, housing precarity and constrained family and housing aspirations affect people of all ages, across generations. Implications for everyday family lives and family and housing coping strategies are under-explored as are wider impacts on society and the economy. This pioneering study uses longitudinal mixed methods, comparative analysis and co-design with lived experience experts to develop novel evidence about housing challenges facing diverse families, and explore solutions: finance, assistance and tenure options and dwelling alternatives. It will inform policy and industry change, leading international innovation in family housing.",
+        "lead-investigator": "Prof Wendy Stone",
+        "current-funding-amount": 1333797,
+        "announced-funding-amount": 1329808,
+        "grant-status": "Active",
+        "primary-field-of-research": "4407 - Policy and Administration",
+        "anticipated-end-date": "2031-06-29",
+        "investigators": "Prof Wendy Stone",
+        "lief-register": [],
+        "national-interest-test-statement": "More Australian families with children and groups such as older single women are at risk of homelessness. Strains from insecure housing appear at key points of family change: childbirth, caring, young adults leaving home, partnering, separation, and ageing. Across income levels, cultural backgrounds and regions, more families are finding housing aspirations unmet and generational life chances limited by housing precarity. They adapt in various ways, with unequal gender, generational and family impacts. The nexus between family life and housing is changing in ways that are not yet well understood. This Fellowship pioneers Australia’s first national mixed-method, longitudinal, and multi-scalar family–housing research program, bringing lifecourse and comparative insight to how evolving housing systems intersect with diverse family lives. It conceptualises and quantifies family-related housing precarity using longitudinal and novel survey data, analyses systems shaping family-housing interactions and illuminates family strategies and system adaptations emerging in response. Through co-production with lived-experience and cross-sector stakeholders, it will generate evidence-based innovation to help ensure the Australian Government’s $33 billion housing investment delivers equitable, diverse, and sustainable benefits—reducing inequalities, supporting social cohesion, and strengthening national wellbeing. Impact will be amplified via wide academic, community and media dissemination."
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/FT260100021"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "FT260100025",
+      "attributes": {
+        "code": "FT260100025",
+        "scheme-name": "ARC Future Fellowships",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "FT  ",
+          "program": "Discovery",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "FT26 Round 1"
+        },
+        "current-admin-organisation": "The University of New South Wales",
+        "announcement-admin-organisation": "The University of New South Wales",
+        "grant-summary": "Spatially Reconfigurable Antenna Arrays for High-Speed 6G Wireless Networks. This project aims to advance sixth-generation (6G) wireless networks by leveraging revolutionary spatially reconfigurable antenna arrays. It focuses on establishing fundamental communication theory and developing pragmatic resource allocation strategies to maximise data rates. Current fixed-position antenna arrays cannot adapt to surging data demand, leaving networks congested and inefficient. The proposed innovations will deepen knowledge in high-speed communications, significantly improve network performance and reduce operational costs. Aligning with Australia’s List of Critical Technologies, the outcomes will strengthen Australia’s 6G industry, enhance productivity and support its leadership in information and communications technology.",
+        "lead-investigator": "A/Prof Derrick Wing Kwan Ng",
+        "current-funding-amount": 1307284,
+        "announced-funding-amount": 1307284,
+        "grant-status": "Not yet accepted",
+        "primary-field-of-research": "4006 - Communications Engineering",
+        "anticipated-end-date": "",
+        "investigators": "",
+        "lief-register": [],
+        "national-interest-test-statement": "Australia’s telecommunications industry is a cornerstone of the economy, generating tens of billions of dollars each year and supporting health, education, agriculture and business. Yet this industry faces a pressing challenge: mobile data traffic is expected to grow more than ninefold by 2030 compared with 2020, posing risks of network congestion, higher consumer costs and slower services. Today’s fixed-position antennas cannot adapt to this demand, leaving networks struggling to keep pace. This project addresses that gap by developing future 6G wireless networks powered by spatially reconfigurable antenna arrays. Unlike traditional antennas, these can reposition and reorient in real time, ensuring faster and more efficient wireless services. The outcomes will reduce operating costs for providers, support more affordable wireless connectivity for households, deliver consistent coverage to regional communities and strengthen Australia’s competitiveness in global information and communications technology markets. They will also enable transformative applications such as remote healthcare, precision farming and immersive education. To maximise national benefit, findings will be shared widely through public talks, media engagement and social platforms, alongside workshops with industry, government and community stakeholders. These pathways will accelerate adoption, attract investment and strengthen Australia’s position as a leader in sustainable, world-class 6G technologies."
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/FT260100025"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "FT260100028",
+      "attributes": {
+        "code": "FT260100028",
+        "scheme-name": "ARC Future Fellowships",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "FT  ",
+          "program": "Discovery",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "FT26 Round 1"
+        },
+        "current-admin-organisation": "University of Technology Sydney",
+        "announcement-admin-organisation": "University of Technology Sydney",
+        "grant-summary": "A Unified Framework for Next-Generation High Density Power Converters. A key limitation in next-generation power electronics is the lack of a unified framework that integrates devices, passives, thermal management, EMI & control. This project aims to develop a multi-physics framework for next-generation power converters by combining circuit architectures, magnetics, thermal pathways, packaging &  control in one co-design flow. Expected outcomes include new knowledge from advanced modelling & benchmarking of electro-thermal & electromagnetic interactions, along with novel architectures, validated models & open benchmarking tools. This will enable compact, efficient, reliable converters for energy, transport, aerospace & digital infrastructure while enhancing Australia’s leadership in clean energy technologies.",
+        "lead-investigator": "A/Prof Yam Siwakoti",
+        "current-funding-amount": 1333797,
+        "announced-funding-amount": 1329808,
+        "grant-status": "Active",
+        "primary-field-of-research": "4009 - Electronics, Sensors and Digital Hardware",
+        "anticipated-end-date": "2030-06-30",
+        "investigators": "A/Prof Yam Siwakoti",
+        "lief-register": [],
+        "national-interest-test-statement": "Australia’s shift to clean energy, electric vehicles, and advanced digital infrastructure relies on power converters that are efficient, compact, and reliable. However, current design methods are fragmented, making it difficult to create the next generation of converters needed for these technologies. This project will develop a new, unified approach to designing power converters, bringing together electrical, thermal, and magnetic aspects into a single, easy-to-use framework.\n\nBy making converter design faster, more accurate and more reliable, this research could help Australian industries—such as energy, transport, aerospace, and defence—reduce costs, improve competitiveness and support the transition to cleaner technologies. Environmentally, more efficient converters mean less energy waste and lower emissions, helping Australia meet its climate goals. Socially, the project could strengthen the resilience of our infrastructure, improve energy security, and create opportunities for training the next generation of skilled workers.\n\nTo ensure these benefits reach beyond academia, the project will share its tools and findings openly with industry, government, and the wider community. This includes developing user-friendly design tools, holding workshops and working with partners to encourage adoption and real-world impact. In this way, the project supports Australia’s national priorities for clean energy, advanced manufacturing, and a skilled workforce.\n"
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/FT260100028"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "FT260100040",
+      "attributes": {
+        "code": "FT260100040",
+        "scheme-name": "ARC Future Fellowships",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "FT  ",
+          "program": "Discovery",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "FT26 Round 1"
+        },
+        "current-admin-organisation": "Flinders University",
+        "announcement-admin-organisation": "Flinders University",
+        "grant-summary": "Transforming Portable Magnetic Resonance through Molecular Innovation. This project aims to solve the problem of low sensitivity in compact magnetic resonance instruments by developing new chemical strategies to enhance detection at low magnetic fields. It expects to generate new knowledge by designing molecules that improve signal strength, eliminating the need for powerful magnets and costly cooling systems. Expected outcomes include improved sensing of chemicals relevant in agriculture, environmental monitoring and manufacturing. This should provide significant benefits by improving the performance of compact, affordable instruments for detecting environmental contaminants and compounds used to verify product quality, supporting national priorities in environmental resilience and advanced manufacturing.",
+        "lead-investigator": "Dr Philip Norcott",
+        "current-funding-amount": 1009925,
+        "announced-funding-amount": 1006904,
+        "grant-status": "Active",
+        "primary-field-of-research": "3405 - Organic Chemistry",
+        "anticipated-end-date": "2030-06-30",
+        "investigators": "Dr Philip Norcott",
+        "lief-register": [],
+        "national-interest-test-statement": "This project will develop innovative chemical methods to dramatically enhance the sensitivity of magnetic resonance, the technology behind MRI and chemical sensors. It will enable devices to be smaller, cheaper, and more portable by boosting performance at low magnetic fields, which are safer and more affordable but currently less sensitive.\nTraditional scanners are large, expensive, and require special cooling, limiting their use in environmental monitoring, quality assurance, and rural healthcare. This research addresses that gap by enhancing compact, low-field devices for improved detection of soil and water contaminants, monitoring chemical residues in agriculture, manufacturing and forensics, and supporting medical imaging in remote and emergency settings.\nThe project will strengthen Australia’s capacity to deliver more versatile diagnostic tools, improved food and water monitoring and enhanced manufacturing efficiency, aligning with national priorities in health, environmental resilience, and advanced manufacturing. By reducing reliance on imported helium used in traditional scanners, it will also bolster sovereign capability and supply chain resilience.\nResearch translation will be driven by strategic engagement with end-users across agriculture, environmental monitoring, and manufacturing. Innovations will be communicated through sector-specific forums and tested in real-world conditions via collaborative partnerships, ensuring relevance, uptake and long-term impact."
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/FT260100040"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "FT260100048",
+      "attributes": {
+        "code": "FT260100048",
+        "scheme-name": "ARC Future Fellowships",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "FT  ",
+          "program": "Discovery",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "FT26 Round 1"
+        },
+        "current-admin-organisation": "The University of New South Wales",
+        "announcement-admin-organisation": "The University of New South Wales",
+        "grant-summary": "A universal platform for DNA backbone functionalisation. DNA modification for biotechnology and nanoscience is hindered by expensive, time-consuming and highly specialised chemistry. This project will develop a platform for the universal attachment of diverse and functional building blocks to single-stranded DNA, editing the nucleic acid backbone rather than the nucleobases. This method will be cheaper, simpler and faster than existing solution- or solid-state technologies. Expected outcomes are the streamlined synthesis of functionalised DNA strands for biomaterials, sensing, and nanotechnology; accelerated biotechnology research through the eased accessibility of modified DNA; and the democratisation of functional DNA structures for nanomanufacturing, materials, and bioscience sectors.",
+        "lead-investigator": "Dr Felix Rizzuto",
+        "current-funding-amount": 1169518,
+        "announced-funding-amount": 1166016,
+        "grant-status": "Active",
+        "primary-field-of-research": "3403 - Macromolecular and Materials Chemistry",
+        "anticipated-end-date": "2030-06-30",
+        "investigators": "Dr Felix Rizzuto",
+        "lief-register": [],
+        "national-interest-test-statement": "This Fellowship will develop chemistry for the universal attachment of functional molecules to the DNA backbone, transforming the use of nucleic acids in biotechnology, sensing, and advanced materials. Current modification technologies rely on expensive, bespoke chemistries that limit access and slow innovation. This Fellowship will develop a new platform that provides simple, low-cost, and scalable routes to produce functionalised DNA strands quickly using standard laboratory infrastructure.\n\nBy enabling affordable, high-throughput DNA modification, this Fellowship will accelerate the development of smart diagnostics, sensors, and nanotechnologies, supporting Australia’s sovereign capacity in nucleic acid manufacturing, synthetic biology, and bioengineering. The Fellowship outcomes align directly with Australia’s National Science and Research Priorities (2024) in 'Building a Secure and Resilient Nation' and with the List of Critical Technologies in the National Interest (2023) under 'Advanced Manufacturing' and 'Biotechnology'.\n\nThe global nucleic acid synthesis market was valued at US$11 billion in 2025 and is projected to be $25 billion by 2030. This Fellowship will harness this growth to position Australia as a global leader in DNA chemistry. It will build new international and industry partnerships, train a skilled workforce in cutting-edge DNA functionalisation, and strengthen the nation’s biotechnology capacity, innovation pipeline, and economic competitiveness."
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/FT260100048"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "FT260100049",
+      "attributes": {
+        "code": "FT260100049",
+        "scheme-name": "ARC Future Fellowships",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "FT  ",
+          "program": "Discovery",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "FT26 Round 1"
+        },
+        "current-admin-organisation": "The Australian National University",
+        "announcement-admin-organisation": "The Australian National University",
+        "grant-summary": "New geometry-driven statistics tools tuned to reveal vital geological clues. The project aims to develop new statistical methods to uncover hidden geological signals by extracting the most relevant information from noisy geoscience databases with complex structures. This project is at the interface between mathematical statistics, geophysics and geochemistry and it will integrate cutting-edge concepts from all three fields to generate new knowledge. These advances in knowledge will lead to an enhanced ability to discriminate natural events such as earthquakes from clandestine nuclear tests, and by doing so support Australia’s commitment to the comprehensive nuclear test ban treaty. Other outcomes are improved methods for identifying previously undetected critical mineral deposits which is a national priority. ",
+        "lead-investigator": "Prof Janice Scealy",
+        "current-funding-amount": 1333795,
+        "announced-funding-amount": 1329806,
+        "grant-status": "Active",
+        "primary-field-of-research": "4905 - Statistics",
+        "anticipated-end-date": "2030-06-30",
+        "investigators": "Prof Janice Scealy",
+        "lief-register": [],
+        "national-interest-test-statement": "This project will develop new software specifically designed to analyse complex geoscience databases, focusing on two key issues: better detection of nuclear tests and critical mineral deposits. Outcomes will provide significant economic, environmental and social benefits by improving our security against nuclear threats and ensuring Australia’s supply of critical strategic minerals. The 1996 Comprehensive Nuclear-Test-Ban Treaty endorsed by Australia theoretically put a stop to all nuclear bomb testing worldwide. However, the 3 major nuclear powers (China, Russia and the USA) appear to be preparing for nuclear testing again. In this context, it is essential for Australia to rapidly monitor nuclear testing. This project will develop improved explosion monitoring software, capable of detecting covert, underground nuclear tests. Australia’s 2024-25 Federal budget included $566 million for Geoscience Australia (GA) to map the nation's critical minerals, needed for the clean energy transition to a net zero future. This project will deliver the necessary software to analyse GA’s geochemistry data, Australia’s magnetic field records and other databases.  Better analysis of these databases will facilitate critical mineral discovery. The outcomes will be shared, disseminated and adopted through an online repository of open-source R and Python tools, and promoted via collaboration with GA as well as national and international networks of users from research, government and industry."
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/FT260100049"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "FT260100053",
+      "attributes": {
+        "code": "FT260100053",
+        "scheme-name": "ARC Future Fellowships",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "FT  ",
+          "program": "Discovery",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "FT26 Round 1"
+        },
+        "current-admin-organisation": "The University of Sydney",
+        "announcement-admin-organisation": "The University of Sydney",
+        "grant-summary": "Activating archived ancestral knowledge for Warlpiri women's ceremonies. This project aims to support the revitalisation of Warlpiri women's song traditions by uncovering how archival resources can be used to develop targeted action plans for intergenerational transmission of song knowledge and practices. In collaboration with Warlpiri women and Central Australian organisations, the project will investigate generational shifts to learning songs and develop methods and resources for their maintenance through an innovative and reproducible model for revitalisation of Indigenous song and dance practices. This should provide significant benefits in ensuring that this knowledge and these practices are maintained across generations as a vital part of Australia's unique national and cultural identity.",
+        "lead-investigator": "Dr Georgia Curran",
+        "current-funding-amount": 1170696,
+        "announced-funding-amount": 1167198,
+        "grant-status": "Active",
+        "primary-field-of-research": "4501 - Aboriginal and Torres Strait Islander Culture, Language and History",
+        "anticipated-end-date": "2030-12-31",
+        "investigators": "Dr Georgia Curran",
+        "lief-register": [],
+        "national-interest-test-statement": "Aboriginal and Torres Strait Islander cultures are critical to Australian national identity and it is imperative that these the ceremonial song traditions at the heart of culture are recognised and supported. For Warlpiri women living in communities across the Tanami desert region of Central Australia, the ceremonies that have been passed on to them through generations are vital to their cultural identity and well-being. Yet there is a concern amongst present day Warlpiri women for the cultural health of future generations as these songs are not being passed on to younger generations as effectively as they were in past eras. This project will address a key research gap in determining how archived materials can be used for revitalisation so that old songs, dances and designs can form active parts of vibrant contemporary ceremonies. It will answer new questions about contemporary song learning and collaborate with local archival, educational and community arts organisations to develop targeted strategies to enhance intergenerational transmission. Through development of a reproducible model for revitalisation of Indigenous song and dance traditions this project will extend to benefit similarly culturally vulnerable communities and will provide benefits to Australian society by ensuring Australian rich Indigenous cultural identity is kept strong and can inform cultural policy. "
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/FT260100053"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "FT260100060",
+      "attributes": {
+        "code": "FT260100060",
+        "scheme-name": "ARC Future Fellowships",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "FT  ",
+          "program": "Discovery",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "FT26 Round 1"
+        },
+        "current-admin-organisation": "University of Technology Sydney",
+        "announcement-admin-organisation": "University of Technology Sydney",
+        "grant-summary": "Death by Corporation: Criminal Law, Culture and Homicidal Corporations. Corporations kill on a scale that far exceeds those caused by individuals, yet prosecutions for corporate homicide are exceedingly rare. This project aims to challenge the failure to conceptualise corporate killings as unlawful homicides. By employing a transdisciplinary approach, the project will critically analyse legal and cultural conceptualisations of corporate killings to address the obstacles preventing the criminal liability of corporations. The intended outcome is to present a compelling argument of how corporations can and should be prosecuted for homicide, leading to significant legal, economic and social benefits by prohibiting and deterring corporate homicides specifically and corporate harms more broadly. ",
+        "lead-investigator": "Prof Penny Crofts",
+        "current-funding-amount": 1332988,
+        "announced-funding-amount": 1329001,
+        "grant-status": "Active",
+        "primary-field-of-research": "4804 - Law In Context",
+        "anticipated-end-date": "2030-06-30",
+        "investigators": "Prof Penny Crofts",
+        "lief-register": [],
+        "national-interest-test-statement": "In Australia and globally corporations kill with products and practices on a scale vastly exceeding homicides caused by individuals eg approximately 4,000 Australians die from asbestos related disease each year. Yet corporations are rarely, if ever, prosecuted for homicide. These deaths cause grief to victims and their families, and have long-term economic and social costs, as corporations often externalise harms, leaving individuals and governments to bear costs such as health care and environmental clean-ups. Given that homicide is a fundamental concept in criminal law, and how widespread these slayings are, criminal law should be applied, but it is as though we cannot even imagine it. This reflects a broader failure to imagine the corporation as criminal, shown in limited law scholarship on corporate deaths. In the absence of criminal law, corporations undertake a cost benefit analysis of harms, including death, normalising them as acceptable costs of business. In contrast, criminal law conveys that killing is prohibited and morally unacceptable. By examining corporate homicide through the lens of philosophies of wickedness and horror, this project provides a pragmatic, principled and imaginative framework justifying the prosecution of corporations for manslaughter or murder. Outcomes shared with law practitioners may lead to a greater ability to hold corporations responsible for wrongdoing and, by deterring harmful actions, a decrease in harms caused by corporations."
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/FT260100060"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "FT260100069",
+      "attributes": {
+        "code": "FT260100069",
+        "scheme-name": "ARC Future Fellowships",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "FT  ",
+          "program": "Discovery",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "FT26 Round 1"
+        },
+        "current-admin-organisation": "La Trobe University",
+        "announcement-admin-organisation": "La Trobe University",
+        "grant-summary": "Breaking the Bacterial Barrier by Selective Membrane-Active Peptides. This project aims to develop new and efficient methods for the rapid molecular design of membrane-active peptides that can target specific bacterial membranes. These methods are expected to overcome the challenges of high costs of production, time-consuming synthesis, instability, and determining membrane activity, which have limited their development to date. This novel approach is expected to create peptides that target specific membranes in various bacteria. This should benefit Australian research and industry by establishing an efficient molecular design system that can be applied to peptide discovery for diverse purposes and by commercialising novel membrane-active peptides. ",
+        "lead-investigator": "Dr Wenyi Li",
+        "current-funding-amount": 1169047,
+        "announced-funding-amount": 1165568,
+        "grant-status": "Active",
+        "primary-field-of-research": "3101 - Biochemistry and Cell Biology",
+        "anticipated-end-date": "2031-12-31",
+        "investigators": "Dr Wenyi Li",
+        "lief-register": [],
+        "national-interest-test-statement": "Bacterial membranes provide a barrier between cell contents and their environment. The ability to specifically disrupt or penetrate these membranes has huge potential in industrial, research and health settings. For example membranes can be targeted for destruction, signalling, release of compounds of interest or to study membrane biophysics. Discovering membrane-active peptides remains challenging and time-consuming.\nThis project aims to develop novel technologies that enable the rapid and high throughput design of membrane-active peptides- small chains of amino acids that can specifically interact with membranes of various types. My Fellowship research will enable the future development of approaches to target bacteria of interest. This will have broad applications including food preservation, biofilm control, crop protection and veterinary health management. The resulting compounds and methods will provide benefits to Australia through their future commercialisation for anti-microbial use in agricultural, veterinary and human diseases. \nFindings will be communicated to target stakeholders through events such as the University Partner Showcase, the annual US Bio conference and advocacy groups such as AusBiotech to maximise translation and to seek new opportunities with non-academic partners. We will also disseminate our findings to the public via the media, utilising channels such as La Trobe media, Social media, team website, and podcasts.\n"
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/FT260100069"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "FT260100070",
+      "attributes": {
+        "code": "FT260100070",
+        "scheme-name": "ARC Future Fellowships",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "FT  ",
+          "program": "Discovery",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "FT26 Round 1"
+        },
+        "current-admin-organisation": "Queensland University of Technology",
+        "announcement-admin-organisation": "Queensland University of Technology",
+        "grant-summary": "Broad pH-Range Redox Flow Batteries with Sustainable Fluorine-Free Membrane. This project aims to develop highly ion-selective, sustainable fluorine-free membranes for redox flow batteries – an essential technology for large-scale renewable energy storage. By precisely tuning the membranes’ microstructure to create efficient ion pathways, the project will deliver robust, sustainable, durable, high-performance membranes compatible with both acidic and alkaline redox flow batteries. This work will provide deep insights into polymers design and synthesis, thereby guiding the future optimization of membranes for different redox flow batteries. This project will significantly promote Australia's leadership in green energy storage and manufacturing, supporting Australia’s commitment to achieve net-zero emissions by 2050.",
+        "lead-investigator": "Dr Jiaye Ye",
+        "current-funding-amount": 1000083,
+        "announced-funding-amount": 997149,
+        "grant-status": "Active",
+        "primary-field-of-research": "4016 - Materials Engineering",
+        "anticipated-end-date": "2030-06-30",
+        "investigators": "Dr Jiaye Ye",
+        "lief-register": [],
+        "national-interest-test-statement": "This project will develop a super-duper membrane used to increase the lifespan and efficiency of a large-scale energy storage batteries to store electricity generated from renewable sources such as wind and solar power, to address Australia’s urgent need for sustainable, cost-effective, and environmentally responsible grid-scale energy storage solutions. The project aims to fill a critical research gap by developing cost-effective and high-performance fluorine-free alternative membranes that are scalable, durable, sustainable, and locally relevant. Economically, this research supports the local manufacturing of key materials for clean energy, reduces reliance on foreign imports for such materials, and creates jobs and wealth within high-tech industries. Environmentally, it eliminates hazardous fluorinated waste streams, enabling cleaner lifecycle management of large-scale batteries. Socially and commercially, reliable and affordable long-duration energy storage will strengthen renewable energy integration, reduce electricity costs, and support Australia’s transition toward net-zero emissions. A series of educational and outreach activities will be conducted including to disseminating research findings through curricula to graduate students, undergraduates, and even younger students; engaging in free lectures for communities and remote regions to publicize research outcomes; and sharing research summaries via short videos online to enhance dissemination effectiveness."
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/FT260100070"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "FT260100074",
+      "attributes": {
+        "code": "FT260100074",
+        "scheme-name": "ARC Future Fellowships",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "FT  ",
+          "program": "Discovery",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "FT26 Round 1"
+        },
+        "current-admin-organisation": "Swinburne University of Technology",
+        "announcement-admin-organisation": "Swinburne University of Technology",
+        "grant-summary": "Tuning a Galactic Gravitational-Wave Detector using Pulsar Scintillation. This project aims to improve the detection of ultra-low-frequency gravitational waves by developing new models that link pulsar radio-wave scintillation to noise processes in the interstellar medium through hierarchical statistical inference. The project expects to generate new knowledge about how plasma in the interstellar medium affects pulsar signals, using innovative techniques that transform interstellar scattering from a source of noise into a calibration tool. Expected outcomes include advanced software for precision gravitational-wave detection and improved characterisation of the interstellar medium. This will enhance Australia’s leadership in radio astronomy and strengthen the scientific return from the Square Kilometre Array.",
+        "lead-investigator": "Dr Daniel Reardon",
+        "current-funding-amount": 988196,
+        "announced-funding-amount": 985236,
+        "grant-status": "Active",
+        "primary-field-of-research": "5101 - Astronomical Sciences",
+        "anticipated-end-date": "2031-03-31",
+        "investigators": "Dr Daniel Reardon",
+        "lief-register": [],
+        "national-interest-test-statement": "Australia is investing heavily in the Square Kilometre Array (SKA), the world’s largest radio telescope, to explore the universe through radio waves and train the next generation of scientists and engineers. One barrier to its success is that signals from pulsars — rapidly rotating neutron stars used to detect low-frequency gravitational waves — are distorted as they pass through the interstellar medium. This project will overcome that problem by linking the twinkling, or \"scintillation,\" of pulsar radio signals to the distortions that affect gravitational-wave analyses, through advanced hierarchical statistical models.\n\nBy transforming a source of interference into a source of precision, the project will strengthen Australia’s capacity to detect gravitational waves from merging supermassive black holes, a major scientific frontier. The same techniques will also improve understanding of the Sun’s plasma environment, benefiting national space-weather forecasting that protects communications, power grids, and satellite systems.\n\nTo maximise public benefit, all software and results will be openly released, accompanied by public talks, workshops, and accessible science articles. Collaborations with international radio telescopes will showcase Australia’s leadership in gravitational-wave astronomy and solar plasma physics, ensuring that national investment in the SKA delivers lasting scientific, technological, workforce, and cultural returns for Australia and its partners."
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/FT260100074"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "FT260100078",
+      "attributes": {
+        "code": "FT260100078",
+        "scheme-name": "ARC Future Fellowships",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "FT  ",
+          "program": "Discovery",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "FT26 Round 1"
+        },
+        "current-admin-organisation": "The University of Western Australia",
+        "announcement-admin-organisation": "The University of Western Australia",
+        "grant-summary": "Costs and unexpected benefits of sickness and motivational presenteeism. 58% of employees in Australian organisations are at work, but not working at maximum capacity due to ill-health or low motivation – otherwise known as presenteeism. This project aims to explore why this is the case, particularly among women and racially diverse workers, many of whom are overqualified. Utilising high-fidelity experimental and field studies, this project examines why: (a) presenteeism increases ostracism of minority employees, but (b) decreases loneliness - a growing public health concern; and (c) how organisations can minimise costs and maximise benefits of presenteeism. The benefits are actionable steps for organisations to prevent sickness and promote health among all employees, despite overqualification or demographics.",
+        "lead-investigator": "A/Prof Aleksandra Luksyte",
+        "current-funding-amount": 1326722,
+        "announced-funding-amount": 1322733,
+        "grant-status": "Active",
+        "primary-field-of-research": "5201 - Applied and Developmental Psychology",
+        "anticipated-end-date": "2030-06-30",
+        "investigators": "A/Prof Aleksandra Luksyte",
+        "lief-register": [],
+        "national-interest-test-statement": "Nearly 60% of Australians engage in presenteeism - they go to work but not working at maximum capacity due to ill-health or low motivation. Presenteeism costs Australian economy $6.1 billion a year due to lost productivity. Yet employees, particularly women and racially diverse workers may have valid reasons for engaging in presenteeism such as job security concerns, reluctance to overburden peers, or avoiding feeling lonely at home. In addition to sickness presenteeism, 1 in 5 Australians engage in hidden presenteeism when they come to work with anxiety and depression, but do not disclose these issues out of stigma fears. This research examines how organisations can minimise presenteeism whilst treating their minority employees equitably. The economic benefits include the increased knowledge about how organisations can prevent sickness and hence minimise costs. The social benefits include (a) knowledge about how to promote health and wellbeing, when employees feel psychologically safe to disclose their sickness and hence avoid presenteeism; and (b) the discovery of unexpected benefits – decreased loneliness among those with mental ill-health. Societal benefits are: (a) considering specific types of sick leave that cover a wider range of impairing conditions; and (b) implementing disclosure and anti-stigma training to increase awareness of presenteeism cost. The outcomes will be disseminated to industry via practitioner-oriented publications, media interactions, and podcasts."
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/FT260100078"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "FT260100079",
+      "attributes": {
+        "code": "FT260100079",
+        "scheme-name": "ARC Future Fellowships",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "FT  ",
+          "program": "Discovery",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "FT26 Round 1"
+        },
+        "current-admin-organisation": "The University of Melbourne",
+        "announcement-admin-organisation": "The University of Melbourne",
+        "grant-summary": "Understanding young people’s deliberations about what knowledge to trust. This project aims to investigate how secondary school students decide what knowledge to trust and the best policies and practices to support them. It expects to advance new understanding of the role of schooling in young people’s deliberations on trustworthy knowledge amid rising public debate and uncertainty. Expected outcomes include enhanced capacity to develop effective school policies and practices through the application of innovative participatory methods with young people, policy and curricula analysis, and research with stakeholders and teachers. Significant benefits should include improved outcomes, professional development, and better community understanding of the social and cultural factors in deciding what knowledge to trust. ",
+        "lead-investigator": "Prof Jessica Gerrard",
+        "current-funding-amount": 1173051,
+        "announced-funding-amount": 1169636,
+        "grant-status": "Active",
+        "primary-field-of-research": "3902 - Education Policy, Sociology and Philosophy",
+        "anticipated-end-date": "2030-06-30",
+        "investigators": "Prof Jessica Gerrard",
+        "lief-register": [],
+        "national-interest-test-statement": "Young people in Australia face significant challenges in deciding what knowledge to trust, and their schools are struggling to support them. Misinformation, rapid changes in digital information, artificial intelligence, and intensifying social and cultural divisions are all contributing to rising public uncertainty about what knowledge is trustworthy. Yet, we know very little about how young people decide themselves what knowledge is reliable, the social and cultural factors that shape these decisions, or how schools and teachers can best assist them. This project addresses this gap through a multi-pronged research agenda, involving innovative participatory research with secondary school students, policy and curriculum analysis, and research with teachers, policymakers, and community members. This will produce much-needed evidence and guidance for effective schooling policies and practices. Public benefit is also ensured through major public-facing outputs, including a Policy Brief and Policy Paper to inform best policy development. In addition, a Professional Resource Package will enable teacher professional development and publicly available Research Vignettes will provide crucial community insight into young people’s deliberations. Project findings will better equip Australian communities, schools, and families to navigate fast changing knowledge practices and support the next generation grapple with new complexities in determining trustworthy knowledge."
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/FT260100079"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "FT260100082",
+      "attributes": {
+        "code": "FT260100082",
+        "scheme-name": "ARC Future Fellowships",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "FT  ",
+          "program": "Discovery",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "FT26 Round 1"
+        },
+        "current-admin-organisation": "Queensland University of Technology",
+        "announcement-admin-organisation": "Queensland University of Technology",
+        "grant-summary": " Real-time mass spectrometry for elucidating marine aerosol processes. This project aims to provide fundamental process-level understanding of atmospheric aerosol processes over the Southern Ocean, a region critical to the Australian and global climate and where climate models perform poorly. Comprehensive observations during a Southern Ocean voyage and intense laboratory experiments will enhance our knowledge of aerosols and their  influence on cloud formation in that region and provide much needed data for improving global climate models. Expected outcomes include more accurate seasonal and latitudinal representations of Southern Ocean aerosol populations, properties and sources. The main benefit\nincludes improved weather forecasting and future climate projections for Australia and the Southern Hemisphere.",
+        "lead-investigator": "A/Prof Branka Miljevic",
+        "current-funding-amount": 1333017,
+        "announced-funding-amount": 1329032,
+        "grant-status": "Active",
+        "primary-field-of-research": "3701 - Atmospheric Sciences",
+        "anticipated-end-date": "2031-01-17",
+        "investigators": "A/Prof Branka Miljevic",
+        "lief-register": [],
+        "national-interest-test-statement": "Atmospheric processes over the Southern Ocean have a profound influence on regional and global climate. This is a part of the world where global climate models perform particularly poorly. This project is addressing the greatest source of uncertainty in climate models – atmospheric aerosols and how they influence cloud formation. Observational data for the Southern Ocean are scarce and this project is a unique opportunity to gather much-needed observations in this region. By using state-of-the-art instrumentation during a 60 days long voyage on the Australian research vessel Investigator and targeted laboratory measurements, the project will enhance our knowledge of the aerosol formation and transformation processes over the Southern Ocean and the role of ocean microorganisms on aerosol properties and populations in the Southern Ocean atmosphere. The new knowledge gained in the project will contribute to improving and strengthening the predictive skill of global climate models. Australia is heavily exposed to weather and climate risk, impacting the safety and well-being of Australians and the productivity of diverse industries. Improved climate projections from models that better represent the Southern Ocean atmospheric processes will inform robust strategies for climate change adaptation, mitigation, and resilience, and better prepare Australia for the challenges of a variable and changing climate.\n"
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/FT260100082"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "FT260100083",
+      "attributes": {
+        "code": "FT260100083",
+        "scheme-name": "ARC Future Fellowships",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "FT  ",
+          "program": "Discovery",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "FT26 Round 1"
+        },
+        "current-admin-organisation": "The University of Sydney",
+        "announcement-admin-organisation": "The University of Sydney",
+        "grant-summary": "Rethinking Comparative Ethics through Early Modern Sino-Western Encounters. This project aims to uncover the forgotten origins of Sino-Western comparative ethics and assess its significance for rethinking the field today. By recovering neglected texts in Chinese, Latin and Italian, the project expects to generate significant new knowledge about how early modern Jesuits and their Chinese interlocutors pursued ethical dialogue between scholastic-Aristotelian and neo-Confucian thought. The expected outcome is a new philologically and historically rooted approach to comparative ethics that foregrounds commentarial traditions and normative values. Benefits include the first history of how Sino-Western comparative ethics emerged and new insights into making comparative ethics more responsive to lived moral experience.",
+        "lead-investigator": "Dr Daniel Canaris",
+        "current-funding-amount": 1008276,
+        "announced-funding-amount": 1005255,
+        "grant-status": "Active",
+        "primary-field-of-research": "5003 - Philosophy",
+        "anticipated-end-date": "2031-05-31",
+        "investigators": "Dr Daniel Canaris",
+        "lief-register": [],
+        "national-interest-test-statement": "This project reconstructs for the first time the methodologies developed by early modern Jesuit missionaries in China and their Chinese interlocutors to compare scholastic-Aristotelian and neo-Confucian ethics and assesses their enduring relevance for comparative ethics today. Whereas contemporary Sino-Western comparative ethics often centres on ancient texts, these early modern methodologies highlighted how ethical traditions were received, adapted and valued within their respective communities. By redirecting the discipline’s focus from abstract concepts to the normative values informing community practices, the project will make Sino-Western comparative ethics more responsive to real-world moral experience and thus more relevant to cross-cultural ethical dialogue in multicultural societies like Australia. The translation and analysis of key Latin and Chinese-language sources will open up these materials for scholarly inquiry and to the wider Australian public. The organisation of a major public facing event and targeted media engagement will ensure that research outcomes reach beyond academia, enriching community understanding of the importance of comparative ethics. Finally, the project will consolidate Australia's global leadership in research on Sino-Western intercultural research and foster the next generation of Australian researchers in this rapidly expanding field."
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/FT260100083"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "FT260100085",
+      "attributes": {
+        "code": "FT260100085",
+        "scheme-name": "ARC Future Fellowships",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "FT  ",
+          "program": "Discovery",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "FT26 Round 1"
+        },
+        "current-admin-organisation": "Adelaide University",
+        "announcement-admin-organisation": "Adelaide University",
+        "grant-summary": "Nonlinear Ultrasonics: Transforming Diagnosis & Prognosis of Infrastructure. This Fellowship aims to develop new technology and frameworks for structural damage diagnosis and prognosis – leveraging nonlinear ultrasonics – to address substantial limitations in existing safety inspection and forecasting systems for engineering structures. The project will establish important knowledge across nondestructive testing and structural health monitoring, with innovations spanning nonlinear feature extraction, reference-free diagnostics, and the first system-level structural safety prognostics methodology for diverse infrastructure. Outcomes include key improvements for infrastructure reliability and operational safety, and reductions in the unsustainable financial burden of current maintenance and management practice.",
+        "lead-investigator": "Prof Ching Tai Ng",
+        "current-funding-amount": 1262563,
+        "announced-funding-amount": 1258808,
+        "grant-status": "Active",
+        "primary-field-of-research": "4005 - Civil Engineering",
+        "anticipated-end-date": "2031-01-31",
+        "investigators": "Prof Ching Tai Ng",
+        "lief-register": [],
+        "national-interest-test-statement": "Early detection of damage and accurate prediction of remaining service life are critical to the integrity, safety, and effective management of high-value infrastructure assets. Existing techniques, however, are largely insensitive to incipient damage and often provide diagnostic information that is insufficient to support reliable decisions on maintenance/rehabilitation/repair and infrastructure life prediction.\n\nThis project will advance the scientific foundations of nonlinear ultrasonics to deliver a robust technology for structural health monitoring. Exploiting the physical nonlinearities induced by emerging structural damage (e.g., fatigue cracks, debonding), developing novel diagnostics, and designing system-level safety prognostics, the research will enable accurate assessment and life prediction. This would help transform conventional schedule-based inspection approaches to proactive, data-driven, condition-based inspection.\n\nSignificant economic and social benefits for Australia include lowered infrastructure maintenance costs, enhanced safety, minimised disruptions/downtime, and strengthened sovereign capability across key and emerging industry sectors. The research will expand Australia’s leading expertise in non-destructive inspection – a global market projected to exceed US$18 billion by 2031. Findings will be communicated to a range of government agencies and research organisations, including via workshops, and more broadly through traditional and social media."
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/FT260100085"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "FT260100090",
+      "attributes": {
+        "code": "FT260100090",
+        "scheme-name": "ARC Future Fellowships",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "FT  ",
+          "program": "Discovery",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "FT26 Round 1"
+        },
+        "current-admin-organisation": "The University of New South Wales",
+        "announcement-admin-organisation": "The University of New South Wales",
+        "grant-summary": "Solar driven chalcogenide tandems for unassisted green ammonia production. This project aims to develop an all-chalcogenide tandem photoelectrochemical system for unassisted, solar-driven green ammonia production. By integrating two stable and low-cost chalcogenide semiconductors into a single tandem device, the research will enable efficient ammonia conversion without external power. Expected outcomes include new understanding of carrier transport, interface engineering, and reaction selectivity in solar chemical systems, and practical design principles for stable, high-efficiency devices. This will enable a transformative route for green hydrogen storage and transport, while offering additional pathways for valuable products, advancing Australia’s leadership in clean energy innovation and net-zero transition.",
+        "lead-investigator": "Dr Kaiwen Sun",
+        "current-funding-amount": 1171600,
+        "announced-funding-amount": 1168096,
+        "grant-status": "Active",
+        "primary-field-of-research": "4016 - Materials Engineering",
+        "anticipated-end-date": "2030-06-30",
+        "investigators": "Dr Kaiwen Sun",
+        "lief-register": [],
+        "national-interest-test-statement": "This project will advance Australia’s leadership in renewable energy by developing a new solar technology that directly converts sunlight into clean ammonia, a vital energy carrier for the nation’s hydrogen economy. Ammonia is central to the Australian Government’s National Hydrogen Strategy and Future Made in Australia Act, as it enables safe and cost-effective storage and export of green hydrogen. The project’s innovative all-chalcogenide tandem photoelectrochemical system will produce green ammonia directly from nitrate-rich agricultural runoff and industrial effluents using only sunlight and water, offering a low-cost, carbon-free alternative to the energy-intensive Haber–Bosch process.\nThis research aligns with the National Science and Research Priorities, particularly “Transitioning to a net zero future” and “Protecting and restoring Australia’s environment”. It will deliver environmental benefits by reducing industrial pollution, economic benefits through scalable green ammonia production, and social benefits by supporting regional industries and agricultural sustainability. The outcomes will strengthen Australia’s renewable manufacturing capability, expand expertise in advanced materials, and train the next generation of researchers in solar-fuel technologies. Collectively, this project will position Australia as a trusted global supplier of green hydrogen and ammonia, accelerating the nation’s transition toward a clean, secure and sustainable energy future."
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/FT260100090"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "FT260100094",
+      "attributes": {
+        "code": "FT260100094",
+        "scheme-name": "ARC Future Fellowships",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "FT  ",
+          "program": "Discovery",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "FT26 Round 1"
+        },
+        "current-admin-organisation": "Monash University",
+        "announcement-admin-organisation": "Monash University",
+        "grant-summary": "Reforming Corporate Ethics: A Programmatic Agenda . This Fellowship aims to build a new ethical framework for business corporations, in light of recent Australian corporate scandals. It expects to generate a rigorous, philosophically grounded framework that reimagines what business corporations are and what they are for, using an innovative methodology that engages business ethics advisors and policymakers in ethical dialogue. Expected outcomes include new ethical principles to guide corporate governance and regulation, focused on the energy, care, and banking sectors. By reconceiving how business corporations can be contributors to wellbeing, the Fellowship's benefits will include a positive transformation in how we understand and conceptualise ethics in business.",
+        "lead-investigator": "A/Prof Stephanie Collins",
+        "current-funding-amount": 1275601,
+        "announced-funding-amount": 1272025,
+        "grant-status": "Active",
+        "primary-field-of-research": "5003 - Philosophy",
+        "anticipated-end-date": "2030-06-30",
+        "investigators": "A/Prof Stephanie Collins",
+        "lief-register": [],
+        "national-interest-test-statement": "Must business corporations advance the common good, or should they be permitted to narrowly pursue private profit? This question has gained urgency following recent controversies, including fossil fuel expansions, egregious allegations in for-profit childcare, and regulatory action against major banks. We have no robust ethical framework for understanding what business corporations are for, or what ethical responsibilities they can—and should—bear. To address this gap, Australia needs to reform the ethical orientation of business corporations. This Fellowship will develop a rigorous and philosophically-grounded framework that reimagines what business corporations are and what they are for, using a collaborative methodology in which business ethics advisors and policymakers are engaged in dialogue. Focusing on the energy, care, and banking sectors, the project will develop new guidelines for corporate governance and regulation. This will benefit Australians by supporting principled regulation and enabling corporations to contribute positively to climate, care, and finance. The project will create impact beyond academia by producing a policy-oriented white paper, delivering tailored workshops for business leaders, and engaging the broader public through podcasts and media commentaries. These activities will translate the project’s insights into accessible and practical guidance, shaping public debate and fostering a more ethics-driven business sector in Australia."
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/FT260100094"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "FT260100095",
+      "attributes": {
+        "code": "FT260100095",
+        "scheme-name": "ARC Future Fellowships",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "FT  ",
+          "program": "Discovery",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "FT26 Round 1"
+        },
+        "current-admin-organisation": "Monash University",
+        "announcement-admin-organisation": "Monash University",
+        "grant-summary": "Preventing Sexualised Deepfake Abuse with Evidence-Based Interventions. Emerging AI technologies are fuelling sexual violence and outpacing prevention measures. This Fellowship will investigate the factors driving sexualised deepfake abuse (the non-consensual creation/sharing of AI-generated sexual content) and produce new knowledge on the social, digital and cultural environments enabling it. It aims to advance understanding of AI misuse and identify effective preventions using interdisciplinary social, technological and legal approaches. Expected outcomes include improved policy, reduced harms, and building Australia’s leadership in ethical AI. Expected benefits include protecting Australians with evidence-based policies and practice to prevent sexualised deepfake abuse and future AI-facilitated harms.",
+        "lead-investigator": "Prof Asher Flynn",
+        "current-funding-amount": 1333448,
+        "announced-funding-amount": 1329459,
+        "grant-status": "Active",
+        "primary-field-of-research": "4402 - Criminology",
+        "anticipated-end-date": "2030-06-30",
+        "investigators": "Prof Asher Flynn",
+        "lief-register": [],
+        "national-interest-test-statement": "It takes one clear image, 25 minutes and no cost to create a realistic, but entirely fake pornographic video with AI. In the past 18 months, reports of AI-generated sexual content of Australians under 18 years more than doubled; 80% of victims were women. Laws are an important step towards prevention, but criminalisation alone cannot stop AI-generated sexual violence. Prevention requires research, education, technology and collaboration, alongside comprehensive legal action.\n\nThis project addresses the urgent problem of sexualised deepfake abuse–the non-consensual creation, sharing or threat to share AI-generated sexual content. By integrating new data, theory and analysis, this project investigates the technologies driving this abuse and the social and digital environments that enable it. The project will produce significant benefits that protect Australians from emerging AI-facilitated harms, support safer digital environments and guide responsible AI use. It will deliver practical strategies for governments, NGOs, digital platforms and bystanders (friends, peers, families) to prevent the misuse of AI, providing social and economic benefits. \n\nTo maximise impact, findings will be communicated through accessible reports, workshops, policy briefings and collaborations with platforms and diverse community groups, ensuring the evidence informs real-world practice, strengthens Australia’s leadership in the ethical use of AI and drives global understandings of AI-harm prevention."
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/FT260100095"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "FT260100105",
+      "attributes": {
+        "code": "FT260100105",
+        "scheme-name": "ARC Future Fellowships",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "FT  ",
+          "program": "Discovery",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "FT26 Round 1"
+        },
+        "current-admin-organisation": "Flinders University",
+        "announcement-admin-organisation": "Flinders University",
+        "grant-summary": "Soil microbiomes for repairing climate-resilient ecosystems. This project aims to strengthen the climate resilience of ecosystems under repair. Soil microbiomes – diverse communities of bacteria, fungi and other microbes that form the foundation of soil health – underpin ecosystem climate resilience but remain largely overlooked in restoration practice. By revealing how soil microbiomes support native plants under climate stress, developing effective ways to introduce them in real-world settings, and building new international networks for translation and training, this research will transform how we restore ecosystems in crisis. These advances will deliver new ways to repair biodiversity and support national goals for nature conservation, healthy soils, climate adaptation and sustainable growth.",
+        "lead-investigator": "Prof Martin Breed",
+        "current-funding-amount": 1333797,
+        "announced-funding-amount": 1329808,
+        "grant-status": "Active",
+        "primary-field-of-research": "4104 - Environmental Management",
+        "anticipated-end-date": "2030-06-30",
+        "investigators": "Prof Martin Breed",
+        "lief-register": [],
+        "national-interest-test-statement": "This Fellowship will establish Australia’s first research program on soil microbiomes to support ecosystem repair and climate resilience. While healthy soil is essential to climate resilience, the microbial life that underpins it remains poorly integrated into restoration science, practice and policy. This project will investigate how soil microbiomes improve plant fitness under climate stress, identify scalable delivery methods, and validate outcomes in real-world contexts across diverse Australian landscapes. \nIt will also produce best-practice guidelines, decision-support tools, and training resources for land managers and policymakers. Expected benefits include faster ecosystem recovery, reduced replanting costs, improved mine-site rehabilitation, and new opportunities in biodiversity and carbon markets. These outcomes will align with national priorities on protecting and restoring Australia’s environment, climate change, soil health, and sustainable economic growth. \nTo promote uptake beyond academia, the project will be co-produced with government, NGO, and industry partners. Results will be shared through open data platforms, practitioner guidelines, and targeted training through workshops, policy briefings and demonstration filed days to maximise translation and adoption of findings. This will help catalyse a new microbiome restoration sector, build national capacity and skills, and create jobs across Australia.\n"
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/FT260100105"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "FT260100116",
+      "attributes": {
+        "code": "FT260100116",
+        "scheme-name": "ARC Future Fellowships",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "FT  ",
+          "program": "Discovery",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "FT26 Round 1"
+        },
+        "current-admin-organisation": "The Australian National University",
+        "announcement-admin-organisation": "The Australian National University",
+        "grant-summary": "Enabling resilience to climate extremes in future plant communities. Temperature and humidity determine limits to plant life in complex environments, yet we currently lack the ability to predict how these limits will affect communities as extreme climatic events intensify. This project aims to use innovative experiments and unified models to evaluate exposure and sensitivity of plant communities to heat and drying. Expected outcomes include fundamental knowledge of limits and plant strategies to mitigate and tolerate extremes, and enhanced conservation capacity via new software integrating plant physiology with microclimate ecology. Expected benefits included enhanced risk evaluation that underpins adaptation strategies in natural and urban ecosystems to minimise effects of a hotter, less predictable future.",
+        "lead-investigator": "Dr Pieter Arnold",
+        "current-funding-amount": 1004442,
+        "announced-funding-amount": 1001442,
+        "grant-status": "Active",
+        "primary-field-of-research": "3103 - Ecology",
+        "anticipated-end-date": "2030-06-30",
+        "investigators": "Dr Pieter Arnold",
+        "lief-register": [],
+        "national-interest-test-statement": "Extreme climatic events like heatwaves and hot droughts can severely impact ecosystems, agriculture and urban environments. Life-threatening heatwaves are becoming more severe and frequent. We urgently need to understand how plants communities can cope with extremes to assess true vulnerability and develop strategies to safeguard the vital services they provide to nature and society. This project aims to resolve this critical gap by pairing experiments and models to understand and predict limits to plant function during extremes and their capacity to recover. Australia will benefit from this project by building capacity to forecast climate impacts on plants broadly. Australia's environments are valued at $80B for climate regulation, water supply and grazing, while healthy biodiverse ecosystems are immensely valuable for culture and tourism. Most of Australia’s population lives in urban environments where plants provide essential cooling, shading and air quality services that support health and liveability. While this project centres on natural and urban vegetation, it applies to Australian commercial and economic industries that rely on continued plant resilience: forestry ($11B), agricultural crops ($28B) and horticulture ($17B). Collaborations with botanic gardens and conservation managers will support practical adaptation strategies while public engagement through workshops and citizen science will ensure broad understanding and inspire hope for a greener, cooler future."
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/FT260100116"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "FT260100124",
+      "attributes": {
+        "code": "FT260100124",
+        "scheme-name": "ARC Future Fellowships",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "FT  ",
+          "program": "Discovery",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "FT26 Round 1"
+        },
+        "current-admin-organisation": "The University of Newcastle",
+        "announcement-admin-organisation": "The University of Newcastle",
+        "grant-summary": "Nanoscale restructuring of porous carbons for efficient energy storage. The project aims to develop a new class of flexible porous carbons for energy storage using a novel restructuring strategy based on organic solvents. Current porous carbons lack flexibility, limiting their usability where features such as wettability, conductivity, and graphitization are essential. The project will study how solvent-induced restructuring enables flexibility using advanced computational and spectroscopic studies, and intriguing preliminary results strengthen the project. Expected outcomes include low-cost and scalable electrode materials for energy storage. The work will generate new knowledge, benefit Australia’s transition to net-zero emissions targets, strengthen collaboration, and train emerging materials scientists.",
+        "lead-investigator": "Dr Gurwinder Singh",
+        "current-funding-amount": 995756,
+        "announced-funding-amount": 992736,
+        "grant-status": "Active",
+        "primary-field-of-research": "3403 - Macromolecular and Materials Chemistry",
+        "anticipated-end-date": "2030-06-30",
+        "investigators": "Dr Gurwinder Singh",
+        "lief-register": [],
+        "national-interest-test-statement": "Australia’s transition to renewable energy is crucial for achieving net-zero emissions and reducing reliance on fossil fuels. However, the widespread adoption of renewables in the energy sector is hindered mainly by the lack of safe, affordable, and high-performance energy storage materials. Traditional carbon materials used for energy storage are amorphous, rigid, and hydrophobic, limiting their ability to store energy efficiently. This fellowship aims to address this challenge by developing a new type of carbon-based energy storage material from waste biomass like agricultural residues using a novel technique that employs organic solvents to reshape the carbon structure, making it more flexible and better at conducting electricity. This increased flexibility will improve its ability to absorb and move ions. The research will also explore how the solvent works at a microscopic level to relax the internal stress in the carbon, helping it take on the desired structure. This approach not only improves energy storage but also supports environmental sustainability by recycling waste and contributing to the circular economy. The outcomes will enable the development of low-cost energy storage materials crucial for energy generation and storage industries, thereby strengthening Australia's energy security. To ensure broader impact, public engagement, and industrial partnerships will be stimulated through collaboration with clean tech businesses and social enterprise collaborations."
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/FT260100124"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "FT260100125",
+      "attributes": {
+        "code": "FT260100125",
+        "scheme-name": "ARC Future Fellowships",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "FT  ",
+          "program": "Discovery",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "FT26 Round 1"
+        },
+        "current-admin-organisation": "Queensland University of Technology",
+        "announcement-admin-organisation": "Queensland University of Technology",
+        "grant-summary": "Flexible Inorganic Thermoelectrics for Wearable Power Generation. Wearable thermoelectrics can directly convert body heat into electricity, providing a sustainable solution for powering wearable electronics. However, their limited performance and durability currently restrict practical use. This project will develop new low-cost, environmentally friendly materials for flexible thermoelectric devices based on magnesium-based films. Using advanced synthesis and mechanisms, it aims to achieve high energy-conversion efficiency and mechanical flexibility for durable, self-charging electronics. The outcomes include improved materials and device designs, scalable fabrication methods, and training for young researchers, strengthening Australia’s leadership in sustainable energy and advanced materials innovation.",
+        "lead-investigator": "Dr Xiaolei Shi",
+        "current-funding-amount": 1168049,
+        "announced-funding-amount": 1164563,
+        "grant-status": "Active",
+        "primary-field-of-research": "4016 - Materials Engineering",
+        "anticipated-end-date": "2030-06-30",
+        "investigators": "Dr Xiaolei Shi",
+        "lief-register": [],
+        "national-interest-test-statement": "This project aims to develop next-generation magnesium-based flexible thermoelectric thin films and devices that efficiently harvest body heat to power wearable electronics. Current flexible thermoelectric technologies are constrained by low output power, poor mechanical stability, and high cost. By integrating advanced band/interface engineering, scalable thin-film fabrication, and device design, this research will address a critical gap in delivering high-performance, low-cost, and eco-friendly flexible thermoelectrics for sustainable energy conversion in Australia.\nThe outcomes will support Australia’s economic and environmental priorities by enabling maintenance-free, self-powered electronics, reducing dependence on batteries and fossil fuels. This technology can be applied in healthcare (e.g., medical sensors, pacemakers), defence wearables, smart textiles, and energy recovery systems, driving innovation in advanced manufacturing. Environmentally, it contributes to decarbonisation by converting waste heat into clean electricity, aligning with national net-zero targets.\nTo maximise impact beyond academia, outcomes will be translated through industry partnerships, IP protection, and commercial pathways. Engagement with the ARC Research Hub in Zero-emission Power Generation, industry, and government, along with public demonstrations and outreach via national and international platforms, will promote a broad understanding, adoption, and long-term benefits for Australians."
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/FT260100125"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "FT260100138",
+      "attributes": {
+        "code": "FT260100138",
+        "scheme-name": "ARC Future Fellowships",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "FT  ",
+          "program": "Discovery",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "FT26 Round 1"
+        },
+        "current-admin-organisation": "The University of Melbourne",
+        "announcement-admin-organisation": "The University of Melbourne",
+        "grant-summary": "Speed Matters: Overcoming Slow Convergence in Mathematical Optimisation. This project will develop the mathematical foundations needed for improving the performance of iterative methods from optimisation without requiring additional computational power. Although accelerated optimisation algorithms are now central to machine learning, the underlying mechanisms behind their effectiveness remain poorly understood. Building on recent breakthroughs in the field, this project expects to develop new mechanisms for improving performance in optimisation and take key steps towards a general mathematical theory of acceleration. The project is expected to provide significant benefits in large-scale machine learning where computational performance directly translates into energy consumption.",
+        "lead-investigator": "A/Prof Matthew Tam",
+        "current-funding-amount": 1143925,
+        "announced-funding-amount": 1140460,
+        "grant-status": "Active",
+        "primary-field-of-research": "4903 - Numerical and Computational Mathematics",
+        "anticipated-end-date": "2030-06-30",
+        "investigators": "A/Prof Matthew Tam",
+        "lief-register": [],
+        "national-interest-test-statement": "Large-scale artificial intelligence is having a transformative effect on society, enabling innovations such as self-driving cars, early disease detection and next-generation climate models. However, this excitement is being tempered by concerns in the unsustainable energy demands of these technologies and their associated environmental impact. Underlying many of the energy-intensive components in these technologies are tools from the field of mathematical optimisation. This project will advance research in mathematical optimisation to develop improved versions of these tools, which perform the same tasks with significantly less energy usage. The research will position Australia as a world leader in optimisation technologies as well as reduce environment impact in its applications such as artificial intelligence. Outcomes from this project will be communicated through academic journals, public lectures and research-based news platforms."
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/FT260100138"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "FT260100139",
+      "attributes": {
+        "code": "FT260100139",
+        "scheme-name": "ARC Future Fellowships",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "FT  ",
+          "program": "Discovery",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "FT26 Round 1"
+        },
+        "current-admin-organisation": "The University of New South Wales",
+        "announcement-admin-organisation": "The University of New South Wales",
+        "grant-summary": "Soft Robotic Atrioventricular Model to Unravel Motion-Haemodynamic Coupling. This fellowship develops an assistive soft robotic simulator to unveil new understanding on how motion, fluidic pressure and flow drive the heart. It gives fundamental insights into heart's mechanical and fluidic mechanisms that are inaccessible from current simulator or animal models. By recreating these complex processes, it unlocks core principles and shows how prosthetic and assistive device interact and alter heart performance. Outcomes include new method to fabricate and control soft robotic organs, atlas for better cardiac & assistive device design, new benchmarks & testbeds for research and skill training. It will also foster cross-disciplinary collaboration, enhance Australia’s research, education, benefit consumers and healthcare.",
+        "lead-investigator": "A/Prof Thanh Nho Do",
+        "current-funding-amount": 1170035,
+        "announced-funding-amount": 1166536,
+        "grant-status": "Active",
+        "primary-field-of-research": "4007 - Control Engineering, Mechatronics and Robotics",
+        "anticipated-end-date": "2031-11-30",
+        "investigators": "A/Prof Thanh Nho Do",
+        "lief-register": [],
+        "national-interest-test-statement": "A cardiac simulator is a physical platform that reproduces the heart motion, pressure, and flow for engineering evaluation, teaching, and research. It is needed because animals are typically healthy and cannot replicate specific heart conditions, while current simulators fail to capture heart’s complex 3D motions and flow. The global cardiac-device market is valued at US$60B, yet many prototypes stall before translation due to inadequate, non-reproducible testing. This project will create the first tunable soft-robotic heart as an ethical, repeatable testbed that reduces reliance on animals and enables controlled studies beyond current rigs. Outcomes include new methods for manufacturing soft robotic components, sensing and control, and open datasets, protocols and benchmarks that raise national standards. The work aligns with Australian priorities in robotics, sensing, AI and high-value manufacturing, and with global trends emphasising non-animal methods (e.g., NIH), Australia’s 3Rs initiative to replace or reduce animal studies. It will build sovereign capability to design, fabricate and validate complex bio-inspired systems domestically, reducing costly offshore testing and strengthening med-tech supply chains. The project will train a cross-disciplinary workforce and produce interoperable tools for future device testing, education and skills development. Anticipated benefits include lower R&D costs, fewer animal studies, improved export readiness, and new high-value jobs."
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/FT260100139"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "FT260100155",
+      "attributes": {
+        "code": "FT260100155",
+        "scheme-name": "ARC Future Fellowships",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "FT  ",
+          "program": "Discovery",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "FT26 Round 1"
+        },
+        "current-admin-organisation": "RMIT University",
+        "announcement-admin-organisation": "RMIT University",
+        "grant-summary": "Atomically sharp interfaces for in-material retina-like motion perception. This project aims to understand the peculiar light-matter interactions in defect-rich optically-active materials and their hybrids. By engineering stacked heterostructures, this project will create materials with bipolar and persistent photoelectrical properties, not possible using current solid state electronics. This will result in new optoelectronic materials that mimic the analog motion perception of retinal bipolar cells. Expected outcomes include new knowledge of how intrinsic defects in extremely thin semiconductor materials can be used to achieve in-material visual scene detection, storage and processing. This should provide benefits in miniaturised materials for autonomous sensing systems in size and power-constrained environments.",
+        "lead-investigator": "Prof Sumeet Walia",
+        "current-funding-amount": 1308168,
+        "announced-funding-amount": 1304310,
+        "grant-status": "Active",
+        "primary-field-of-research": "4018 - Nanotechnology",
+        "anticipated-end-date": "2030-06-30",
+        "investigators": "Prof Sumeet Walia",
+        "lief-register": [],
+        "national-interest-test-statement": "Miniaturised devices capable of perceiving motion in images, similar to human vision, are set to transform future computing and autonomous sensing by eliminating the need for separate, power-hungry components while enabling real-time decision-making based on sensor data. This transition is essential to reduce Australia's growing energy footprint while enabling next-generation technologies for transport, health, defence, and smart environments. Inspired by the sophisticated and energy-efficient nature of human vision, and specifically the role of analog motion perception in retinal cells, this project addresses foundational gaps in realising such hardware. Leveraging advances in materials engineering and optical science, the research aligns with Australia's strategic interest in critical technologies, fostering sovereign capability in intelligent sensors and miniaturised imaging platforms. Anticipated outcomes include new economic, social, and employment opportunities, empowering Australia to lead in areas such as autonomous vehicles, environmental monitoring, portable health systems, space and agricultural sensing, and self-guided manufacturing. The project supports national priorities advancing Australia's competitiveness and security in an evolving global landscape. Outcomes will be promoted through industry partnerships, targeted demonstrations to end-users, open-access publications, patent protection, and engagement with government to accelerate commercial translation."
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/FT260100155"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "FT260100167",
+      "attributes": {
+        "code": "FT260100167",
+        "scheme-name": "ARC Future Fellowships",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "FT  ",
+          "program": "Discovery",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "FT26 Round 1"
+        },
+        "current-admin-organisation": "Adelaide University",
+        "announcement-admin-organisation": "Adelaide University",
+        "grant-summary": "Developing novel time use tools to support ageing in place. This project aims to develop and validate an AI-enhanced, open-access digital tool, the MARCA+, that will transform time-use research and support cognitive and brain ageing. Aim 1 will identify the time-use patterns most strongly associated with cognitive function and brain outcomes using novel compositional longitudinal modelling. These insights will inform Aims 2 and 3, which will co-design and validate the MARCA+ tool to enable automated recall and classification of daily activity context. Co-designed with key stakeholders, the tool will enable scalable, context-rich data collection at a population level for the first time.",
+        "lead-investigator": "Prof Ashleigh Smith",
+        "current-funding-amount": 1325896,
+        "announced-funding-amount": 1321918,
+        "grant-status": "Active",
+        "primary-field-of-research": "5201 - Applied and Developmental Psychology",
+        "anticipated-end-date": "2031-01-31",
+        "investigators": "Prof Ashleigh Smith",
+        "lief-register": [],
+        "national-interest-test-statement": "Understanding how daily activity patterns influence cognitive and brain ageing is critical to addressing the challenges of Australia’s ageing population. Over the next 15 years, the proportion of Australians aged over 65 is projected to increase from 16% to 20%, amplifying the need for scalable, evidence-based strategies that enable population-level surveillance of lifestyle behaviours. This project will apply artificial intelligence (AI) and machine learning to advance time-use research by co-designing a scalable, open-access tool that captures rich time-use data, including screen time, cognitive load and activity context. The tool will link with wearable data, and other available health data from mobile phones, enabling large-scale, longitudinal research into the behavioural determinants of successful ageing.\nThe project will deliver economic and social benefits by reducing the reliance on residential aged care, empowering older Australians to remain independent and engaged. Creating a tool suitable for older Australian’s will scale easily for younger populations, leading to commercial opportunities in Australia’s growing digital health sector. The project will also provide advanced training for Early Career Researchers and PhD students in AI, machine learning and co-design, strengthening Australia’s research capacity and positioning it as a global leader in digital innovations for successful ageing. "
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/FT260100167"
+      }
+    }
+  ]
+}

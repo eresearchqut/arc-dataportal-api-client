@@ -1,0 +1,876 @@
+{
+  "meta": {
+    "requested-page-number": 1,
+    "requested-page-size": 20,
+    "actual-page-size": 20,
+    "total-pages": 10,
+    "total-size": 193,
+    "search-description": {
+      "ast": {
+        "Name": "FilterExpressionOnly",
+        "TokenText": "lief-register",
+        "TokenString": null,
+        "ChildNodes": [
+          {
+            "Name": "FilterPrimaryExpression",
+            "TokenText": "lief-register",
+            "TokenString": null,
+            "ChildNodes": [
+              {
+                "Name": "FilterPrimaryExpression",
+                "TokenText": "lief-register",
+                "TokenString": null,
+                "ChildNodes": [
+                  {
+                    "Name": "LiefRegisterExpression",
+                    "TokenText": "lief-register",
+                    "TokenString": null,
+                    "ChildNodes": [
+                      {
+                        "Name": "lief-register",
+                        "TokenText": "lief-register",
+                        "TokenString": "lief-register",
+                        "ChildNodes": null
+                      },
+                      {
+                        "Name": "=",
+                        "TokenText": "=",
+                        "TokenString": "=",
+                        "ChildNodes": null
+                      },
+                      {
+                        "Name": "FilterPhrase",
+                        "TokenText": "\"true\"",
+                        "TokenString": "true",
+                        "ChildNodes": null
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "types": {
+        "Inflectional": 1,
+        "Thesaurus": 2,
+        "Exact": 3
+      }
+    },
+    "sort-by": ""
+  },
+  "links": {
+    "self": "http://dataportal.arc.gov.au/NCGP/API/grants?page%5Bnumber%5D=1&page%5Bsize%5D=20&filter=%28lief-register%3D%22true%22%29",
+    "first": "http://dataportal.arc.gov.au/NCGP/API/grants?page%5Bnumber%5D=1&page%5Bsize%5D=20&filter=%28lief-register%3D%22true%22%29",
+    "last": "http://dataportal.arc.gov.au/NCGP/API/grants?page%5Bnumber%5D=10&page%5Bsize%5D=20&filter=%28lief-register%3D%22true%22%29",
+    "prev": "http://dataportal.arc.gov.au/NCGP/API/grants?page%5Bnumber%5D=1&page%5Bsize%5D=20&filter=%28lief-register%3D%22true%22%29",
+    "next": "http://dataportal.arc.gov.au/NCGP/API/grants?page%5Bnumber%5D=2&page%5Bsize%5D=20&filter=%28lief-register%3D%22true%22%29"
+  },
+  "data": [
+    {
+      "type": "grants",
+      "id": "LE260100163",
+      "attributes": {
+        "code": "LE260100163",
+        "scheme-name": "Linkage Infrastructure, Equipment and Facilities",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "LE  ",
+          "program": "Linkage",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "LE26 Round 1"
+        },
+        "current-admin-organisation": "The University of New South Wales",
+        "announcement-admin-organisation": "The University of New South Wales",
+        "grant-summary": "Facility for Integrated Sensing and Communication: Gigahertz to Terahertz. This project aims to establish an ultrahigh bandwidth and resolution integrated sensing and communication facility in NSW, a key enabler for next generation of communication networks. Built on a photonic-based platform, this facility will significantly enhance resilience of Australia’s capabilities in telecommunications, healthcare and defence sectors. The expected outcomes will foster ground-breaking research in the combined area of millimetre-wave, terahertz and photonics for realising net zero emissions target of 6G networks. Benefits include the provision of critical emerging technologies for AI, computing and communications to significantly enhance Australia’s national interest in high-speed networks and smart sensing.",
+        "lead-investigator": "A/Prof Shaghik Atakaramians",
+        "current-funding-amount": 1409000,
+        "announced-funding-amount": 1409000,
+        "grant-status": "Active",
+        "primary-field-of-research": "4006 - Communications Engineering",
+        "anticipated-end-date": "2026-12-31",
+        "investigators": "A/Prof Shaghik Atakaramians; Dr Deepak Mishra; Prof Jinhong Yuan; Prof Aruna Seneviratne; A/Prof Derrick Wing Kwan Ng; Dr Moritz Merklein; Prof Yang Yang; Prof Andrew Zhang; Dr Daniel Headland; Prof Benjamin Eggleton; Prof Sharath Sriram; Dr Rajour Tanyi Ako; Mrs Parisa Yadranjee Aghdam",
+        "lief-register": [
+          {
+            "primaryItem": "100GHz photodetector",
+            "isItemAvailable": true
+          },
+          {
+            "primaryItem": "Arbitrary waveform generator (AWG)- M8194",
+            "isItemAvailable": true
+          },
+          {
+            "primaryItem": "Electrooptic modulator ",
+            "isItemAvailable": true
+          },
+          {
+            "primaryItem": "Microwave Photonics Integrated Sensing and Communication ",
+            "isItemAvailable": true
+          },
+          {
+            "primaryItem": "Optical and terahertz components and accessories",
+            "isItemAvailable": true
+          },
+          {
+            "primaryItem": "Real-time spectrum analyser - N9042B",
+            "isItemAvailable": true
+          },
+          {
+            "primaryItem": "Terahertz photonic-based Integrated Sensing and Communication ",
+            "isItemAvailable": true
+          },
+          {
+            "primaryItem": "UTC-PD module- D-band",
+            "isItemAvailable": true
+          },
+          {
+            "primaryItem": "VXG vector signal generator M9484C",
+            "isItemAvailable": true
+          },
+          {
+            "primaryItem": "Wideband oscilloscope- UXR-Series",
+            "isItemAvailable": true
+          }
+        ],
+        "national-interest-test-statement": "The project aims to create a facility for fundamental and translational ground-breaking research in next-generation communication technologies for 6G to strengthen Australia’s defence and enabling capabilities. The facility will be a significant addition to Australian research capabilities as it will cover a wide spectrum from radio waves to the communication band beyond 5G, which is of prime interest to telecommunication vendors and industry. The project enables amalgamation of high-throughput communication channels with ultra-high accuracy localisation, augmented sensing, and activity recognition leading into new applications for building a secure and resilient Australia. The expected outcomes will enhance the development of critical technologies in the Australia’s National Interest list for 2022 that includes advanced materials and manufacturing; AI, computing, and communications; and sensing, timing and navigation.\nThis facility has significant potential to secure intellectual property rights for Australia in the field of next-generation communications, where the global market is estimated at $340 billion by 2040. This facility is strongly supported by 5 universities, who in turn have strong collaborations with telecommunication industries, which can assist with the potential translation of research outcomes and inventions via start-ups and spin-offs. This is aligned with the roadmap aimed at building a prosperous tech workforce in Australia, 1.2 million tech jobs by 2030"
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LE260100163"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LE260100170",
+      "attributes": {
+        "code": "LE260100170",
+        "scheme-name": "Linkage Infrastructure, Equipment and Facilities",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "LE  ",
+          "program": "Linkage",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "LE26 Round 1"
+        },
+        "current-admin-organisation": "University of Technology Sydney",
+        "announcement-admin-organisation": "University of Technology Sydney",
+        "grant-summary": "Active Load-Pull Facility for Device, Circuit and System Characterisation . This project will establish advanced characterisation capabilities for the semiconductor industries by acquiring a state-of-the-art load-pull system. The system will support cutting-edge technologies, particularly in wireless integrated circuit design, enabling local businesses and research institutions to conduct essential development in Australia. By reducing reliance on overseas facilities, this facility will foster innovation, enhance economic growth, and support workforce development. It will help maintain Australia's competitive edge globally, create high-tech jobs, and encourage public-private collaborations. Expected outcomes include new intellectual property, stronger industry engagement, and enhanced research capabilities.",
+        "lead-investigator": "A/Prof Xi (Forest) Zhu",
+        "current-funding-amount": 720568,
+        "announced-funding-amount": 720568,
+        "grant-status": "Active",
+        "primary-field-of-research": "4009 - Electronics, Sensors and Digital Hardware",
+        "anticipated-end-date": "2027-09-30",
+        "investigators": "A/Prof Xi (Forest) Zhu; Prof Withawat Withayachumnankul; Prof Yonghui Li; Dr Maja Cassidy; A/Prof Jarryd Pla; A/Prof Dushmantha Thalakotuna; A/Prof Cuong Ton-That; Prof Karu Esselle; A/Prof Ke Wang; A/Prof Negin Shariati; Prof Michael Boers; Dr Bryan Schwitter; Dr Venkata Gutta",
+        "lief-register": [
+          {
+            "primaryItem": "The Keysight M9384C is a compact, high-performance RF vector signal generator offering wide frequency coverage and exceptional signal quality.",
+            "isItemAvailable": true
+          },
+          {
+            "primaryItem": "The Keysight PNA-X is a high-performance vector network analyser for precise, multi-port testing in RF, microwave, and millimetre-wave applications.",
+            "isItemAvailable": true
+          },
+          {
+            "primaryItem": "The Keysight S94572B provides precise, real-time load impedance control for high-frequency device characterisation and optimisation.",
+            "isItemAvailable": true
+          }
+        ],
+        "national-interest-test-statement": "The dependency of local businesses and research institutes on expensive foreign facilities hinders local innovation, economic growth and workforce development.  This project proposes a mixed-signal active load-pull facility that directly supports the goals of fostering innovation in advanced technologies such as 5G, IoT, and automotive electronics. By providing local, high-precision testing and measurement capabilities, it will reduce reliance on foreign infrastructure, safeguarding national security and promoting technological self-sufficiency. The facility will drive economic growth by enabling domestic businesses to stay competitive in the global semiconductor market, create high-tech jobs, and attract investment. The project is expected to contribute to strengthening research and development capabilities in both the public and private sectors, supporting Australia’s leadership in emerging technologies. It will benefit the Australian public by providing strategic importance to Australia’s economic, technological, and security interests and enabling the nation to stay competitive globally, create high-tech jobs, and support public-private collaborations. Expected outcomes include the creation of new intellectual property and enhanced engagement with industry. "
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LE260100170"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LE260100005",
+      "attributes": {
+        "code": "LE260100005",
+        "scheme-name": "Linkage Infrastructure, Equipment and Facilities",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "LE  ",
+          "program": "Linkage",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "LE26 Round 1"
+        },
+        "current-admin-organisation": "The University of Melbourne",
+        "announcement-admin-organisation": "The University of Melbourne",
+        "grant-summary": "A next generation single-photon microscope for dynamic live cell biology. This project aims to establish a single-photon counting image scanning microscope that is capable of single-molecule fluorescence spectroscopy and empowers researchers across Australia to perform dynamic structural biology with unprecedented spatiotemporal resolution. By combining time-resolved single-photon counting electronics with single-photon avalanche diode array technology, this microscope will provide picosecond-level detection of fluorescent protein properties (intensity, lifetime, anisotropy) that can reveal nanoscale changes in protein structure down to the nanosecond timescale. This breakthrough is expected to advance Australian research by enabling direct observation of protein dynamics previously beyond reach in a living cell.",
+        "lead-investigator": "A/Prof Elizabeth Hinde",
+        "current-funding-amount": 1025000,
+        "announced-funding-amount": 1025000,
+        "grant-status": "Active",
+        "primary-field-of-research": "3101 - Biochemistry and Cell Biology",
+        "anticipated-end-date": "2026-12-31",
+        "investigators": "A/Prof Elizabeth Hinde; A/Prof Paul McMillan; Prof Matthew Watt; Prof Daniel Hatters; Prof Christopher McDevitt; Prof Mathias Francois; A/Prof Alyson Ashe; Prof Kieran Harvey; Prof Lee Wong; Prof Yuning Hong; A/Prof Donna Whelan; Prof Sarah Russell; Prof Andrew Clayton",
+        "lief-register": [
+          {
+            "primaryItem": "Single-photon counting image scanning microscope for single-molecule fluorescence spectroscopy of protein structure and dynamics in a living cell.",
+            "isItemAvailable": true
+          }
+        ],
+        "national-interest-test-statement": "Understanding the single-molecule events that govern cell biology, particularly the behaviour and interactions of proteins, is essential for advancing scientific knowledge and driving breakthroughs in biotechnology. This is because these molecular processes control fundamental biological functions, such as gene expression and cellular metabolism. However, Australia currently faces a significant gap in its ability to directly measure protein structure, interaction, and dynamics within the intracellular environment. To address this technological gap, we propose the establishment of an innovative image scanning microscope in Australia that combines cutting-edge single-photon avalanche diode (SPAD) detector technology with time-correlated single-photon counting (TCSPC). This integration will enable real-time, high-resolution observation of protein behaviour at the single-molecule level within living cells, providing unparalleled insights into protein function and interaction in their native cellular context. This research infrastructure will not only enhance scientific understanding but also drive innovation in biotechnology. By enabling precise measurements of protein dynamics, it will accelerate drug discovery, improve diagnostic technologies, and strengthen Australia’s competitive position in the global biotechnology market, contributing to both economic growth and social well-being."
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LE260100005"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LE260100008",
+      "attributes": {
+        "code": "LE260100008",
+        "scheme-name": "Linkage Infrastructure, Equipment and Facilities",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "LE  ",
+          "program": "Linkage",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "LE26 Round 1"
+        },
+        "current-admin-organisation": "The Australian National University",
+        "announcement-admin-organisation": "The Australian National University",
+        "grant-summary": "Australian Partnership for Breakthrough Science in the Advanced LIGO+ Era. Australia is currently a global leader in gravitational-wave astrophysics, through key technological and scientific contributions to the Advanced LIGO+ Observatories located in the USA. Gravitational-wave observatories provide a fundamentally new way to observe the Universe, allowing us to witness and explore the nature of extraordinarily powerful events such as the mergers of binary black holes and neutron stars. In partnership with the USA and UK, we expect to provide crucial enhancements enabling discoveries of hundreds of gravitational wave events per year. The project will maintain Australia's global leadership in the field, and inspire our next generation of scientists and researchers in this exciting domain.",
+        "lead-investigator": "A/Prof Bram Slagmolen",
+        "current-funding-amount": 2972043,
+        "announced-funding-amount": 2972043,
+        "grant-status": "Active",
+        "primary-field-of-research": "5101 - Astronomical Sciences",
+        "anticipated-end-date": "2028-12-31",
+        "investigators": "A/Prof Bram Slagmolen; Prof David Ottaway; Prof Robert Ward; Dr Ling Sun; Prof Peter Veitch; A/Prof Chunnong Zhao; Dr Carl Blair; Prof Paul Lasky; Prof Eric Thrane; Prof Andrew Melatos; Prof Matthew Bailes; Dr Jade Powell; Em/Prof David McClelland; Dr David Reitze; Dr Jennifer Driggers",
+        "lief-register": [
+          {
+            "primaryItem": "Advanced LIGO+ is an astronomical facility for the detection of gravitational waves",
+            "isItemAvailable": true
+          }
+        ],
+        "national-interest-test-statement": "New discoveries about the Universe are a superbly effective way to fire up the public's imagination, and inspire interest in Science, Technology, Engineering and Mathematics (STEM). Australia is at the forefront of gravitational-wave technology, driving advancements in precision instrumentation and optical systems for the Laser Interferometer Gravitational-Wave Observatory (LIGO) in the USA. Australia’s technological and scientific partnership in LIGO has led to amazing discoveries, inspiring curiosity and wonder about the Universe. These achievements have boosted scientific literacy, deepened public engagement, and enriched Australia’s cultural and educational landscape, especially for young Australians.\nThis project will see Australian scientists design and deliver key hardware and other upgrades to LIGO, to see further into the Universe than ever before, to boost Australia's long-standing scientific excellence, intellectual capital, and innovation on a global stage.\nThe team has an excellent track record of science and technology investment in LIGO, with spin-off applications for Australian industry, job opportunities in critical domains like precision instrumentation, data analysis and high-speed/big data computing, the promotion of diversity and cultural understanding, and extraordinary discoveries about the Universe.\n"
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LE260100008"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LE260100009",
+      "attributes": {
+        "code": "LE260100009",
+        "scheme-name": "Linkage Infrastructure, Equipment and Facilities",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "LE  ",
+          "program": "Linkage",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "LE26 Round 1"
+        },
+        "current-admin-organisation": "Adelaide University",
+        "announcement-admin-organisation": "The University of Adelaide",
+        "grant-summary": "3D Printing Facility for Precision Micro & Nano Photonics. This project aims to create a 3D Printing Facility for Precision Micro & Nano Photonics that enables high-speed and precise fabrication of complex optical micro-structures with nano-scale features, ultra-smooth surfaces and high-accuracy alignment. This is expected to achieve seamless integration of optical fibres and photonic chips with each other and their environment, which is crucial for their practical deployment outside of well-controlled laboratories. Expected outcomes of the proposed facility include the convergence of multiple disciplines and the fostering of innovation, enabling research in quantum technology, secure communications, bioimaging, sensing, materials science and more—ultimately accelerating industrial translation.",
+        "lead-investigator": "A/Prof Jiawen Li",
+        "current-funding-amount": 1317432,
+        "announced-funding-amount": 1317432,
+        "grant-status": "Active",
+        "primary-field-of-research": "4009 - Electronics, Sensors and Digital Hardware",
+        "anticipated-end-date": "2027-07-01",
+        "investigators": "A/Prof Jiawen Li; Prof Heike Ebendorff-Heidepriem; A/Prof Andreas Boes; A/Prof Ling Yin; Prof Kishan Dholakia; Prof Arnan Mitchell; A/Prof Shahraam Afshar Vahid; Dr Stephen Warren-Smith; Dr Haoran Ren; Dr Michael Barson; Dr Martin Ploschner; A/Prof Mary Jacquiline Romero; Dr Moritz Merklein",
+        "lief-register": [
+          {
+            "primaryItem": "The 3D Printing Facility for Precision Micro & Nano Photonics creates bespoke 3D nanostrucutres suited for optically interfacing devices and systems.",
+            "isItemAvailable": true
+          }
+        ],
+        "national-interest-test-statement": "The advancement of imaging, sensing, quantum computing, and super-fast communication technologies requires compact, high-performance photonic devices that can seamlessly interface with each other. Currently Australia lacks the capability for creating such interfaces. The proposed facility will overcome this technological gap by bringing a world-class capability to Australia that allows precise printing of micro and nano photonic components needed for realising the critical interfacing between advanced photonic devices into fully integrated systems. The proposed facility will operate as a shared and open-access research facility. \n\nThe cutting-edge and portable photonic systems that will be enabled by the facility will create wide economic benefits across multiple industries by addressing diverse needs in areas such as environmental monitoring, Defence and National Security, telecommunication and health industries. Additional social benefits will be realised by increasing Australia’s competitiveness in imaging, sensing, information, and communication sectors. For example, this facility will enable 1) efficiently interconnected photonic chips to create systems for precision sensing and high-speed communication and 2) non- or minimal-invasively fibre devices to image and sense in previously inaccessible regions in brain, heart and embryos. Project outcomes will be communicated to the public through media releases, social media and proactive engagement with the media.\n"
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LE260100009"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LE260100016",
+      "attributes": {
+        "code": "LE260100016",
+        "scheme-name": "Linkage Infrastructure, Equipment and Facilities",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "LE  ",
+          "program": "Linkage",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "LE26 Round 1"
+        },
+        "current-admin-organisation": "University of Technology Sydney",
+        "announcement-admin-organisation": "University of Technology Sydney",
+        "grant-summary": "3D Nanofabrication facility. This project aims to establish a 3D nanofabrication facility with capabilities that will be unique in Australia. It will enable a combination of planar and non-planar nanofabrication capacities with feature sizes spanning nanometers to millimeters. The facility will support research and translation accross quantum technologies, sensing, meta-optics and photovoltaics, including emerging materials that are incompatible with standard nanofabrication protocols. Expected outcomes include breakthrough in device engineering, new economic initiatives and training of Australians on state of the art nanofabrication capabilities, thus expanding the advanced manufacturing and green energy sectors, and growing the quantum technology sector.",
+        "lead-investigator": "Prof Igor Aharonovich",
+        "current-funding-amount": 1330000,
+        "announced-funding-amount": 1330000,
+        "grant-status": "Active",
+        "primary-field-of-research": "4018 - Nanotechnology",
+        "anticipated-end-date": "2027-07-26",
+        "investigators": "Prof Igor Aharonovich; Prof Hark Hoe Tan; A/Prof Jean-Philippe Tetienne; Prof Glenn Solomon; Prof Jan Seidel; A/Prof Shery Chang; A/Prof Nathan Langford; Dr Natalie Holmes; Dr Daria Smirnova; Prof Sumeet Walia; A/Prof Gilberto Umana-Membreno; A/Prof Martin Hill; Dr David Broadway; Prof Milos Toth",
+        "lief-register": [
+          {
+            "primaryItem": "3D nanofabrication facility (direct write gas assisted + two photon polymerisation tool)",
+            "isItemAvailable": true
+          }
+        ],
+        "national-interest-test-statement": "The Australian government is investing heavily in the advanced manufacturing,energy sectors, and the emerging quantum industry. These sectors, deemed critical to economic prosperity and sovereignty of the nation, are underpinned by advanced nanofabrication capabilities and a highly skilled local workforce. This project seeks to establish a 3D nanofabrication infrastructure that will support  future-generation research and technologies that underpin these sectors. It will enable training of Australians and help secure a pipeline of local talent for the required high-tech workforce. The infrastructure will benefit the Australian labour market, and it will yield socioeconomic benefits to the nation.\nThe facility will address a gap in Australian capabilities created by a growing need for non-planar nanofabrication of 3D device architectures. It will pave way to innovative nanofabrication workflows for non-conventional advanced nanomaterials that are incompatible with established manufacturing protocols. The facility will accelerate the development of functional materials and devices for quantum technologies, sensing, nanoelectronics, photovoltaics, meta-optics, energy storage, and cybersecurity hardware. Access to the infrastructure by local industries will help secure Australia as an independent, sovereign leader in the advanced manufacturing, green energy, cybersecurity and quantum technology sectors."
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LE260100016"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LE260100026",
+      "attributes": {
+        "code": "LE260100026",
+        "scheme-name": "Linkage Infrastructure, Equipment and Facilities",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "LE  ",
+          "program": "Linkage",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "LE26 Round 1"
+        },
+        "current-admin-organisation": "University of Technology Sydney",
+        "announcement-admin-organisation": "University of Technology Sydney",
+        "grant-summary": "Facility for Next-Generation Volatilomics Analysis of Complex Samples. Measuring volatile organic compounds (VOCs) is critical to gain a better understanding of our world; and is used to locate missing persons, monitor environmental contaminants and infer health status, with major implications across climate change, human safety and entire ecological communities. The proposed project will establish novel mass spectrometry capabilities that overcome current limitations, leveraging two state-of-the-art mass spectrometry systems that offer complementary capabilities for unprecedented comprehensive VOC covering. This will lead to increased understanding that will inform policy and the development of new interventions to prevent species decline, improve safety and ultimately helping to preserve our natural world.",
+        "lead-investigator": "A/Prof Maiken Ueland",
+        "current-funding-amount": 1787524,
+        "announced-funding-amount": 1787524,
+        "grant-status": "Active",
+        "primary-field-of-research": "3401 - Analytical Chemistry",
+        "anticipated-end-date": "2026-12-31",
+        "investigators": "A/Prof Maiken Ueland; Prof Matthew Padula; Prof Brian Oliver; Dr Jennifer Matthews; Prof William Donald; Prof Richard Stuetz; A/Prof Mark Raftery; Dr Martin Lindley; Dr Malcolm Possell; A/Prof Philip Barton; Prof Xavier Conlan; Prof Brett Neilan; Prof Jay Horvat; Dr Celine Kelso; Dr Jody Moller",
+        "lief-register": [
+          {
+            "primaryItem": "Automated thermal desorption (ATD) coupled with Orbitrap GC",
+            "isItemAvailable": true
+          },
+          {
+            "primaryItem": "Waters Atmospheric Pressure Gas Chromatography (APGC) coupled with Cyclic Ion Mobility Spectrometry (IMS)",
+            "isItemAvailable": true
+          }
+        ],
+        "national-interest-test-statement": "Measuring volatile organic compounds (VOCs) is critical to gain a better understanding of our world; and is used to locate missing persons, monitor environmental contaminants and infer health status, with major implications across climate change, human safety and entire ecological communities. In order to understand these signalling chemicals and their critical role as indicators of reef, terrestrial and atmospheric health, this project looks into improving the process of volatile analysis. Improved detection and identification of volatiles will allow for the development of new technologies and intervention strategies which will have a significant impact across numerous fields, especially in analytical chemistry and environmental sciences. The generated capability will be unique in Australia and position Australia as a global leader in volatilomics research, furthering international prestige and collaborations. This will bring notable benefit to the Australian society at large as it will help to safeguard our population and Australian environment. The project aims at promoting knowledge on environmental risks and human safety through awareness raising, research publications and interaction with media."
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LE260100026"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LE260100034",
+      "attributes": {
+        "code": "LE260100034",
+        "scheme-name": "Linkage Infrastructure, Equipment and Facilities",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "LE  ",
+          "program": "Linkage",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "LE26 Round 1"
+        },
+        "current-admin-organisation": "Adelaide University",
+        "announcement-admin-organisation": "The University of Adelaide",
+        "grant-summary": "Australian Optical Dating and Archaeological Luminescence Facility: AusOpAL. AusOpAL aims to transform our understanding of human evolution and past human interactions using next-generation innovations in luminescence dating. It addresses significant limitations in the scope and capacity of the national geochronology portfolio, unlocking Australian-first capabilities in emergent feldspar and quartz dating techniques and direct dating of archaeological materials such as stone tools. Expected outcomes include benchmark reconstructions of past human dispersals and cultures, advances in dating reliability and training of future geoscience expertise. This will provide important benefits for improved temporal appraisals of human history, including timing of human settlement and causes of megafauna extinction in Australia.",
+        "lead-investigator": "A/Prof Lee Arnold",
+        "current-funding-amount": 688334,
+        "announced-funding-amount": 688334,
+        "grant-status": "Active",
+        "primary-field-of-research": "4301 - Archaeology",
+        "anticipated-end-date": "2027-04-16",
+        "investigators": "A/Prof Lee Arnold; Dr Martina Demuro; Prof Bruno David; Prof Andy Herries; Dr Matthew Meredith-Williams; Prof Mike Morley; Prof Gavin Prideaux; A/Prof Bastien Llamas; Dr Elizabeth Reed; Dr Anna Kotarba; Dr Ashleigh Rogers; Dr Mathieu Duval; Dr Justin Shiner; Dr Shaun Adams; A/Prof Tiina Manne",
+        "lief-register": [
+          {
+            "primaryItem": "Broadband EMCCD imaging attachment for spatially resolved luminescence measurements.",
+            "isItemAvailable": true
+          },
+          {
+            "primaryItem": "Luminescence dating reader with dual detector infrared photoluminescence (IRPL) attachment.",
+            "isItemAvailable": true
+          },
+          {
+            "primaryItem": "Luminescence dating reader with high-sensitivity emission spectrometer for spectrally resolved TL, OSL, IRSL, TT-OSL and pIR-IRSL measurements.",
+            "isItemAvailable": true
+          },
+          {
+            "primaryItem": "Modified dual laser single-grain luminescence dating attachment for continuous and pulsed IRPL stimulation of individual grains.",
+            "isItemAvailable": true
+          },
+          {
+            "primaryItem": "Optical dating measurement facility with capabilities in spectrally and spatially resolved luminescence and infrared photoluminescence (IRPL) dating.",
+            "isItemAvailable": true
+          }
+        ],
+        "national-interest-test-statement": "This LIEF project will establish a world-leading geochronology laboratory (AusOpAL) with state-of-the-art capabilities in dating archaeological, palaeontological and geological materials. It will address major gaps in our understanding of Australia’s past climates, long-term biodiversity changes and environmental history, and it will provide critical new insights into the evolution and global dispersal history of our species, including when humans first arrived on our continent.\n\nThe facility will improve Australia’s skill base by training students with sought-after geoscience expertise, and it will sustain new and streamlined commercial dating services that benefit archaeology consultancy, mining and government sectors. It will ensure cultural benefits by strengthening research partnerships with Indigenous communities and heritage management, raising awareness of deep-time connections with Country and promoting science-based conservation initiatives at Australian heritage sites. By improving reconstructions of past climate change, AusOpAL will provide critical calibration datasets for climate forecast models, thereby optimising projections of future environmental changes affecting Australia.\n\nAusOpAL’s high-profile findings will be promoted beyond academia via social and mainstream media, popular science articles, public seminars, on-Country community meetings, and by hosting immersive student learning experiences, high-school outreach and laboratory showcasing events."
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LE260100034"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LE260100038",
+      "attributes": {
+        "code": "LE260100038",
+        "scheme-name": "Linkage Infrastructure, Equipment and Facilities",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "LE  ",
+          "program": "Linkage",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "LE26 Round 1"
+        },
+        "current-admin-organisation": "The University of New South Wales",
+        "announcement-admin-organisation": "The University of New South Wales",
+        "grant-summary": "Ultrafast Transmission Electron Microscopy Facility. This project aims to establish an ultrafast transmission electron microscopy facility that will enable direct visualisation of the charge creation, migration and combination in materials at the atomic scale within materials. This facility will achieve this by synchronising ultrafast pulsed laser and electron beam with high speed detector, retrofitted to an existing $7M ARC invested aberration-corrected transmission electron microscope. This Ultrafast Facility, the only one in Australia, will lead breakthrough outcomes for research and industry sectors in key national priorities of materials for quantum technologies, renewable energy harvest and storage, clean fuel production and biomedical diagnostic and therapy technologies. ",
+        "lead-investigator": "A/Prof Shery Chang",
+        "current-funding-amount": 1204160,
+        "announced-funding-amount": 1204160,
+        "grant-status": "Active",
+        "primary-field-of-research": "4018 - Nanotechnology",
+        "anticipated-end-date": "2027-08-27",
+        "investigators": "A/Prof Shery Chang; Prof Richard Tilley; Prof Jan Seidel; Prof Xiaojing Hao; Prof Liming Dai; Prof Igor Aharonovich; Dr Xiaoxue Xu; Prof Xiaozhou Liao; Prof Kourosh Kalantar-zadeh; Prof Ajayan Vinu; Prof Laure Bourgeois; Dr Amelia Liu; Prof Dougal McCulloch; Prof Sarah Harmer",
+        "lief-register": [
+          {
+            "primaryItem": "Ultrafast transmission electron microscopy facility with synchronized  pulsed laser and electron beam coupled with a ultra-high speed detector",
+            "isItemAvailable": true
+          }
+        ],
+        "national-interest-test-statement": "The ultrafast transmission electron microscopy facility will revolutionize our ability to track the migration of charges in materials and is vital for quantum sensing and information technologies, clean and renewable energy production and biomedical diagnostics and therapy technologies. This urgently needed facility will enable Australia to take a leading role in all of these key research areas and industries. The project aligns and underpins with Australian government’s National Science and Research Priorities of Transitioning to a net zero future, Building a secure and resilient nation and Supporting healthy and thriving communities , as well as National Reconstruction Fund priority areas of renewables and low emissions technologies and enabling capabilities. The supported research outcomes will impact in next generation materials for those above mentioned key technologies. The proposed facility will support > $115 million investment in research centres and industry-linked grants. The research supported by the facility will be used from the exploration of fundamental phenomena which will generate new knowledge, advancing science all the way to the understanding of commercial industrial samples. This facility will cultivate future industries, stimulate growth, create jobs, and lift productivity and maximising Australia’s competitive advantage in new materials. The facility also provides excellent training opportunities for the students, fostering Australian new workforce. "
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LE260100038"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LE260100041",
+      "attributes": {
+        "code": "LE260100041",
+        "scheme-name": "Linkage Infrastructure, Equipment and Facilities",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "LE  ",
+          "program": "Linkage",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "LE26 Round 1"
+        },
+        "current-admin-organisation": "Swinburne University of Technology",
+        "announcement-admin-organisation": "Swinburne University of Technology",
+        "grant-summary": "Laboratory X-ray Absorption Spectroscopy for Victoria and Queensland. This project aims to establish laboratory X-ray Absorption Spectroscopy (XAS) instruments in Victoria and Queensland, enhancing research nationwide by improving access to a vital characterization tool. Laboratory-based XAS will enable essential fast equipment access and long-term in situ studies. Two mirrored facilities—one at Swinburne University of Technology (Victoria) and the other at Queensland University of Technology (Queensland), each optimized for their stakeholders—will operate collaboratively, enhancing research impact through shared management, data handling, and expertise. The facilities will drive innovation across diverse fields including electro-catalysis, environmental science, critical minerals, and the circular economy.",
+        "lead-investigator": "Prof Rosalie Hocking",
+        "current-funding-amount": 1203756,
+        "announced-funding-amount": 1203756,
+        "grant-status": "Active",
+        "primary-field-of-research": "3402 - Inorganic Chemistry",
+        "anticipated-end-date": "2026-12-31",
+        "investigators": "Prof Alexandr Simonov; Prof Rosalie Hocking; Adj/Prof Anthony O'Mullane; A/Prof Joshua Lipton-Duffin; Dr Michael Jones; Dr Meng Li; A/Prof Hamid Arandiyan; Prof Torben Daeneke; Dr Mengran Li; Prof Feng Wang; A/Prof Will Gates; A/Prof Ellen Moon; Prof Lian Zhang; Dr Ryo Sekine; A/Prof Andrew Ang",
+        "lief-register": [
+          {
+            "primaryItem": "Laboratory XAS for in situ and ex situ innovation across Physical, Chemical, Materials and Environmental Sciences",
+            "isItemAvailable": true
+          }
+        ],
+        "national-interest-test-statement": "This project will establish laboratory-based X-ray Absorption Spectroscopy (XAS) facilities in Victoria and Queensland, addressing a crucial gap in Australia’s national infrastructure for advanced material characterization. XAS is a powerful analytical tool capable of probing nearly any sample environment in ways that other techniques cannot, making it indispensable for driving innovation across multiple fields. By enhancing Australia’s analytical capabilities, this project will provide a critical foundation for scientific and industrial advancement.\n\nThe proposed facility will substantially contribute to the generation of new knowledge essential for areas such as critical mineral recycling, the circular economy, and sustainable chemical manufacturing. It will also support the transition to carbon-neutral production of fuels, chemicals, and critical minerals—aligning with Australia’s commitment to achieving net-zero emissions by 2050.\n\nTo maximize impact, the project will facilitate knowledge translation through publications, patents, and direct industry engagement. The availability of laboratory-based XAS facilities will enable long terms studies not possible before in Australia and enhance collaboration between researchers and industry partners, accelerating the adoption of new technologies.\n\nAdditionally, we will establish a national XAS user network, promoting knowledge exchange and collaboration and education across Australia. "
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LE260100041"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LE260100042",
+      "attributes": {
+        "code": "LE260100042",
+        "scheme-name": "Linkage Infrastructure, Equipment and Facilities",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "LE  ",
+          "program": "Linkage",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "LE26 Round 1"
+        },
+        "current-admin-organisation": "Queensland University of Technology",
+        "announcement-admin-organisation": "Queensland University of Technology",
+        "grant-summary": "Photochemistry Mass Spectrometry Facility. Development of next-generation chemicals and materials requires concurrent advances in molecular characterisation technologies. This proposal aims to establish the first mass spectrometer in Australia dedicated to the detailed characterisation of light-responsive molecules and polymer materials. With unique capacity to initiate photochemical transformations on-demand, this novel and bespoke platform will elucidate molecular structure in real time with unparalleled specificity and sensitivity. Servicing an interdisciplinary research team, the platform will deepen our comprehension of light-matter interactions at a molecular scale, and accelerate transformative advances in applications across chemical, atmospheric, and materials sciences.",
+        "lead-investigator": "Dr David Marshall",
+        "current-funding-amount": 1354530,
+        "announced-funding-amount": 1354530,
+        "grant-status": "Active",
+        "primary-field-of-research": "3401 - Analytical Chemistry",
+        "anticipated-end-date": "2027-06-30",
+        "investigators": "Prof Adam Trevitt; Dr David Marshall; Prof Stephen Blanksby; Prof Christopher Barner-Kowollik; Prof Sally-Ann Poulsen; Prof Craig Williams; Prof Megan O'Mara; A/Prof Cheng Zhang; A/Prof Branka Miljevic; Dr Sinead Keaveney; A/Prof Hendrik Frisch",
+        "lief-register": [
+          {
+            "primaryItem": "A high resolution mass spectrometer for photochemistry",
+            "isItemAvailable": true
+          }
+        ],
+        "national-interest-test-statement": "Australia is endowed with abundant solar energy, which drives our unique climate and environment, and is key to Australia’s clean energy future. Harnessing the benefit of this unlimited natural resource to drive photochemical processes relies on a fundamental understanding of the interaction between light and matter at the molecular\nscale. Mass spectrometry is the leading analytical technology to address this need, providing unique chemical insight into the structure and properties of individual molecules upon exposure to light. Through the development and application of innovative mass spectrometry-based technologies, advanced functional molecules and\nmaterials will be detected and structurally characterised with greater confidence, with more precision, and in less time.\nThe proposed infrastructure will build on and accelerate a long and successful history of Australian research excellence in photochemistry and polymer science. Australian innovation in these fields has been at the forefront of fundamental discoveries and impactful applications that ultimately benefit our economy, society, and environment.\nThe unique state-of-the-art infrastructure will create significant opportunities for new collaborations and partnerships across academia, government, and industry. This facility will support advanced manufacturing capabilities in Australia and equip a workforce with the analytical skills to meet growing demand from emerging, future-focused industries."
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LE260100042"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LE260100043",
+      "attributes": {
+        "code": "LE260100043",
+        "scheme-name": "Linkage Infrastructure, Equipment and Facilities",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "LE  ",
+          "program": "Linkage",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "LE26 Round 1"
+        },
+        "current-admin-organisation": "University of Wollongong",
+        "announcement-admin-organisation": "University of Wollongong",
+        "grant-summary": "State of the Art Coastal Elevation and Bathymetry Facility (CoastElBathy). Green laser LiDAR technology enhances the capacity to develop seamless elevation and bathymetric models and integration with remote-piloted aircraft (RPA/drones) provides the opportunity to address significant data gaps in shallow-water coastal environments, including beaches and estuaries. When RPA-mounted, surveys can target regions where data are sparse, access is limited and can be optimised to characterise morphological change. Data generated from the CoastElBathy facility will underpin development of models urgently needed to project shoreline change due to storms, climate variability, and sea-level rise. Collaboration with industry ensures CoastElBathy informs decisions that seek to minimise coastal risk and maximise public benefit.",
+        "lead-investigator": "Prof Kerrylee Rogers",
+        "current-funding-amount": 650000,
+        "announced-funding-amount": 650000,
+        "grant-status": "Active",
+        "primary-field-of-research": "3709 - Physical Geography and Environmental Geoscience",
+        "anticipated-end-date": "2026-12-31",
+        "investigators": "Prof Kerrylee Rogers; A/Prof Sarah Hamylton; Prof Barbara Bollard; Prof Neil Saintilan; Prof Kirstie Fryirs; A/Prof Hannah Power; Dr Christopher Owers; Dr Michael Kinsela; A/Prof Mitchell Harley; Dr Thomas Oliver; Prof Ana Vila Concejo; A/Prof Eleanor Bruce; Dr Thomas Doyle; Mr Patrick Dwyer; Dr Timothy Rawling",
+        "lief-register": [
+          {
+            "primaryItem": "Amuse Oneself Processing software",
+            "isItemAvailable": true
+          },
+          {
+            "primaryItem": "High quality shallow-water bathymetric green laser LiDAR and suitable remotely piloted aircraft",
+            "isItemAvailable": true
+          },
+          {
+            "primaryItem": "Shallow-water bathymetric green laser LiDAR for DJI M300/350 remotely piloted aircraft",
+            "isItemAvailable": true
+          }
+        ],
+        "national-interest-test-statement": "This project addresses a significant coastal data gap and expands modelling capacity by developing the facility. The facility will provide access to green laser LiDAR technology, suitable remotely piloted aircraft (RPA or drones), and a community of practice that will develop resources to the support successful application of RPA-mounted green laser LiDAR technology for coastal research. The seamless elevation and bathymetric models that will be developed as an outcome of this facility will traverse the coastal zone from shallow water environments, across the intertidal and beyond. These 3D models are crucial for understanding coastal morphodynamics and hydrodynamics, particularly in the context of a changing climate and sea-level rise. Improvements to models will enhance coastal decision-making that seeks to optimise risk minimisation for coastal assets, including infrastructure, dwellings and ecosystems while maximising public benefit through ongoing supply of ecosystem services. In doing so, this project provides economic, social and environmental benefits to the people of NSW and across Australia. Collaboration with industry and government ensures project outcomes support decision-making and are appropriately communicated. "
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LE260100043"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LE260100047",
+      "attributes": {
+        "code": "LE260100047",
+        "scheme-name": "Linkage Infrastructure, Equipment and Facilities",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "LE  ",
+          "program": "Linkage",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "LE26 Round 1"
+        },
+        "current-admin-organisation": "The University of New South Wales",
+        "announcement-admin-organisation": "The University of New South Wales",
+        "grant-summary": "In-situ optical characterization platform for emerging energy materials. This project aims to establish an in-situ optical characterisation platform to study the nucleation, crystallisation, and phase transitions of emerging energy materials. Understanding these processes is crucial for improving the stability, efficiency, and manufacturability of next-generation solar technologies. This facility will enable real-time monitoring of material transformations, providing key insights into halide segregation, 2D-3D phase evolution, and degradation mechanisms. The expected outcomes include valuable intellectual property on more stable and commercially viable perovskite solar cells, which will directly support Australia’s renewable energy goals, strengthening its leading position in clean energy innovation.",
+        "lead-investigator": "Prof Xiaojing Hao",
+        "current-funding-amount": 380000,
+        "announced-funding-amount": 380000,
+        "grant-status": "Active",
+        "primary-field-of-research": "4016 - Materials Engineering",
+        "anticipated-end-date": "2027-09-06",
+        "investigators": "Prof Xiaojing Hao; Dr Meng Zhang; Prof Martin Green; Dr Peng Chen; Prof Rongkun Zheng; Dr Julian Steele; Dr Xiaoming Wen",
+        "lief-register": [
+          {
+            "primaryItem": "An optical characterisations platform for in-situ monitoring of emerging thin-film photovoltaic materials",
+            "isItemAvailable": true
+          }
+        ],
+        "national-interest-test-statement": "To accelerate the development of next-generation advanced solar technologies, this project aims to establish a specialized in-situ optical characterization platform to address key challenges in stabilizing perovskite solar cells. Perovskite solar cells hold great promise for high efficiency and low-cost renewable energy, but current limitations in understanding their material formation and degradation hinder their commercial readiness. This platform will enable researchers to study these processes in real-time, directly informing the development of scalable, stable, and efficient perovskite solar cells. This aligns strongly with the Australian Government’s priority of transitioning to a net-zero future by supporting innovation in clean energy technologies. By supporting collaborative research across Australia’s leading universities, this infrastructure will contribute in generating new knowledge and practical pathways for the commercialization of advanced solar technologies. These outcomes will deliver significant economic and environmental benefits by lowering the cost of renewable energy, enabling local technology development, and reducing carbon emissions. This research will strengthen Australia’s position at the forefront of global solar innovation, while helping to ensure a sustainable, low-carbon future that benefits all Australians."
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LE260100047"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LE260100059",
+      "attributes": {
+        "code": "LE260100059",
+        "scheme-name": "Linkage Infrastructure, Equipment and Facilities",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "LE  ",
+          "program": "Linkage",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "LE26 Round 1"
+        },
+        "current-admin-organisation": "The University of New South Wales",
+        "announcement-admin-organisation": "The University of New South Wales",
+        "grant-summary": "Advanced Characterisation Facility for High Speed Quantum Devices. This project will provide critical new capabilities for the measurement and characterisation of advanced quantum devices and materials in a new multi-user Quantum Science and Industry Laboratory. It will leverage existing ARC and university funding to provide a unique new capability designed to serve the needs of users both from Australia's emerging quantum technology industries as well as academia. Expected outcomes include the creation of new intellectual property, local manufacturing of quantum control hardware, support for Australia's quantum industries, and training of researchers and workers for the burgeoning quantum technology sector which is predicted to generate $6 billion in revenue and create 19,400 jobs in Australia by 2045.",
+        "lead-investigator": "Prof Alexander Hamilton",
+        "current-funding-amount": 561809,
+        "announced-funding-amount": 561809,
+        "grant-status": "Active",
+        "primary-field-of-research": "5108 - Quantum Physics",
+        "anticipated-end-date": "2026-12-31",
+        "investigators": "Prof Alexander Hamilton; Dr Xanthe Croot; Prof Jared Cole; Dr Oleh Klochan; Dr Qingwen Wang; Dr Scott Liles; Dr Byron villis",
+        "lief-register": [
+          {
+            "primaryItem": "Electronics and custom hardware for high speed characterisation and control of quantum devices, materials and components, from DC to 20GHz",
+            "isItemAvailable": true
+          }
+        ],
+        "national-interest-test-statement": "The quantum industry is predicted to play a transformative role in Australia’s future prosperity through the development of quantum computers, quantum communication networks and quantum sensors. Advanced manufacturing of quantum components that enable these technologies is key to realizing this impact. However while Australia has extensive national facilities that industrial and academic users can utilise to build quantum devices, there are far fewer multi-user facilities for testing them. Rapid characterisation at low temperatures using advanced electrical techniques is an essential part of the manufacturing process for many quantum technologies, since the devices only begin to operate at temperatures close to absolute zero. This project is uniquely designed to support both academic research projects and users from the quantum technology industry sector by providing a new generation of advanced electronics to test critical components used in quantum technologies. Expected outcomes include the creation of new intellectual property, direct support to Australia's quantum technology industry, and training of researchers for Australia's emerging quantum technology sector."
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LE260100059"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LE260100060",
+      "attributes": {
+        "code": "LE260100060",
+        "scheme-name": "Linkage Infrastructure, Equipment and Facilities",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "LE  ",
+          "program": "Linkage",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "LE26 Round 1"
+        },
+        "current-admin-organisation": "Flinders University",
+        "announcement-admin-organisation": "Flinders University",
+        "grant-summary": "Mass Analysis Facility for Precision Molecular Science. This project aims to address a critical analytical gap in South Australia by establishing a high-resolution mass spectrometry facility for molecular imaging and high-throughput chemical analysis of complex mixtures. This facility is expected to create a nexus between disciplines, enabling new insights into the molecular composition of functional materials and complex biological systems. Key outcomes include widely accessible, future-proof instrumentation that will significantly accelerate research in sustainable materials, catalysis, environmental remediation, wine production, protein folding, and neuroscience. Scientific innovation in these areas are expected to generate new knowledge and benefit the environment and Australian industry.",
+        "lead-investigator": "Prof Justin Chalker",
+        "current-funding-amount": 1799000,
+        "announced-funding-amount": 1799000,
+        "grant-status": "Active",
+        "primary-field-of-research": "3403 - Macromolecular and Materials Chemistry",
+        "anticipated-end-date": "2027-03-18",
+        "investigators": "Prof Justin Chalker; Prof Tara Pukala; Prof Michelle Coote; Prof Kerry Wilkinson; Dr Cameron Shearer; A/Prof Stephen Bell; A/Prof Yee Lian Chew; Dr Witold Bloch; A/Prof Bart Eijkelkamp; Dr Edward Robins",
+        "lief-register": [
+          {
+            "primaryItem": "TriVersa NanoMate nano-Electrospray ionisation source: chip-based electrospray ionisation technology with direct, automated, high-throughput sampling",
+            "isItemAvailable": true
+          },
+          {
+            "primaryItem": "Waters Select Series MRT Mass Spectrometer: A versatile instrument with multi-source capabilities for mass-spec imaging of complex samples",
+            "isItemAvailable": true
+          },
+          {
+            "primaryItem": "Waters Xevo MRT Mass Spectrometer: A state-of-the-art Multi-Reflecting QToF mass spectrometer for high-resolution mass-spec with excellent sensitivity",
+            "isItemAvailable": true
+          }
+        ],
+        "national-interest-test-statement": "This project will provide cutting-edge scientific equipment to determine the mass and identity of molecules important to Australian industry, environmental protection, and human well-being. These state-of-the-art mass spectrometers have the unique ability to image molecules in complex mixtures, enabling scientists to visualise  their locations and interactions. This imaging capability fills a key research gap in the analysis of broad classes of molecules, including materials that capture pollutants and substances essential for understanding fundamental biology and disease. These will be the first instruments of their kind in South Australia. The project leaders have exciting research plans, including studies on the molecular basis of pain, antibiotic resistance, plant growth, and how pollutants spreads through the environment. The insights gained could drive sustainable industry, enhance environmental stewardship, and advance molecular diagnostics and therapeutics. The research projects will provide captivating images of molecules that will capture the imagination of the public. These capabilities will promote interdisciplinary collaboration across multiple scientific sectors and Australian industry."
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LE260100060"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LE260100080",
+      "attributes": {
+        "code": "LE260100080",
+        "scheme-name": "Linkage Infrastructure, Equipment and Facilities",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "LE  ",
+          "program": "Linkage",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "LE26 Round 1"
+        },
+        "current-admin-organisation": "Monash University",
+        "announcement-admin-organisation": "Monash University",
+        "grant-summary": "Smart light-sheet with metabolic imaging for extremely delicate samples. The aim of this project is to develop advanced imaging technologies to allow long term visualisation and recording of individual organelles and cells within complex multicellular structures such as embryos, developing tissues, organoids and iblastoids. Imaging technologies have driven major advances in the life sciences but photo-toxicity has limited advances in sensitive multicellular systems. The technology we will implement reduces phototoxicity by using 2-photon microscopy and adaptive opticsn and an Airy beam scanning system enhances speed and resolution of imaging. This capability will lead to new discoveries in how organelles and cells interact to create functional multicellular systems.\n",
+        "lead-investigator": "Prof John Carroll",
+        "current-funding-amount": 1121556,
+        "announced-funding-amount": 1121556,
+        "grant-status": "Active",
+        "primary-field-of-research": "3101 - Biochemistry and Cell Biology",
+        "anticipated-end-date": "2027-08-30",
+        "investigators": "Prof John Carroll; Dr Senthil Arumugam; A/Prof Vijay Rajagopal; Dr Daniel Fan; Dr Kate McArthur; Prof Karla Hutt; Prof Rebecca Robker; Prof Jose Polo",
+        "lief-register": [
+          {
+            "primaryItem": "An Artificial intelligence driven multimodal light sheet and 2-photon microscope.",
+            "isItemAvailable": true
+          }
+        ],
+        "national-interest-test-statement": "Cellular metabolism underlies all cell and tissue function including cell division, differentiation, movement, and even death. Imaging mitochondrial function and metabolic activities in living cells and tissues is needed to understand the role of metabolism in these events. This has been challenging to date due to the need for multiple imaging approaches and photosensitivity of physiologically relevant samples such as eggs, embryos, and iblastoids. This project will overcome these long-standing problems through the unique combination of light-sheet and fluorescence lifetime technologies driven by artificial intelligence. This advanced, multimodal microscope can capture molecular and metabolic details with unprecedented temporal and spatial resolution in a way that has not been possible until now. This imaging technology will provide new insights into metabolic processes in eggs and embryos, leading to improved approaches to domestic animal production and breeding. iBlastoids will provide a means of screening for novel modulators of metabolism and differentiation. By pioneering the use of this technology, we anticipate further development and innovation that will generate new intellectual property for commercialisation, bringing economic benefit to Australia. Through these translational and commercialisation opportunities, our research will not only create new knowledge, it will engage biotech, pharma and optical/imaging companies to create impact across multiple sectors. "
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LE260100080"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LE260100090",
+      "attributes": {
+        "code": "LE260100090",
+        "scheme-name": "Linkage Infrastructure, Equipment and Facilities",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "LE  ",
+          "program": "Linkage",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "LE26 Round 1"
+        },
+        "current-admin-organisation": "Adelaide University",
+        "announcement-admin-organisation": "The University of Adelaide",
+        "grant-summary": "Metal Isotope Facility for Advanced Research. This project aims to establish a reaction cell multi-collector mass spectrometry facility to enable a step change in research focused on novel isotope tracing of metals in geological, biological and man-made materials and settings. Expected outcomes of this project include new analytical capabilities such as online separation of elemental and isotope interferences via a reaction cell technology, which helps to overcome current analytical limitations and challenges for high-precision metal isotope measurements, radionuclide tracing and geochronology applications. This should provide significant benefits pertinent to resource exploration, ore processing, environmental and agricultural studies, as well as nuclear sciences and radiation safety.",
+        "lead-investigator": "A/Prof Juraj Farkas",
+        "current-funding-amount": 1392500,
+        "announced-funding-amount": 1392500,
+        "grant-status": "Active",
+        "primary-field-of-research": "3703 - Geochemistry",
+        "anticipated-end-date": "2027-12-31",
+        "investigators": "A/Prof Juraj Farkas; Prof Alan Collins; A/Prof Justin Payne; Prof Anthony Kemp; Prof Kathy Townsend; Prof David Chittleborough; Prof Enzo Lombi; A/Prof Zoe Doubleday; Dr Casey Doolette; Prof Dorrit Jacob; Prof Bronwyn Gillanders; Prof Michael Ellwood; Prof Nigel Spooner; Dr Lucy McGee; Prof Olivier Alard",
+        "lief-register": [
+          {
+            "primaryItem": "a collision cell (CC) MC ICP MS instrument, with a pre-cell mass filter (MS/MS), for a high-precision metal isotope analysis and novel geochronology",
+            "isItemAvailable": true
+          }
+        ],
+        "national-interest-test-statement": "This project aims to address a pressing need for advanced isotope analysis of metals via the next-generation mass spectrometry instrumentation with relevance to geological, environmental, biological, agricultural and nuclear sciences. The research gap that it addresses is the lack of equipment dedicated to high-precision and interference-free isotope analysis of metals and radionuclides in natural and human-made settings. Such innovative research approaches will benefit Australians in many ways including the priority science areas of national significance. Economically, novel analytical capabilities will allow for more advanced and de-risked strategies to discover critical mineral resources in Australia. Environmentally, the project will help to mitigate climate change via a new and metal-isotope based quantification of carbon sequestration through CO2 mineralization. Additionally, the development of new isotope techniques will facilitate improved monitoring of metal pollution and radionuclide detection in the environment. The project will also provide social benefits, related to food security, via novel isotope tracing of metal nutrients for plant growth and sustainable crop development in generally nutrient-poor Australian soils. The outcomes of this project will be promoted beyond academia through engagement with industry partners and stakeholders to showcase the benefits of next-generation mass spectrometry to encourage its adoption and future investment."
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LE260100090"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LE260100104",
+      "attributes": {
+        "code": "LE260100104",
+        "scheme-name": "Linkage Infrastructure, Equipment and Facilities",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "LE  ",
+          "program": "Linkage",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "LE26 Round 1"
+        },
+        "current-admin-organisation": "The University of Sydney",
+        "announcement-admin-organisation": "The University of Sydney",
+        "grant-summary": "A transmission electron microscopy corrector and a cryogenic biasing holder. The project aims to enhance Australia’s capabilities in microstructural characterisation by integrating an electron microscopy corrector and an in-situ cryo-biasing sample holder. This initiative represents a first in Australia, enabling atomic-scale imaging under in-situ cryogenic biasing conditions and achieving sub-picometre precision with a depth resolution of 1 nm. The expected outcomes include aberration-free imaging of material microstructures and real-time observation of structural evolution dynamics under cryo-biasing conditions. This will provide critical insights into the structure–property relationships of materials and reinforce Australia’s position as a global leader in materials research and advanced manufacturing.",
+        "lead-investigator": "Prof Xiaozhou Liao",
+        "current-funding-amount": 955000,
+        "announced-funding-amount": 955000,
+        "grant-status": "Active",
+        "primary-field-of-research": "4016 - Materials Engineering",
+        "anticipated-end-date": "2027-06-30",
+        "investigators": "Prof Xiaozhou Liao; Dr Ying Liu; A/Prof Steve Shu; Prof Julie Cairney; Dr Soshan Cheong; Prof Sophie Primig; Prof Sean Li; Prof Dawei Su; Prof Weiwei Lei",
+        "lief-register": [
+          {
+            "primaryItem": "A cryo biasing sample holder enabling atomic-scale imaging at temperature down to liquid nitrogen and under electrical biasing.",
+            "isItemAvailable": true
+          },
+          {
+            "primaryItem": "A transmission electron microscopy probe corrector for materials microstructure characterisation",
+            "isItemAvailable": true
+          }
+        ],
+        "national-interest-test-statement": "Understanding the structure–property relationships is crucial for developing advanced materials with superior properties. The project seeks to establish a cutting-edge super-resolution in-situ cryo-biasing Scanning Transmission Electron Microscopy (STEM) facility. This enhancement will achieve world-leading resolution, sub-picometre precision, atomic-scale 3D imaging, and enable real-time observation of microstructural evolution dynamics under cryogenic biasing conditions.\n\nThis initiative will provide Australian scientists and engineers with direct access to critical insights into the microstructure–property relationship, and establish Australia as a leader in key areas such as advanced manufacturing, nanotechnology, semiconductor devices, and sustainable energy. It will guide the design and fabrication of advanced materials with superior properties, such as increased strength, durability, or enhanced electrical performance. The development of such materials will “add value to Australian manufactured products”.\n\nThe new facilities will facilitate the advanced training of numerous PhD students and young researchers in sophisticated instrumentation, thereby making a significant contribution to the development of a highly skilled workforce. We work with industry partners to ensure the practical application of our findings about structure–property relationships in materials such as steels, advanced alloys, and battery materials."
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LE260100104"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LE260100110",
+      "attributes": {
+        "code": "LE260100110",
+        "scheme-name": "Linkage Infrastructure, Equipment and Facilities",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "LE  ",
+          "program": "Linkage",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "LE26 Round 1"
+        },
+        "current-admin-organisation": "Edith Cowan University",
+        "announcement-admin-organisation": "Edith Cowan University",
+        "grant-summary": "The Digitisation Centre of Western Australia: Phase 2. The Digitisation Centre of WA is a major piece of national research infrastructure with a prominent international profile. We will extend its digitisation capability, range and impact through adding 3D scanning capacity to the Centre. Partners hold invaluable and unique Western Australian type specimen, reference and taxonomic collections, not currently accessible to researchers due to their vulnerability and significance. Researchers must travel to Western Australia to view them. Using technology not previously available, we will build a 3D Object Scanning Laboratory with wide disciplinary reach, making collections nationally and internationally available for the first time and ensuring their preservation for future generations. ",
+        "lead-investigator": "Prof Helena Grehan",
+        "current-funding-amount": 1197450,
+        "announced-funding-amount": 1197450,
+        "grant-status": "Active",
+        "primary-field-of-research": "4302 - Heritage, Archive and Museum Studies",
+        "anticipated-end-date": "2026-12-31",
+        "investigators": "Dr Nikolai Tatarnic; Prof Helena Grehan; Prof Paul Arthur; Prof Hamid Laga; A/Prof Natalie Warburton; Prof Sandra Wilson; Prof Benjamin Smith; Prof Clint Bracknell; Prof Marco Fiorentini; Dr Siri Kellner; Dr Syed Zulqarnain Ahmad Gilani; Dr Luke Hopper; Dr Kenny Travouillon",
+        "lief-register": [
+          {
+            "primaryItem": "3D Object Scanning Laboratory.",
+            "isItemAvailable": true
+          }
+        ],
+        "national-interest-test-statement": "The three universities involved in this project along with the Western Australian Museum are foundation partners in the Digitisation Centre of WA, a significant laboratory for archival standard digitisation of vulnerable Western Australian research collections. Each partner holds extensive reference, taxonomic and type specimen collections, such as fossils, shells, meteorites, mammalian skulls and bones and rare instruments, that are of national and international significance. Many items are too fragile to be handled and cannot be borrowed due to vulnerability and the risk of theft. At present these unique Western Australian collections are not available online and are mostly accessible only to the small number of researchers able to visit them in person. The proposed project will extend the capabilities of the Digitisation Centre of Western Australia by establishing a dedicated 3D Object Scanning Laboratory to digitise these important objects. The Laboratory will not only preserve the collections in 3D digital format, guaranteeing that they remain a resource for future generations, but will also make the collections accessible, for the first time, to people across Australia and beyond.  "
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LE260100110"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LE260100115",
+      "attributes": {
+        "code": "LE260100115",
+        "scheme-name": "Linkage Infrastructure, Equipment and Facilities",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "LE  ",
+          "program": "Linkage",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "LE26 Round 1"
+        },
+        "current-admin-organisation": "Monash University",
+        "announcement-admin-organisation": "Monash University",
+        "grant-summary": "Sustainable Polymer Manufacturing Facility. This Proposal will create a national Sustainable Polymer Manufacturing Facility with which to process new bio-based, bio-derived and circular materials, including reprocessable thermosets, natural fibre composites, sustainable multimaterials, recycled plastics and bioplastics. The outcome will be an integrated Facility that serves Australian sustainable polymer manufacturing research, benefiting the entire community and ultimately the Australian public at large through the production and commercialisation of new, sustainable polymer materials.\n",
+        "lead-investigator": "Prof Neil Cameron",
+        "current-funding-amount": 1713940,
+        "announced-funding-amount": 1713940,
+        "grant-status": "Active",
+        "primary-field-of-research": "4016 - Materials Engineering",
+        "anticipated-end-date": "2027-09-22",
+        "investigators": "Prof Neil Cameron; Prof Luke Henderson; Prof Andrey Molotnikov; Prof Russell Varley; Prof Minoo Naebe; Prof Colin Barrow; A/Prof Matthieu Gresil; Prof Mahnaz Shafiei; A/Prof Nisa Salim; Dr Leonie van 't Hag; Prof Jacek Jasieniak; Dr Joel Hooper; Prof Peter Kingshott",
+        "lief-register": [
+          {
+            "primaryItem": "Equipment for manufacturing with sustainable polymer materials, in a variety of forms and at scales from 10g to 50kg",
+            "isItemAvailable": true
+          }
+        ],
+        "national-interest-test-statement": "The project will establish a national Sustainable Polymer Manufacturing Facility, to address a huge gap in the capability of the Australian research community to manufacture with sustainable polymers from lab research to pilot scale.\nThe benefits to Australians will be significant. It will: develop new sustainable materials to replace single use plastics and help take us towards Net Zero; reduce the environmental impact of the manufacturing and healthcare sectors; and help produce new start-up companies that create new jobs for Australians.\nResearch outcomes will be promoted using legacy and social media, with a strong focus on industry and end-user engagement. This will accelerate the path to market and help create business confidence for early adoption."
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LE260100115"
+      }
+    }
+  ]
+}

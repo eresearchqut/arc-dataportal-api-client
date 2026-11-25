@@ -1,0 +1,258 @@
+{
+  "links": {
+    "self": "http://dataportal.arc.gov.au/NCGP/API/grants/DP190102138"
+  },
+  "data": {
+    "type": "grant-details",
+    "id": "DP190102138",
+    "attributes": {
+      "code": "DP190102138",
+      "administering-organisation": "The University of Adelaide",
+      "announcement-administering-organisation": "The University of Adelaide",
+      "scheme-name": "Discovery Projects",
+      "grant-status": "Closed",
+      "funding-commencement-year": 2019,
+      "years-funded": 3,
+      "project-start-date": "2019-08-29",
+      "anticipated-end-date": "2024-12-31",
+      "grant-summary": "Delivering robust hydrological predictions for Australia’s water challenges. This project aims to build a virtual hydrological laboratory to identify the best hydrological models that maximise predictive performance in a range of catchments, accounting for their dominant hydrological processes and data availability. New process-informed hydrological model structures will be developed using this virtual laboratory to embody our best understanding of hydrological processes and data from real catchments. The expected outcomes include major improvements in hydrological predictions for Australian catchments. This project will provide major benefits to irrigators, water authorities and engineers, who rely on hydrological predictions for sustainable water management in the highly-variable, semi-arid Australian climate.",
+      "funding-current": 389089,
+      "funding-at-announcement": 381000,
+      "investigators-current": [
+        {
+          "title": "A/Prof",
+          "firstName": "Mark",
+          "familyName": "Thyer",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-2830-516X "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Dmitri",
+          "familyName": "Kavetski",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": null
+        },
+        {
+          "title": "Prof",
+          "firstName": "Holger",
+          "familyName": "Maier",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-0277-6887 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Seth",
+          "familyName": "Westra",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0003-4023-6061 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Anthony",
+          "familyName": "Jakeman",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": null
+        },
+        {
+          "title": "Prof",
+          "firstName": "Barry",
+          "familyName": "Croke",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0001-9216-1554 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Hoshin",
+          "familyName": "Gupta",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": null
+        },
+        {
+          "title": "A/Prof",
+          "firstName": "Margaret",
+          "familyName": "Shanafield",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0003-1710-1548 "
+        }
+      ],
+      "investigators-at-announcement": [
+        {
+          "title": "A/Prof",
+          "firstName": "Mark",
+          "familyName": "Thyer",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-2830-516X "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Dmitri",
+          "familyName": "Kavetski",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": null
+        },
+        {
+          "title": "Prof",
+          "firstName": "Holger",
+          "familyName": "Maier",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-0277-6887 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Seth",
+          "familyName": "Westra",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0003-4023-6061 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Craig",
+          "familyName": "Simmons",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": null
+        },
+        {
+          "title": "Prof",
+          "firstName": "Anthony",
+          "familyName": "Jakeman",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": null
+        },
+        {
+          "title": "Prof",
+          "firstName": "Barry",
+          "familyName": "Croke",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0001-9216-1554 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Hoshin",
+          "familyName": "Gupta",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": null
+        }
+      ],
+      "organisations-current": [
+        {
+          "organisationName": "The University of Adelaide",
+          "roleName": "Administering Organisation",
+          "state": "SA"
+        },
+        {
+          "organisationName": "The Australian National University",
+          "roleName": "Other Eligible Organisation",
+          "state": "ACT"
+        },
+        {
+          "organisationName": "Flinders University",
+          "roleName": "Other Eligible Organisation",
+          "state": "SA"
+        },
+        {
+          "organisationName": "University of Arizona, USA",
+          "roleName": "Other Organisation",
+          "state": "N/A"
+        }
+      ],
+      "organisations-at-announcement": [
+        {
+          "organisationName": "The University of Adelaide",
+          "roleName": "Administering Organisation",
+          "state": "SA"
+        },
+        {
+          "organisationName": "The Australian National University",
+          "roleName": "Other Eligible Organisation",
+          "state": "ACT"
+        },
+        {
+          "organisationName": "Flinders University",
+          "roleName": "Other Eligible Organisation",
+          "state": "SA"
+        },
+        {
+          "organisationName": "University of Arizona, USA",
+          "roleName": "Other Organisation",
+          "state": null
+        }
+      ],
+      "field-of-research": [
+        {
+          "isPrimary": true,
+          "code": "0406",
+          "name": "Physical Geography and Environmental Geoscience",
+          "type": "FOR08"
+        },
+        {
+          "isPrimary": false,
+          "code": "040608",
+          "name": "Surfacewater Hydrology",
+          "type": "FOR08"
+        },
+        {
+          "isPrimary": false,
+          "code": "090509",
+          "name": "Water Resources Engineering",
+          "type": "FOR08"
+        }
+      ],
+      "socio-economic-objective": [
+        {
+          "code": "960905",
+          "name": "Farmland, Arable Cropland and Permanent Cropland Water Management",
+          "type": "SEO08"
+        },
+        {
+          "code": "960912",
+          "name": "Urban and Industrial Water Management",
+          "type": "SEO08"
+        },
+        {
+          "code": "960913",
+          "name": "Water Allocation and Quantification",
+          "type": "SEO08"
+        }
+      ],
+      "international-collaboration": [
+        "United States of America"
+      ],
+      "lief-register": [],
+      "achievement-summary": "This research has advanced how hydrological models are used to support water resource decisions under climate change, drought, and wildfire disturbance. It shows that commonly used models can substantially underestimate risk if hydrological errors are ignored, even when simulations appear accurate. The work introduces new approaches to build and test models that remain credible under change, including Virtual Hydrological Laboratories and the concept of hydrological fidelity. It also provides a landmark synthesis of how wildfires alter runoff across short  and long term timescales, guiding better model selection for disturbed landscapes. Together, these advances support more reliable and resilient water management decisions",
+      "national-interest-test-statement": null
+    }
+  }
+}

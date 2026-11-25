@@ -1,0 +1,2036 @@
+{
+  "links": {
+    "self": "http://dataportal.arc.gov.au/NCGP/API/grants/SR200100008"
+  },
+  "data": {
+    "type": "grant-details",
+    "id": "SR200100008",
+    "attributes": {
+      "code": "SR200100008",
+      "administering-organisation": "University of Tasmania",
+      "announcement-administering-organisation": "University of Tasmania",
+      "scheme-name": "Special Research Initiatives",
+      "grant-status": "Active",
+      "funding-commencement-year": 2020,
+      "years-funded": 3,
+      "project-start-date": "2021-08-16",
+      "anticipated-end-date": "2026-08-31",
+      "grant-summary": "The Australian Centre for Excellence in Antarctic Science. The Centre will revolutionise predictions of the future of East Antarctica and the Southern Ocean. Changes in the Antarctic will be profoundly costly to Australia, including sea-level and fisheries impacts; but the speed and scale of future change remains poorly understood. A new national-scale and interdisciplinary Centre is required to understand the complex interactions of the ocean, ice sheets, atmosphere and ecosystems that will govern Antarctica’s future. The Centre will combine new field data with innovative models to address Australia’s Antarctic science priorities, train graduate students, develop leaders, engage the public, and enable major economic benefit as Australia adapts to climate change in the coming years and beyond.",
+      "funding-current": 20666498,
+      "funding-at-announcement": 20000000,
+      "investigators-current": [
+        {
+          "title": "Prof",
+          "firstName": "Matt",
+          "familyName": "King",
+          "roleName": "Project Director",
+          "roleCode": "PD",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0001-5611-9498 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Delphine",
+          "familyName": "Lannuzel",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0001-6154-1837 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Matthew",
+          "familyName": "England",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": null
+        },
+        {
+          "title": "A/Prof",
+          "firstName": "Alan",
+          "familyName": "Aitken",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-6375-2504 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "David",
+          "familyName": "Antoine",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-9082-2395 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Nathaniel",
+          "familyName": "Bindoff",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": null
+        },
+        {
+          "title": "Prof",
+          "firstName": "Julia",
+          "familyName": "Blanchard",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0003-0532-4824 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Philip",
+          "familyName": "Boyd",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": null
+        },
+        {
+          "title": "Prof",
+          "firstName": "Zanna",
+          "familyName": "Chase",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0001-5060-779X "
+        },
+        {
+          "title": "Prof",
+          "firstName": "John",
+          "familyName": "Church",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-7037-8194 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Richard",
+          "familyName": "Coleman",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-9731-7498 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Michael",
+          "familyName": "Ellwood",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0003-4288-8530 "
+        },
+        {
+          "title": "A/Prof",
+          "firstName": "Bishakhdatta",
+          "familyName": "Gayen",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0001-6543-2590 "
+        },
+        {
+          "title": "Hon A/Prof",
+          "firstName": "Ian",
+          "familyName": "Goodwin",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0001-8682-6409 "
+        },
+        {
+          "title": "A/Prof",
+          "firstName": "Jacqueline",
+          "familyName": "Halpin",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-4992-8681 "
+        },
+        {
+          "title": "A/Prof",
+          "firstName": "Nicole",
+          "familyName": "Hill",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0001-9329-6717 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Mark",
+          "familyName": "Hindell",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": null
+        },
+        {
+          "title": "Prof",
+          "firstName": "Mary-Anne",
+          "familyName": "Lea",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0001-8318-9299 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Vanessa",
+          "familyName": "Lucieer",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0001-7531-5750 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Andrew",
+          "familyName": "McMinn",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-2133-3854 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Laurie",
+          "familyName": "Menviel",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-5068-1591 "
+        },
+        {
+          "title": "Dr",
+          "firstName": "Adele",
+          "familyName": "Morrison",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-9904-4980 "
+        },
+        {
+          "title": "A/Prof",
+          "firstName": "Maxim",
+          "familyName": "Nikurashin",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-5714-8343 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Helen",
+          "familyName": "Phillips",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-2941-7577 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Anya",
+          "familyName": "Reading",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": null
+        },
+        {
+          "title": "Dr",
+          "firstName": "Katherine",
+          "familyName": "Selway",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0001-5752-7717 "
+        },
+        {
+          "title": "A/Prof",
+          "firstName": "Alexander",
+          "familyName": "Sen Gupta",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0001-5226-871X "
+        },
+        {
+          "title": "A/Prof",
+          "firstName": "Paul",
+          "familyName": "Spence",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0001-5156-2204 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Peter",
+          "familyName": "Strutton",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-2395-9471 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Paul",
+          "familyName": "Tregoning",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0001-7192-5391 "
+        },
+        {
+          "title": "A/Prof",
+          "firstName": "Christopher",
+          "familyName": "Watson",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-7464-4592 "
+        },
+        {
+          "title": "A/Prof",
+          "firstName": "Duanne",
+          "familyName": "White",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0003-0740-2072 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Joanne",
+          "familyName": "Whittaker",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-3170-3935 "
+        },
+        {
+          "title": "A/Prof",
+          "firstName": "Jan",
+          "familyName": "Zika",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0003-3462-3559 "
+        },
+        {
+          "title": "Dr",
+          "firstName": "Benjamin",
+          "familyName": "Galton-Fenzi",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0003-1404-4103 "
+        },
+        {
+          "title": "Dr",
+          "firstName": "Robert",
+          "familyName": "Massom",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": null
+        },
+        {
+          "title": "Dr",
+          "firstName": "Klaus",
+          "familyName": "Meiners",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0001-7118-9136 "
+        },
+        {
+          "title": "Dr",
+          "firstName": "Jason",
+          "familyName": "Roberts",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-3477-4069 "
+        },
+        {
+          "title": "Dr",
+          "firstName": "Alexandra",
+          "familyName": "Post",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-6287-3283 "
+        },
+        {
+          "title": "Dr",
+          "firstName": "Clive",
+          "familyName": "McMahon",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0001-5241-8917 "
+        },
+        {
+          "title": "Dr",
+          "firstName": "Karsten",
+          "familyName": "Gohl",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": null
+        },
+        {
+          "title": "Dr",
+          "firstName": "Hartmut",
+          "familyName": "Hellmer",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-9357-9853 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Andrew",
+          "familyName": "Thompson",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0003-0322-4811 "
+        },
+        {
+          "title": "Dr",
+          "firstName": "Herve",
+          "familyName": "Claustre",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": null
+        },
+        {
+          "title": "Dr",
+          "firstName": "Jean baptiste",
+          "familyName": "SALLEE",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": null
+        },
+        {
+          "title": "Dr",
+          "firstName": "Gael",
+          "familyName": "Durand",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0001-8979-2355 "
+        },
+        {
+          "title": "Dr",
+          "firstName": "Amaelle",
+          "familyName": "Landais",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-5620-5465 "
+        },
+        {
+          "title": "Dr",
+          "firstName": "Xavier",
+          "familyName": "Crosta",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": null
+        },
+        {
+          "title": "Prof",
+          "firstName": "David",
+          "familyName": "Thompson",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-5413-4376 "
+        },
+        {
+          "title": "Dr",
+          "firstName": "Pippa",
+          "familyName": "Whitehouse",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": null
+        },
+        {
+          "title": "Prof",
+          "firstName": "Michael",
+          "familyName": "Bentley",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-2048-0019 "
+        },
+        {
+          "title": "Dr",
+          "firstName": "Stewart",
+          "familyName": "Jamieson",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-9036-2317 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Chris",
+          "familyName": "Stokes",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0003-3355-1573 "
+        },
+        {
+          "title": "A/Prof",
+          "firstName": "Shigeru",
+          "familyName": "Aoki",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-3314-484X "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Darryn",
+          "familyName": "Waugh",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0001-7692-2798 "
+        },
+        {
+          "title": "Dr",
+          "firstName": "Tamsin",
+          "familyName": "Edwards",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-4760-4704 "
+        },
+        {
+          "title": "Dr",
+          "firstName": "Won Sang",
+          "familyName": "Lee",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-1074-7672 "
+        },
+        {
+          "title": "Dr",
+          "firstName": "Pierre",
+          "familyName": "Dutrieux",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-8066-934X "
+        },
+        {
+          "title": "Dr",
+          "firstName": "Stephen",
+          "familyName": "Griffies",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": null
+        },
+        {
+          "title": "Prof",
+          "firstName": "Helen",
+          "familyName": "Fricker",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-0921-1432 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Sarah",
+          "familyName": "Gille",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0001-9144-4368 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Lynne",
+          "familyName": "Talley",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0003-1574-729X "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Bernd",
+          "familyName": "Kulessa",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-4830-4949 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Adrian",
+          "familyName": "Luckman",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-9618-5905 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Eric",
+          "familyName": "Wolff",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": null
+        },
+        {
+          "title": "Dr",
+          "firstName": "Ted",
+          "familyName": "Scambos",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0003-4268-6322 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Anna",
+          "familyName": "Wåhlin",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0003-1799-6476 "
+        },
+        {
+          "title": "Asst Prof",
+          "firstName": "Naomi",
+          "familyName": "Levine",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-4963-0535 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Yusuke",
+          "familyName": "Yokoyama",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0001-7869-5891 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Scott",
+          "familyName": "Doney",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-3683-2437 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Michiel",
+          "familyName": "Van den Broeke",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0003-4662-7565 "
+        },
+        {
+          "title": "Dr",
+          "firstName": "John",
+          "familyName": "Toole",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0003-2905-0637 "
+        },
+        {
+          "title": "Dr",
+          "firstName": "Terence",
+          "familyName": "O'Kane",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-2137-5915 "
+        },
+        {
+          "title": "Dr",
+          "firstName": "Xuebin",
+          "familyName": "Zhang",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0003-1731-3524 "
+        },
+        {
+          "title": "Dr",
+          "firstName": "Taryn",
+          "familyName": "Noble",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-5708-751X "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Rhodri",
+          "familyName": "Davies",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-7662-9468 "
+        },
+        {
+          "title": "A/Prof",
+          "firstName": "David",
+          "familyName": "Heslop",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0001-8245-0555 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Poul",
+          "familyName": "Christoffersen",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0003-2643-8724 "
+        },
+        {
+          "title": "Mr",
+          "firstName": "Carl",
+          "familyName": "Bennett",
+          "roleName": "Chief Operating Officer",
+          "roleCode": "COO",
+          "isFellowship": false,
+          "orcidIdentifier": null
+        },
+        {
+          "title": "Dr",
+          "firstName": "Sophie",
+          "familyName": "Bestley",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0001-9342-669X "
+        },
+        {
+          "title": "Dr",
+          "firstName": "Linda",
+          "familyName": "Armbrecht",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-1213-1257 "
+        },
+        {
+          "title": "Dr",
+          "firstName": "Chen",
+          "familyName": "Zhao",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0003-0368-1334 "
+        },
+        {
+          "title": "Dr",
+          "firstName": "Catherine",
+          "familyName": "Vreugdenhil",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-1808-6274 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Luke",
+          "familyName": "Bennetts",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0001-9386-7882 "
+        }
+      ],
+      "investigators-at-announcement": [
+        {
+          "title": "Prof",
+          "firstName": "Matt",
+          "familyName": "King",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0001-5611-9498 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Leanne",
+          "familyName": "Armand",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0003-3995-308X "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Delphine",
+          "familyName": "Lannuzel",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0001-6154-1837 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Matthew",
+          "familyName": "England",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": null
+        },
+        {
+          "title": "Prof",
+          "firstName": "Nerilie",
+          "familyName": "Abram",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0003-1246-2344 "
+        },
+        {
+          "title": "A/Prof",
+          "firstName": "Alan",
+          "familyName": "Aitken",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-6375-2504 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "David",
+          "familyName": "Antoine",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-9082-2395 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Nathaniel",
+          "familyName": "Bindoff",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": null
+        },
+        {
+          "title": "Prof",
+          "firstName": "Julia",
+          "familyName": "Blanchard",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0003-0532-4824 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Andrew",
+          "familyName": "Bowie",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-5144-7799 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Philip",
+          "familyName": "Boyd",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": null
+        },
+        {
+          "title": "Prof",
+          "firstName": "Zanna",
+          "familyName": "Chase",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0001-5060-779X "
+        },
+        {
+          "title": "Prof",
+          "firstName": "John",
+          "familyName": "Church",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-7037-8194 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Richard",
+          "familyName": "Coleman",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-9731-7498 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Michael",
+          "familyName": "Ellwood",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0003-4288-8530 "
+        },
+        {
+          "title": "A/Prof",
+          "firstName": "Bishakhdatta",
+          "familyName": "Gayen",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0001-6543-2590 "
+        },
+        {
+          "title": "Hon A/Prof",
+          "firstName": "Ian",
+          "familyName": "Goodwin",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0001-8682-6409 "
+        },
+        {
+          "title": "A/Prof",
+          "firstName": "Jacqueline",
+          "familyName": "Halpin",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-4992-8681 "
+        },
+        {
+          "title": "A/Prof",
+          "firstName": "Nicole",
+          "familyName": "Hill",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0001-9329-6717 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Mark",
+          "familyName": "Hindell",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": null
+        },
+        {
+          "title": "Prof",
+          "firstName": "Mary-Anne",
+          "familyName": "Lea",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0001-8318-9299 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Vanessa",
+          "familyName": "Lucieer",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0001-7531-5750 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Andrew",
+          "familyName": "McMinn",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-2133-3854 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Laurie",
+          "familyName": "Menviel",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-5068-1591 "
+        },
+        {
+          "title": "Dr",
+          "firstName": "Adele",
+          "familyName": "Morrison",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-9904-4980 "
+        },
+        {
+          "title": "A/Prof",
+          "firstName": "Maxim",
+          "familyName": "Nikurashin",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-5714-8343 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Helen",
+          "familyName": "Phillips",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-2941-7577 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Anya",
+          "familyName": "Reading",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": null
+        },
+        {
+          "title": "Prof",
+          "firstName": "Eelco",
+          "familyName": "Rohling",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": null
+        },
+        {
+          "title": "Dr",
+          "firstName": "Katherine",
+          "familyName": "Selway",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0001-5752-7717 "
+        },
+        {
+          "title": "A/Prof",
+          "firstName": "Alexander",
+          "familyName": "Sen Gupta",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0001-5226-871X "
+        },
+        {
+          "title": "A/Prof",
+          "firstName": "Paul",
+          "familyName": "Spence",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0001-5156-2204 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Peter",
+          "familyName": "Strutton",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-2395-9471 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Paul",
+          "familyName": "Tregoning",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0001-7192-5391 "
+        },
+        {
+          "title": "A/Prof",
+          "firstName": "Christopher",
+          "familyName": "Watson",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-7464-4592 "
+        },
+        {
+          "title": "A/Prof",
+          "firstName": "Duanne",
+          "familyName": "White",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0003-0740-2072 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Joanne",
+          "familyName": "Whittaker",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-3170-3935 "
+        },
+        {
+          "title": "A/Prof",
+          "firstName": "Guy",
+          "familyName": "Williams",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-3975-2977 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Stefan",
+          "familyName": "Williams",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0001-9416-5639 "
+        },
+        {
+          "title": "A/Prof",
+          "firstName": "Jan",
+          "familyName": "Zika",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0003-3462-3559 "
+        },
+        {
+          "title": "Dr",
+          "firstName": "Benjamin",
+          "familyName": "Galton-Fenzi",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0003-1404-4103 "
+        },
+        {
+          "title": "Dr",
+          "firstName": "Robert",
+          "familyName": "Massom",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": null
+        },
+        {
+          "title": "Dr",
+          "firstName": "Klaus",
+          "familyName": "Meiners",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0001-7118-9136 "
+        },
+        {
+          "title": "Dr",
+          "firstName": "Jason",
+          "familyName": "Roberts",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-3477-4069 "
+        },
+        {
+          "title": "Dr",
+          "firstName": "Stephen",
+          "familyName": "Rintoul",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-7055-9876 "
+        },
+        {
+          "title": "Dr",
+          "firstName": "Richard",
+          "familyName": "Matear",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": null
+        },
+        {
+          "title": "Dr",
+          "firstName": "Wenju",
+          "familyName": "Cai",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": null
+        },
+        {
+          "title": "Dr",
+          "firstName": "Xuebin",
+          "familyName": "Zhang",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0003-1731-3524 "
+        },
+        {
+          "title": "Dr",
+          "firstName": "James",
+          "familyName": "Risbey",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": null
+        },
+        {
+          "title": "Dr",
+          "firstName": "Terence",
+          "familyName": "O'Kane",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-2137-5915 "
+        },
+        {
+          "title": "Dr",
+          "firstName": "Alexandra",
+          "familyName": "Post",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-6287-3283 "
+        },
+        {
+          "title": "Dr",
+          "firstName": "Clive",
+          "familyName": "McMahon",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0001-5241-8917 "
+        },
+        {
+          "title": "Dr",
+          "firstName": "Karsten",
+          "familyName": "Gohl",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": null
+        },
+        {
+          "title": "Dr",
+          "firstName": "Hartmut",
+          "familyName": "Hellmer",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-9357-9853 "
+        },
+        {
+          "title": "A/Prof",
+          "firstName": "David",
+          "familyName": "Vaughan",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-9065-0570 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Andrew",
+          "familyName": "Thompson",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0003-0322-4811 "
+        },
+        {
+          "title": "Dr",
+          "firstName": "Herve",
+          "familyName": "Claustre",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": null
+        },
+        {
+          "title": "Dr",
+          "firstName": "Jean baptiste",
+          "familyName": "Sallee",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": null
+        },
+        {
+          "title": "Dr",
+          "firstName": "Gael",
+          "familyName": "Durand",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0001-8979-2355 "
+        },
+        {
+          "title": "Dr",
+          "firstName": "Amaelle",
+          "familyName": "Landais",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-5620-5465 "
+        },
+        {
+          "title": "Dr",
+          "firstName": "Xavier",
+          "familyName": "Crosta",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": null
+        },
+        {
+          "title": "Prof",
+          "firstName": "David",
+          "familyName": "Thompson",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-5413-4376 "
+        },
+        {
+          "title": "Dr",
+          "firstName": "Pippa",
+          "familyName": "Whitehouse",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": null
+        },
+        {
+          "title": "Prof",
+          "firstName": "Michael",
+          "familyName": "Bentley",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-2048-0019 "
+        },
+        {
+          "title": "Dr",
+          "firstName": "Stewart",
+          "familyName": "Jamieson",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-9036-2317 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Chris",
+          "familyName": "Stokes",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0003-3355-1573 "
+        },
+        {
+          "title": "A/Prof",
+          "firstName": "Shigeru",
+          "familyName": "Aoki",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-3314-484X "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Darryn",
+          "familyName": "Waugh",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0001-7692-2798 "
+        },
+        {
+          "title": "Dr",
+          "firstName": "Tamsin",
+          "familyName": "Edwards",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-4760-4704 "
+        },
+        {
+          "title": "Dr",
+          "firstName": "Won Sang",
+          "familyName": "Lee",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-1074-7672 "
+        },
+        {
+          "title": "Dr",
+          "firstName": "Pierre",
+          "familyName": "Dutrieux",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-8066-934X "
+        },
+        {
+          "title": "Dr",
+          "firstName": "Stephen",
+          "familyName": "Griffies",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": null
+        },
+        {
+          "title": "A/Prof",
+          "firstName": "Anders",
+          "familyName": "Levermann",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0003-4432-4704 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Helen",
+          "familyName": "Fricker",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-0921-1432 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Sarah",
+          "familyName": "Gille",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0001-9144-4368 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Lynne",
+          "familyName": "Talley",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0003-1574-729X "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Bernd",
+          "familyName": "Kulessa",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-4830-4949 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Adrian",
+          "familyName": "Luckman",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-9618-5905 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Eric",
+          "familyName": "Wolff",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": null
+        },
+        {
+          "title": "Dr",
+          "firstName": "Ted",
+          "familyName": "Scambos",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0003-4268-6322 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Anna",
+          "familyName": "Wåhlin",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0003-1799-6476 "
+        },
+        {
+          "title": "Adj/Prof",
+          "firstName": "Rupert",
+          "familyName": "Gladstone",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-1582-3857 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Alberto",
+          "familyName": "Naveira Garabato",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": null
+        },
+        {
+          "title": "Prof",
+          "firstName": "Mark",
+          "familyName": "Moore",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-9541-6046 "
+        },
+        {
+          "title": "Asst Prof",
+          "firstName": "Naomi",
+          "familyName": "Levine",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-4963-0535 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Yusuke",
+          "familyName": "Yokoyama",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0001-7869-5891 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Scott",
+          "familyName": "Doney",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0002-3683-2437 "
+        },
+        {
+          "title": "Prof",
+          "firstName": "Michiel",
+          "familyName": "Van den Broeke",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0003-4662-7565 "
+        },
+        {
+          "title": "Dr",
+          "firstName": "John",
+          "familyName": "Toole",
+          "roleName": "Partner Investigator",
+          "roleCode": "PI",
+          "isFellowship": false,
+          "orcidIdentifier": "0000-0003-2905-0637 "
+        }
+      ],
+      "organisations-current": [
+        {
+          "organisationName": "University of Tasmania",
+          "roleName": "Administering Organisation",
+          "state": "TAS"
+        },
+        {
+          "organisationName": "The Australian National University",
+          "roleName": "Other Eligible Organisation",
+          "state": "ACT"
+        },
+        {
+          "organisationName": "The University of New South Wales",
+          "roleName": "Other Eligible Organisation",
+          "state": "NSW"
+        },
+        {
+          "organisationName": "Curtin University",
+          "roleName": "Other Eligible Organisation",
+          "state": "WA"
+        },
+        {
+          "organisationName": "University of Canberra",
+          "roleName": "Other Eligible Organisation",
+          "state": "ACT"
+        },
+        {
+          "organisationName": "The University of Melbourne",
+          "roleName": "Other Eligible Organisation",
+          "state": "VIC"
+        },
+        {
+          "organisationName": "The University of Western Australia",
+          "roleName": "Other Eligible Organisation",
+          "state": "WA"
+        },
+        {
+          "organisationName": "Geoscience Australia",
+          "roleName": "Partner Organisation",
+          "state": "ACT"
+        },
+        {
+          "organisationName": "British Antarctic Survey",
+          "roleName": "Partner Organisation",
+          "state": "N/A"
+        },
+        {
+          "organisationName": "California Institute of Technology, USA",
+          "roleName": "Partner Organisation",
+          "state": "N/A"
+        },
+        {
+          "organisationName": "Durham University, UK",
+          "roleName": "Partner Organisation",
+          "state": "N/A"
+        },
+        {
+          "organisationName": "French National Center for Scientific Research ",
+          "roleName": "Partner Organisation",
+          "state": "N/A"
+        },
+        {
+          "organisationName": "King's College London",
+          "roleName": "Partner Organisation",
+          "state": "N/A"
+        },
+        {
+          "organisationName": "Laboratory of Oceanography and Climatology",
+          "roleName": "Partner Organisation",
+          "state": "N/A"
+        },
+        {
+          "organisationName": "Laboratory for the Science of Climate and the Environment",
+          "roleName": "Partner Organisation",
+          "state": "N/A"
+        },
+        {
+          "organisationName": "Scripps Institution of Oceanography",
+          "roleName": "Partner Organisation",
+          "state": "N/A"
+        },
+        {
+          "organisationName": "Swansea University, UK",
+          "roleName": "Partner Organisation",
+          "state": "N/A"
+        },
+        {
+          "organisationName": "University of Bordeaux, Talence",
+          "roleName": "Partner Organisation",
+          "state": "N/A"
+        },
+        {
+          "organisationName": "University of Cambridge, UK",
+          "roleName": "Partner Organisation",
+          "state": "N/A"
+        },
+        {
+          "organisationName": "University of Colorado, Boulder",
+          "roleName": "Partner Organisation",
+          "state": "N/A"
+        },
+        {
+          "organisationName": "University of Southern California, USA",
+          "roleName": "Partner Organisation",
+          "state": "N/A"
+        },
+        {
+          "organisationName": "University of Tokyo",
+          "roleName": "Partner Organisation",
+          "state": "N/A"
+        },
+        {
+          "organisationName": "Utrecht University, Netherlands",
+          "roleName": "Partner Organisation",
+          "state": "N/A"
+        },
+        {
+          "organisationName": "Woods Hole Oceanographic Institution",
+          "roleName": "Partner Organisation",
+          "state": "N/A"
+        },
+        {
+          "organisationName": "Australian Antarctic Division",
+          "roleName": "Other Organisation",
+          "state": "TAS"
+        },
+        {
+          "organisationName": "Alfred Wegener Institute for Polar and Marine Research",
+          "roleName": "Other Organisation",
+          "state": "N/A"
+        },
+        {
+          "organisationName": "CNRS - Oceanographic Laboratory of Villefranche",
+          "roleName": "Other Organisation",
+          "state": "N/A"
+        },
+        {
+          "organisationName": "Colorado State University, USA",
+          "roleName": "Other Organisation",
+          "state": "N/A"
+        },
+        {
+          "organisationName": "Hokkaido University, Japan",
+          "roleName": "Other Organisation",
+          "state": "N/A"
+        },
+        {
+          "organisationName": "Johns Hopkins University",
+          "roleName": "Other Organisation",
+          "state": "N/A"
+        },
+        {
+          "organisationName": "Korea Polar Research Institute",
+          "roleName": "Other Organisation",
+          "state": "N/A"
+        },
+        {
+          "organisationName": "National Ocean and Atmospheric Administration",
+          "roleName": "Other Organisation",
+          "state": "N/A"
+        },
+        {
+          "organisationName": "SYDNEY INSTITUTE OF MARINE SCIENCE",
+          "roleName": "Other Organisation",
+          "state": "NSW"
+        },
+        {
+          "organisationName": "University of Gothenburg, Sweden",
+          "roleName": "Other Organisation",
+          "state": "N/A"
+        },
+        {
+          "organisationName": "University of Virginia",
+          "roleName": "Other Organisation",
+          "state": "N/A"
+        },
+        {
+          "organisationName": "Commonwealth Scientific and Industrial Research Organisation",
+          "roleName": "Partner Organisation",
+          "state": "ACT"
+        }
+      ],
+      "organisations-at-announcement": [
+        {
+          "organisationName": "University of Tasmania",
+          "roleName": "Administering Organisation",
+          "state": "TAS"
+        },
+        {
+          "organisationName": "The Australian National University",
+          "roleName": "Other Eligible Organisation",
+          "state": "ACT"
+        },
+        {
+          "organisationName": "The University of New South Wales",
+          "roleName": "Other Eligible Organisation",
+          "state": "NSW"
+        },
+        {
+          "organisationName": "Curtin University",
+          "roleName": "Other Eligible Organisation",
+          "state": "WA"
+        },
+        {
+          "organisationName": "Macquarie University",
+          "roleName": "Other Eligible Organisation",
+          "state": "NSW"
+        },
+        {
+          "organisationName": "University of Canberra",
+          "roleName": "Other Eligible Organisation",
+          "state": "ACT"
+        },
+        {
+          "organisationName": "The University of Melbourne",
+          "roleName": "Other Eligible Organisation",
+          "state": "VIC"
+        },
+        {
+          "organisationName": "The University of Sydney",
+          "roleName": "Other Eligible Organisation",
+          "state": "NSW"
+        },
+        {
+          "organisationName": "The University of Western Australia",
+          "roleName": "Other Eligible Organisation",
+          "state": "WA"
+        },
+        {
+          "organisationName": "Commonwealth Scientific and Industrial Research Organisation",
+          "roleName": "Partner Organisation",
+          "state": "ACT"
+        },
+        {
+          "organisationName": "Geoscience Australia",
+          "roleName": "Partner Organisation",
+          "state": "ACT"
+        },
+        {
+          "organisationName": "British Antarctic Survey",
+          "roleName": "Partner Organisation",
+          "state": null
+        },
+        {
+          "organisationName": "California Institute of Technology, USA",
+          "roleName": "Partner Organisation",
+          "state": null
+        },
+        {
+          "organisationName": "Durham University, UK",
+          "roleName": "Partner Organisation",
+          "state": null
+        },
+        {
+          "organisationName": "French National Center for Scientific Research ",
+          "roleName": "Partner Organisation",
+          "state": null
+        },
+        {
+          "organisationName": "King's College London",
+          "roleName": "Partner Organisation",
+          "state": null
+        },
+        {
+          "organisationName": "Laboratory of Oceanography and Climatology",
+          "roleName": "Partner Organisation",
+          "state": null
+        },
+        {
+          "organisationName": "Laboratory for the Science of Climate and the Environment",
+          "roleName": "Partner Organisation",
+          "state": null
+        },
+        {
+          "organisationName": "Lamont-Doherty Earth Observatory, USA",
+          "roleName": "Partner Organisation",
+          "state": null
+        },
+        {
+          "organisationName": "Scripps Institution of Oceanography",
+          "roleName": "Partner Organisation",
+          "state": null
+        },
+        {
+          "organisationName": "Swansea University, UK",
+          "roleName": "Partner Organisation",
+          "state": null
+        },
+        {
+          "organisationName": "University of Bordeaux, Talence",
+          "roleName": "Partner Organisation",
+          "state": "N/A"
+        },
+        {
+          "organisationName": "University of Cambridge, UK",
+          "roleName": "Partner Organisation",
+          "state": null
+        },
+        {
+          "organisationName": "University of Colorado, Boulder",
+          "roleName": "Partner Organisation",
+          "state": null
+        },
+        {
+          "organisationName": "University of Lapland",
+          "roleName": "Partner Organisation",
+          "state": null
+        },
+        {
+          "organisationName": "University of Southern California, USA",
+          "roleName": "Partner Organisation",
+          "state": null
+        },
+        {
+          "organisationName": "University of Southampton",
+          "roleName": "Partner Organisation",
+          "state": null
+        },
+        {
+          "organisationName": "University of Tokyo",
+          "roleName": "Partner Organisation",
+          "state": null
+        },
+        {
+          "organisationName": "Utrecht University, Netherlands",
+          "roleName": "Partner Organisation",
+          "state": null
+        },
+        {
+          "organisationName": "Woods Hole Oceanographic Institution",
+          "roleName": "Partner Organisation",
+          "state": null
+        },
+        {
+          "organisationName": "Australian Antarctic Division",
+          "roleName": "Other Organisation",
+          "state": "TAS"
+        },
+        {
+          "organisationName": "Alfred Wegener Institute for Polar and Marine Research",
+          "roleName": "Other Organisation",
+          "state": null
+        },
+        {
+          "organisationName": "CNRS - Oceanographic Laboratory of Villefranche",
+          "roleName": "Other Organisation",
+          "state": null
+        },
+        {
+          "organisationName": "Colorado State University, USA",
+          "roleName": "Other Organisation",
+          "state": null
+        },
+        {
+          "organisationName": "Hokkaido University, Japan",
+          "roleName": "Other Organisation",
+          "state": null
+        },
+        {
+          "organisationName": "Johns Hopkins University",
+          "roleName": "Other Organisation",
+          "state": null
+        },
+        {
+          "organisationName": "Korea Polar Research Institute",
+          "roleName": "Other Organisation",
+          "state": null
+        },
+        {
+          "organisationName": "National Ocean and Atmospheric Administration",
+          "roleName": "Other Organisation",
+          "state": null
+        },
+        {
+          "organisationName": "Potsdam Institute for Climate Impact Research, Germany",
+          "roleName": "Other Organisation",
+          "state": null
+        },
+        {
+          "organisationName": "SYDNEY INSTITUTE OF MARINE SCIENCE",
+          "roleName": "Other Organisation",
+          "state": null
+        },
+        {
+          "organisationName": "University of Gothenburg, Sweden",
+          "roleName": "Other Organisation",
+          "state": null
+        },
+        {
+          "organisationName": "University of Virginia",
+          "roleName": "Other Organisation",
+          "state": null
+        }
+      ],
+      "field-of-research": [
+        {
+          "isPrimary": false,
+          "code": "040104",
+          "name": "Climate Change Processes",
+          "type": "FOR08"
+        },
+        {
+          "isPrimary": true,
+          "code": "0405",
+          "name": "Oceanography",
+          "type": "FOR08"
+        },
+        {
+          "isPrimary": false,
+          "code": "040503",
+          "name": "Physical Oceanography",
+          "type": "FOR08"
+        },
+        {
+          "isPrimary": false,
+          "code": "040602",
+          "name": "Glaciology",
+          "type": "FOR08"
+        }
+      ],
+      "socio-economic-objective": [
+        {
+          "code": "970104",
+          "name": "Expanding Knowledge In the Earth Sciences",
+          "type": "SEO08"
+        },
+        {
+          "code": "960306",
+          "name": "Effects of Climate Change and Variability on Antarctic and Sub-Antarctic Environments (Excl. Social Impacts)",
+          "type": "SEO08"
+        },
+        {
+          "code": "970105",
+          "name": "Expanding Knowledge In the Environmental Sciences",
+          "type": "SEO08"
+        }
+      ],
+      "international-collaboration": [
+        "England",
+        "Finland",
+        "France",
+        "Germany",
+        "Japan",
+        "Korea, Republic of (South)",
+        "Netherlands",
+        "Sweden",
+        "United States of America",
+        "Wales"
+      ],
+      "lief-register": [],
+      "achievement-summary": null,
+      "national-interest-test-statement": "Australia’s weather, climate and fisheries – and hence economy and way of life – are heavily affected by changes in the Southern Ocean and Antarctica. Further, melting of Antarctica’s ice sheets will threaten $230 billion of Australia’s coastal infrastructure, heritage and homes.\n\nThis Centre will provide, for the first time, the national-scale research capacity required to advance knowledge and hone predictions of Antarctica’s complex ice-Earth-ocean-atmosphere-ecosystem interactions that govern these future impacts.\n\nAustralia’s new Antarctic infrastructure will enable remote fieldwork in the Southern Ocean and Australian Antarctic Territory, where the greatest unknowns exist and where scientists have rarely – if ever – been. New data will improve predictions of the nature and rate of future change, enabling Australia to better safeguard against its worst impacts.\n\nFollowing the Government’s Australian Antarctic Science Program Governance Review, the Centre will align with the Australian Antarctic Program Partnership in order to deliver ground-breaking advances in Australia’s Antarctic Science Priorities.\n"
+    }
+  }
+}

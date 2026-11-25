@@ -1,0 +1,469 @@
+openapi: 3.0.3
+info:
+  title: ARC Data Portal API
+  description: >-
+    Grants Search API of the Australian Research Council (ARC) Data Portal, which follows the JSON:API 1.0 specification. ARC does not publish an OpenAPI spec, so this one is written from the help page at https://dataportal.arc.gov.au/NCGP/Web/Grant/Help and from the responses the API returns. test/Contract.test.ts fails when a recorded response has a field this spec does not describe.
+  version: 1.0.0
+servers:
+  - url: https://dataportal.arc.gov.au/NCGP/API
+tags:
+  - name: grants
+    description: ARC-funded research projects since 2001
+paths:
+  /grants:
+    get:
+      tags:
+        - grants
+      summary: Search grants
+      description: Returns a page of grants, optionally matching a free text search with expression filters.
+      parameters:
+        - name: filter
+          in: query
+          required: false
+          description: >-
+            Free text search, optionally followed by `=>` and expression filters, for example `Astronomy => (scheme="Discovery Projects") AND (status="Active")`. Without search text, pass the expression filters alone, for example `(lief-register="true")`. Omit to list every grant.
+          schema:
+            type: string
+        - name: sort
+          in: query
+          required: false
+          description: Sort order. Omit to sort by relevance. `money` sorts by current funding amount and `announced` by announcement date, and a leading `-` reverses the order.
+          schema:
+            type: string
+            enum:
+              - money
+              - -money
+              - announced
+              - -announced
+        - name: page[number]
+          in: query
+          required: false
+          description: The page to return, starting at 1.
+          schema:
+            type: integer
+            minimum: 1
+        - name: page[size]
+          in: query
+          required: false
+          description: Grants per page, at most 1000.
+          schema:
+            type: integer
+            minimum: 1
+            maximum: 1000
+      responses:
+        '200':
+          description: A page of grants
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GrantList'
+        default:
+          description: A JSON:API error document
+          content:
+            application/vnd.api+json:
+              schema:
+                $ref: '#/components/schemas/ErrorDocument'
+  /grants/{id}:
+    get:
+      tags:
+        - grants
+      summary: Get a grant
+      description: Returns the details of a grant, including its investigators, organisations and research classifications. An unknown id is answered with a 400.
+      parameters:
+        - name: id
+          in: path
+          required: true
+          description: The grant code, for example `DP190102138`.
+          schema:
+            type: string
+      responses:
+        '200':
+          description: The grant
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GrantDetailDocument'
+        default:
+          description: A JSON:API error document
+          content:
+            application/vnd.api+json:
+              schema:
+                $ref: '#/components/schemas/ErrorDocument'
+components:
+  schemas:
+    GrantList:
+      type: object
+      required:
+        - meta
+        - links
+        - data
+      properties:
+        meta:
+          $ref: '#/components/schemas/GrantListMeta'
+        links:
+          $ref: '#/components/schemas/PageLinks'
+        data:
+          type: array
+          items:
+            $ref: '#/components/schemas/Grant'
+    GrantListMeta:
+      type: object
+      required:
+        - requested-page-number
+        - requested-page-size
+        - actual-page-size
+        - total-pages
+        - total-size
+      properties:
+        requested-page-number:
+          type: integer
+        requested-page-size:
+          type: integer
+          description: The page size used, which is capped at 1000.
+        actual-page-size:
+          type: integer
+          description: The number of grants on this page.
+        total-pages:
+          type: integer
+        total-size:
+          type: integer
+          description: The number of grants that match the search.
+        search-description:
+          $ref: '#/components/schemas/SearchDescription'
+        sort-by:
+          type: string
+    SearchDescription:
+      type: object
+      nullable: true
+      description: How the API parsed the `filter`, or null when there is none.
+      properties:
+        ast:
+          $ref: '#/components/schemas/SearchNode'
+        types:
+          type: object
+          additionalProperties:
+            type: integer
+    SearchNode:
+      type: object
+      properties:
+        Name:
+          type: string
+        TokenText:
+          type: string
+          nullable: true
+        TokenString:
+          type: string
+          nullable: true
+        ChildNodes:
+          type: array
+          nullable: true
+          items:
+            $ref: '#/components/schemas/SearchNode'
+    PageLinks:
+      type: object
+      required:
+        - self
+      properties:
+        self:
+          type: string
+        first:
+          type: string
+        last:
+          type: string
+        prev:
+          type: string
+        next:
+          type: string
+          description: Present on every page that has results, and on the last page it points to the last page again.
+    Grant:
+      type: object
+      required:
+        - type
+        - id
+        - attributes
+        - links
+      properties:
+        type:
+          type: string
+          description: Always `grants`.
+        id:
+          type: string
+        attributes:
+          $ref: '#/components/schemas/GrantAttributes'
+        links:
+          $ref: '#/components/schemas/SelfLink'
+    GrantAttributes:
+      type: object
+      required:
+        - code
+        - scheme-name
+        - funding-commencement-year
+        - scheme-information
+        - current-admin-organisation
+        - grant-summary
+        - lead-investigator
+        - announced-funding-amount
+        - grant-status
+        - anticipated-end-date
+        - investigators
+        - lief-register
+      properties:
+        code:
+          type: string
+        scheme-name:
+          type: string
+        funding-commencement-year:
+          type: integer
+        scheme-information:
+          $ref: '#/components/schemas/SchemeInformation'
+        current-admin-organisation:
+          type: string
+        announcement-admin-organisation:
+          type: string
+          nullable: true
+        grant-summary:
+          type: string
+        lead-investigator:
+          type: string
+        current-funding-amount:
+          type: number
+          nullable: true
+        announced-funding-amount:
+          type: number
+        grant-status:
+          type: string
+          description: '`Active`, `Closed`, `Declined` or `Not yet accepted`.'
+        primary-field-of-research:
+          type: string
+          nullable: true
+          description: The four digit code and name, for example `0405 - Oceanography`.
+        anticipated-end-date:
+          type: string
+          description: An ISO date such as `2027-12-31`, or an empty string when not known.
+        investigators:
+          type: string
+          description: The current investigators' names, separated by `; `.
+        lief-register:
+          type: array
+          items:
+            $ref: '#/components/schemas/LiefRegisterItem'
+        national-interest-test-statement:
+          type: string
+          nullable: true
+    SchemeInformation:
+      type: object
+      properties:
+        schemeCode:
+          type: string
+          description: Padded with trailing spaces, for example `SR  `.
+        program:
+          type: string
+        submissionYear:
+          type: integer
+        roundNumber:
+          type: integer
+        schemeRound:
+          type: string
+    LiefRegisterItem:
+      type: object
+      properties:
+        primaryItem:
+          type: string
+        isItemAvailable:
+          type: boolean
+    SelfLink:
+      type: object
+      required:
+        - self
+      properties:
+        self:
+          type: string
+    GrantDetailDocument:
+      type: object
+      required:
+        - links
+        - data
+      properties:
+        links:
+          $ref: '#/components/schemas/SelfLink'
+        data:
+          $ref: '#/components/schemas/GrantDetail'
+    GrantDetail:
+      type: object
+      required:
+        - type
+        - id
+        - attributes
+      properties:
+        type:
+          type: string
+          description: Always `grant-details`.
+        id:
+          type: string
+        attributes:
+          $ref: '#/components/schemas/GrantDetailAttributes'
+    GrantDetailAttributes:
+      type: object
+      required:
+        - code
+        - scheme-name
+        - grant-status
+        - funding-commencement-year
+        - anticipated-end-date
+        - project-start-date
+        - grant-summary
+        - funding-at-announcement
+        - investigators-current
+        - investigators-at-announcement
+        - organisations-current
+        - organisations-at-announcement
+        - field-of-research
+        - socio-economic-objective
+        - international-collaboration
+        - lief-register
+      properties:
+        code:
+          type: string
+        administering-organisation:
+          type: string
+          nullable: true
+        announcement-administering-organisation:
+          type: string
+          nullable: true
+        scheme-name:
+          type: string
+        grant-status:
+          type: string
+        funding-commencement-year:
+          type: integer
+        years-funded:
+          type: integer
+          nullable: true
+        project-start-date:
+          type: string
+        anticipated-end-date:
+          type: string
+        grant-summary:
+          type: string
+        achievement-summary:
+          type: string
+          nullable: true
+          description: The outcome statement from the final report, once it has been approved.
+        national-interest-test-statement:
+          type: string
+          nullable: true
+        funding-current:
+          type: number
+          nullable: true
+        funding-at-announcement:
+          type: number
+        investigators-current:
+          type: array
+          items:
+            $ref: '#/components/schemas/Investigator'
+        investigators-at-announcement:
+          type: array
+          items:
+            $ref: '#/components/schemas/Investigator'
+        organisations-current:
+          type: array
+          items:
+            $ref: '#/components/schemas/Organisation'
+        organisations-at-announcement:
+          type: array
+          items:
+            $ref: '#/components/schemas/Organisation'
+        field-of-research:
+          type: array
+          items:
+            $ref: '#/components/schemas/FieldOfResearch'
+        socio-economic-objective:
+          type: array
+          items:
+            $ref: '#/components/schemas/SocioEconomicObjective'
+        international-collaboration:
+          type: array
+          description: Countries the project intended to collaborate with.
+          items:
+            type: string
+        lief-register:
+          type: array
+          items:
+            $ref: '#/components/schemas/LiefRegisterItem'
+    Investigator:
+      type: object
+      properties:
+        title:
+          type: string
+        firstName:
+          type: string
+        familyName:
+          type: string
+        roleName:
+          type: string
+        roleCode:
+          type: string
+        isFellowship:
+          type: boolean
+        orcidIdentifier:
+          type: string
+          nullable: true
+          description: May carry a trailing space.
+    Organisation:
+      type: object
+      properties:
+        organisationName:
+          type: string
+        roleName:
+          type: string
+        state:
+          type: string
+          nullable: true
+    FieldOfResearch:
+      type: object
+      properties:
+        code:
+          type: string
+        name:
+          type: string
+        type:
+          type: string
+          description: The classification, for example `FOR20` or `FOR08`.
+        isPrimary:
+          type: boolean
+    SocioEconomicObjective:
+      type: object
+      properties:
+        code:
+          type: string
+        name:
+          type: string
+        type:
+          type: string
+          description: The classification, for example `SEO20` or `SEO08`.
+    ErrorDocument:
+      type: object
+      properties:
+        links:
+          $ref: '#/components/schemas/SelfLink'
+        errors:
+          type: array
+          items:
+            $ref: '#/components/schemas/ApiError'
+    ApiError:
+      type: object
+      properties:
+        id:
+          type: string
+          description: For example `400BadRequest`.
+        status:
+          type: string
+          description: For example `BadRequest`.
+        code:
+          type: string
+          description: The HTTP status code, as a string.
+        title:
+          type: string
+          description: For example `ApiBadRequestException`.
+        detail:
+          type: string

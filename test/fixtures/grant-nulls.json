@@ -1,0 +1,81 @@
+{
+  "links": {
+    "self": "http://dataportal.arc.gov.au/NCGP/API/grants/FT260101590"
+  },
+  "data": {
+    "type": "grant-details",
+    "id": "FT260101590",
+    "attributes": {
+      "code": "FT260101590",
+      "administering-organisation": null,
+      "announcement-administering-organisation": "Macquarie University",
+      "scheme-name": "ARC Future Fellowships",
+      "grant-status": "Not yet accepted",
+      "funding-commencement-year": 2026,
+      "years-funded": 4,
+      "project-start-date": "",
+      "anticipated-end-date": "",
+      "grant-summary": "Towards Generalisable, Self-Improving Vision-Language-Action Robot Agents. This project will create advanced, generalisable vision-language-action systems that enable robots to learn from Internet videos, imagine actions, and improve themselves through experience. The innovation lies in teaching robots to watch, imagine, and learn autonomously, combining open-world learning, reasoning, and reinforcement to build adaptable, self-improving machines. It addresses the limits of current robots that cannot generalise beyond training data. Expected outcomes include scalable, safe, and efficient robot agents that assist in healthcare, manufacturing, and daily life, enhancing productivity, wellbeing, sustainability, and Australia’s global leadership in artificial intelligence and digital transformation.",
+      "funding-current": null,
+      "funding-at-announcement": 904603,
+      "investigators-current": [],
+      "investigators-at-announcement": [
+        {
+          "title": "Dr",
+          "firstName": "Yuankai",
+          "familyName": "Qi",
+          "roleName": "Future Fellowship",
+          "roleCode": "FT",
+          "isFellowship": true,
+          "orcidIdentifier": "0000-0003-4312-5682 "
+        }
+      ],
+      "organisations-current": [],
+      "organisations-at-announcement": [
+        {
+          "organisationName": "Macquarie University",
+          "roleName": "Administering Organisation",
+          "state": "NSW"
+        }
+      ],
+      "field-of-research": [
+        {
+          "isPrimary": true,
+          "code": "4605",
+          "name": "Data Management and Data Science",
+          "type": "FOR20"
+        },
+        {
+          "isPrimary": false,
+          "code": "460501",
+          "name": "Data Engineering and Data Science",
+          "type": "FOR20"
+        },
+        {
+          "isPrimary": false,
+          "code": "460502",
+          "name": "Data Mining and Knowledge Discovery",
+          "type": "FOR20"
+        }
+      ],
+      "socio-economic-objective": [
+        {
+          "code": "220302",
+          "name": "Electronic Information Storage and Retrieval Services",
+          "type": "SEO20"
+        },
+        {
+          "code": "220408",
+          "name": "Information Systems",
+          "type": "SEO20"
+        }
+      ],
+      "international-collaboration": [
+        "United States of America"
+      ],
+      "lief-register": [],
+      "achievement-summary": null,
+      "national-interest-test-statement": "This project focuses on developing intelligent, generalisable robots that can learn from Internet videos, imagine actions, and improve through experience, much like humans. It addresses the current gap in robotic intelligence where most systems cannot adapt beyond training environments. By advancing vision, language and reinforcement learning, the research will create adaptive robots capable of understanding, reasoning, and acting safely in dynamic real-world settings. The potential benefits for Australians are substantial. Economically, the project will strengthen Australia’s leadership in artificial intelligence and robotics, driving innovation and creating high-value jobs across healthcare, manufacturing, logistics, and agriculture. Socially, it will enable human-centred automation that improves care quality and supports independent living for older Australians. Environmentally, the robots’ ability to learn and adapt efficiently will reduce waste and energy use. To ensure translation and real-world impact, outcomes will be shared through open-source frameworks, public demonstrations, and partnerships with hospitals, industry, and government. Outreach through media, exhibitions, and policy discussions will promote public understanding and adoption. The project will help transform automation into a trusted, collaborative technology that advances Australia’s innovation, sustainability, and wellbeing, aligning with national priorities in digital economy, health, and robotics."
+    }
+  }
+}
