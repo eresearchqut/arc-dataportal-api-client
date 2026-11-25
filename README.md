@@ -8,7 +8,7 @@ OpenAPI client for the [ARC Data Portal API](https://dataportal.arc.gov.au/NCGP/
 npm install @eresearchqut/arc-dataportal-api-client
 ```
 
-Releases are published to npm from `main`.
+Releases are published from `main` to both npm and GitHub Packages, so projects whose `.npmrc` points `@eresearchqut` at GitHub Packages can install them too.
 
 ### Prereleases
 

@@ -35,6 +35,8 @@ jobs:
       id-token: write # for npm trusted publishing and provenance
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    outputs:
+      tag: ${{ steps.released.outputs.tag }}
     steps:
       - uses: actions/checkout@v5
       - uses: actions/setup-node@v5
@@ -54,3 +56,45 @@ jobs:
       - name: Release
         run: npx semantic-release
         id: release
+      # semantic-release leaves HEAD on its tagged release commit only when it
+      # actually released, so an empty tag means there is nothing to publish.
+      - name: Find Released Tag
+        id: released
+        run: echo "tag=$(git tag --points-at HEAD --list 'v*' | head -n 1)" >> "$GITHUB_OUTPUT"
+  # Releases created with GITHUB_TOKEN do not trigger other workflows, so the
+  # GitHub Packages publish has to run here rather than on `release: created`.
+  publish-gpr:
+    needs: publish-node
+    if: needs.publish-node.outputs.tag != ''
+    runs-on:
+      - ubuntu-latest
+    permissions:
+      contents: read
+      packages: write
+    env:
+      NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: ${{ needs.publish-node.outputs.tag }}
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 24.x
+          cache: npm
+          registry-url: https://npm.pkg.github.com
+          scope: "@eresearchqut"
+          always-auth: true
+      - uses: actions/setup-java@v5
+        with:
+          distribution: temurin
+          java-version: 21
+      - name: Install Dependencies
+        run: npm ci
+      - name: Build
+        run: npm run build
+      - name: Publish
+        env:
+          TAG: ${{ needs.publish-node.outputs.tag }}
+        run: |
+          npm publish
+          echo "Published @eresearchqut/arc-dataportal-api-client@${TAG#v} to GitHub Packages" >> "$GITHUB_STEP_SUMMARY"
