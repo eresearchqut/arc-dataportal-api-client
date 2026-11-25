@@ -1,0 +1,1570 @@
+{
+  "meta": {
+    "requested-page-number": 1,
+    "requested-page-size": 50,
+    "actual-page-size": 50,
+    "total-pages": 700,
+    "total-size": 34977,
+    "search-description": null,
+    "sort-by": "announced"
+  },
+  "links": {
+    "self": "http://dataportal.arc.gov.au/NCGP/API/grants?page%5Bnumber%5D=1&page%5Bsize%5D=50&sort=announced",
+    "first": "http://dataportal.arc.gov.au/NCGP/API/grants?page%5Bnumber%5D=1&page%5Bsize%5D=50&sort=announced",
+    "last": "http://dataportal.arc.gov.au/NCGP/API/grants?page%5Bnumber%5D=700&page%5Bsize%5D=50&sort=announced",
+    "prev": "http://dataportal.arc.gov.au/NCGP/API/grants?page%5Bnumber%5D=1&page%5Bsize%5D=50&sort=announced",
+    "next": "http://dataportal.arc.gov.au/NCGP/API/grants?page%5Bnumber%5D=2&page%5Bsize%5D=50&sort=announced"
+  },
+  "data": [
+    {
+      "type": "grants",
+      "id": "GBIF00001",
+      "attributes": {
+        "code": "GBIF00001",
+        "scheme-name": "Special Research Initiatives",
+        "funding-commencement-year": 2001,
+        "scheme-information": {
+          "schemeCode": "SR  ",
+          "program": "Linkage",
+          "submissionYear": 2001,
+          "roundNumber": 1,
+          "schemeRound": "SR01 Round 1"
+        },
+        "current-admin-organisation": "Commonwealth Scientific and Industrial Research Organisation",
+        "announcement-admin-organisation": null,
+        "grant-summary": "Global Biodiversity Information Facility (GBIF). Global Biodiversity Information Facility (GBIF)",
+        "lead-investigator": "Dr Joanne Daly",
+        "current-funding-amount": 196198,
+        "announced-funding-amount": 187232,
+        "grant-status": "Closed",
+        "primary-field-of-research": null,
+        "anticipated-end-date": "2006-02-28",
+        "investigators": "Dr Joanne Daly",
+        "lief-register": [],
+        "national-interest-test-statement": null
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/GBIF00001"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LX0242377",
+      "attributes": {
+        "code": "LX0242377",
+        "scheme-name": "Linkage - International",
+        "funding-commencement-year": 2001,
+        "scheme-information": {
+          "schemeCode": "LX  ",
+          "program": "Linkage",
+          "submissionYear": 2001,
+          "roundNumber": 1,
+          "schemeRound": "LX02 Round 1"
+        },
+        "current-admin-organisation": "The University of New South Wales",
+        "announcement-admin-organisation": "The University of New South Wales",
+        "grant-summary": "Ergodic theory and number theory. Recent advances in the theory of measured dynamical systems investigated by the proponents include new versions of entropy, and the study of spectral theory for non-singular systems. These will be further developed in this joint project with the French CNRS. The results are expected to have interesting applications in physics and number theory.",
+        "lead-investigator": "Prof Anthony Dooley",
+        "current-funding-amount": 14761,
+        "announced-funding-amount": 19400,
+        "grant-status": "Closed",
+        "primary-field-of-research": "0101 - Pure Mathematics",
+        "anticipated-end-date": "2003-12-31",
+        "investigators": "Prof Anthony Dooley",
+        "lief-register": [],
+        "national-interest-test-statement": null
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LX0242377"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LX0242349",
+      "attributes": {
+        "code": "LX0242349",
+        "scheme-name": "Linkage - International",
+        "funding-commencement-year": 2001,
+        "scheme-information": {
+          "schemeCode": "LX  ",
+          "program": "Linkage",
+          "submissionYear": 2001,
+          "roundNumber": 1,
+          "schemeRound": "LX02 Round 1"
+        },
+        "current-admin-organisation": "The University of Queensland",
+        "announcement-admin-organisation": "The University of Queensland",
+        "grant-summary": "APEC Cooperation for Earthquake Simulation Visitors Program. This project aims to improve understanding of earthquakes through development of numerical simulation models for the earthquake generation process.  Its centerpiece is a major international collaboration, achieved via a visitor exchange program between the headquarters of the APEC Cooperation for Earthquake Simulation in Australia and overseas centres of excellence. Earthquakes are one of the most costly and deadly natural disasters, and APEC member economies have a high earthquake risk.  Recent analyses suggest earthquakes may dominate the loss potential in Australia. The complementary research programs offer an opportunity to achieve breakthrough advances in improved methods of earthquake forecasting and hazard quantification.",
+        "lead-investigator": "Prof Peter Mora",
+        "current-funding-amount": 12263,
+        "announced-funding-amount": 12000,
+        "grant-status": "Closed",
+        "primary-field-of-research": "0404 - Geophysics",
+        "anticipated-end-date": "2003-12-31",
+        "investigators": "Dr James Dieterich; Prof Peter Mora; Prof Mitsuhiro Matsu'ura; Dr David Place; Em/Prof Hans Muhlhaus; Prof Kazuro Hirahara; A/Prof Hiroshi Okuda",
+        "lief-register": [],
+        "national-interest-test-statement": null
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LX0242349"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LX0237512",
+      "attributes": {
+        "code": "LX0237512",
+        "scheme-name": "Linkage - International",
+        "funding-commencement-year": 2001,
+        "scheme-information": {
+          "schemeCode": "LX  ",
+          "program": "Linkage",
+          "submissionYear": 2001,
+          "roundNumber": 1,
+          "schemeRound": "LX02 Round 1"
+        },
+        "current-admin-organisation": "University of Wollongong",
+        "announcement-admin-organisation": "University of Wollongong",
+        "grant-summary": "Pesticide effects on native Australia vetebrates: A collaboration between the University of Wollongong and Texas Tech University. Aerially applied insecticides are used worldwide to control periodic locust infestations. Assessment of their effects on vertebrates is based on limited information concerning a few North American or European species. We will compare  the sublethal effects of  3 compounds currently used or under consideration  by the Australian Plague Locust Commission (APLC) on representative Australian vertebrates. Assessments include cholinesterase inhibition, peak aerobic performance , thermoregulatory  ability, stress responses, immune function and feeding behaviour. Our collaboration includes expertise in comparative physiology, endocrinology and wildlife toxicology.",
+        "lead-investigator": "Prof Lee Astheimer",
+        "current-funding-amount": 36698,
+        "announced-funding-amount": 34894,
+        "grant-status": "Closed",
+        "primary-field-of-research": "0502 - Environmental Science and Management",
+        "anticipated-end-date": "2005-12-31",
+        "investigators": "Prof Lee Astheimer; A/Prof Michael Hooper; Prof William Buttemer",
+        "lief-register": [],
+        "national-interest-test-statement": null
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LX0237512"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LX0235264",
+      "attributes": {
+        "code": "LX0235264",
+        "scheme-name": "Linkage - International",
+        "funding-commencement-year": 2001,
+        "scheme-information": {
+          "schemeCode": "LX  ",
+          "program": "Linkage",
+          "submissionYear": 2001,
+          "roundNumber": 1,
+          "schemeRound": "LX02 Round 1"
+        },
+        "current-admin-organisation": "University of Technology Sydney",
+        "announcement-admin-organisation": "University of Technology, Sydney",
+        "grant-summary": "Development of a novel filtration hybrid system in wastewater treatment and reuse. Water industries in Australia and Japan are aiming at developing compact wastewater treatment and reuse systems.  This project will form the basis for a long-term study on coupling a new static floccuator/filter system being developed at UTS and a hanging sponge cubes bioreactor being developed at NUT.  A properly designed physico-chemical biological hybrid system will be cost-effective in removing a wide range of pollutants with little maintenance.  This study will establish a rational hybrid system through detailed bench and pilot-scale experimentation.  It will make the optimum use of the complementary expertise and facilities at NUT and UTS.",
+        "lead-investigator": "Em/Prof Saravanamuthu Vigneswaran",
+        "current-funding-amount": 43454,
+        "announced-funding-amount": 42000,
+        "grant-status": "Closed",
+        "primary-field-of-research": "0905 - Civil Engineering",
+        "anticipated-end-date": "2004-07-31",
+        "investigators": "Prof Hao Ngo; A/Prof A Ohashi; Em/Prof Saravanamuthu Vigneswaran; Prof Hideki Harada",
+        "lief-register": [],
+        "national-interest-test-statement": null
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LX0235264"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LX0214943",
+      "attributes": {
+        "code": "LX0214943",
+        "scheme-name": "Linkage - International",
+        "funding-commencement-year": 2001,
+        "scheme-information": {
+          "schemeCode": "LX  ",
+          "program": "Linkage",
+          "submissionYear": 2001,
+          "roundNumber": 1,
+          "schemeRound": "LX02 Round 1"
+        },
+        "current-admin-organisation": "The Australian National University",
+        "announcement-admin-organisation": "The Australian National University",
+        "grant-summary": "Negotiation Support Systems for Groundwater Managment in Small Islands. Expanding populations and limited land area in small islands are increasing the pressures on fresh groundwater resources. The dilemma is how to protect shallow groundwater reserves without alienating traditional landowners and without generating costly conflicts. The problem is complex and involves the interaction of hydrologic and technical factors with socio-cultural, economic, policy and institutional factors. Multi Agent Systems (MAS) have been developed to study the interaction between societies and the environment. Here we will use MAS to develop  Negotiation Support Systems for groundwater management in small islands.",
+        "lead-investigator": "Prof Ian White",
+        "current-funding-amount": 72824,
+        "announced-funding-amount": 73715,
+        "grant-status": "Closed",
+        "primary-field-of-research": "0801 - Artificial Intelligence and Image Processing",
+        "anticipated-end-date": "2004-12-31",
+        "investigators": "Prof Ian White; Prof Pascal Perez",
+        "lief-register": [],
+        "national-interest-test-statement": null
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LX0214943"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LX0212015",
+      "attributes": {
+        "code": "LX0212015",
+        "scheme-name": "Linkage - International",
+        "funding-commencement-year": 2001,
+        "scheme-information": {
+          "schemeCode": "LX  ",
+          "program": "Linkage",
+          "submissionYear": 2001,
+          "roundNumber": 1,
+          "schemeRound": "LX02 Round 1"
+        },
+        "current-admin-organisation": "The University of Queensland",
+        "announcement-admin-organisation": "The University of Queensland",
+        "grant-summary": "Weathering History and Cenozoic Landscape Evolution in Northern Queensland and New Caledonia. Rates of rock weathering impose a major control on the CO2 global budget.  Increased weathering rates consume atmospheric CO2, possibly resulting in cooler climates. We intend to determine rock weathering rates on similar lithologies currently placed on equatorial positions, Northeastern Australia and New Caledonia, but possibly differing in climatic history. Geochronology of continental weathering profiles in the areas will permit correlating known paleoclimatic cycles, derived from the isotopic composition of ocean floor sediments, with the variation in continental weathering rates.  This comparison will test current models proposing that cooling of Cenozoic climates results from increase rates of rock weathering.",
+        "lead-investigator": "Prof Paulo Vasconcelos",
+        "current-funding-amount": 0,
+        "announced-funding-amount": 62470,
+        "grant-status": "Closed",
+        "primary-field-of-research": "0406 - Physical Geography and Environmental Geoscience",
+        "anticipated-end-date": "2003-12-31",
+        "investigators": "Dr Oliver Henoque; Prof Paulo Vasconcelos",
+        "lief-register": [],
+        "national-interest-test-statement": null
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LX0212015"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LX0242407",
+      "attributes": {
+        "code": "LX0242407",
+        "scheme-name": "Linkage - International",
+        "funding-commencement-year": 2002,
+        "scheme-information": {
+          "schemeCode": "LX  ",
+          "program": "Linkage",
+          "submissionYear": 2001,
+          "roundNumber": 1,
+          "schemeRound": "LX02 Round 1"
+        },
+        "current-admin-organisation": "The University of Western Australia",
+        "announcement-admin-organisation": null,
+        "grant-summary": "Collaborative Research on In Stiu Minerals Extraction. this project aims at developing a computer simulation assisted methology to extract mineral values in situ through circulating a smart fluid within the ore deposit.  This work will have the potential to convert the known sub-economix mineral resources (about 37 million tonnes in Australia alone) into reserves and to provide a smart extraction method for newly discovered deposits.",
+        "lead-investigator": "Prof Jishan Liu",
+        "current-funding-amount": 28403,
+        "announced-funding-amount": 26678,
+        "grant-status": "Closed",
+        "primary-field-of-research": null,
+        "anticipated-end-date": "2005-09-17",
+        "investigators": "Prof Jishan Liu",
+        "lief-register": [],
+        "national-interest-test-statement": null
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LX0242407"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "SRI030002",
+      "attributes": {
+        "code": "SRI030002",
+        "scheme-name": "Special Research Initiatives",
+        "funding-commencement-year": 2002,
+        "scheme-information": {
+          "schemeCode": "SR  ",
+          "program": "Linkage",
+          "submissionYear": 2002,
+          "roundNumber": 1,
+          "schemeRound": "SR02 Round 1"
+        },
+        "current-admin-organisation": "The University of New South Wales",
+        "announcement-admin-organisation": "The University of New South Wales",
+        "grant-summary": "A \"Pre-Abingdon-II\" Workshop; Australia's first step towards increasing its engagement in the International Gemini Partnership's Instrumentation program. A \"Pre-Abingdon-II\" Workshop; Australia's first step towards increasing its engagement in the International Gemini Partnership's Instrumentation program",
+        "lead-investigator": "Prof Warrick Couch",
+        "current-funding-amount": 5420,
+        "announced-funding-amount": 5420,
+        "grant-status": "Closed",
+        "primary-field-of-research": null,
+        "anticipated-end-date": "2002-12-31",
+        "investigators": "Prof Warrick Couch",
+        "lief-register": [],
+        "national-interest-test-statement": null
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/SRI030002"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "SRI030001",
+      "attributes": {
+        "code": "SRI030001",
+        "scheme-name": "Special Research Initiatives",
+        "funding-commencement-year": 2002,
+        "scheme-information": {
+          "schemeCode": "SR  ",
+          "program": "Linkage",
+          "submissionYear": 2002,
+          "roundNumber": 1,
+          "schemeRound": "SR02 Round 1"
+        },
+        "current-admin-organisation": "The Australian National University",
+        "announcement-admin-organisation": "The Australian National University",
+        "grant-summary": "Advanced Studies Institute: The link between Genomics and Phenomics. The ASI will gather promising reseachers who have obtained their doctoral degrees within the preceding 10 years, together with eminent senior researchers from the region in a program designed around a series of lectures, seminars and interactive sessions. The topic of the ASI will be bioinformatics, specifically on the link between genomics and phenomics. The themes will be biomedicine, bioengineering, Agriculture/Environment/Biodiversity, Platforms, and Integrated Systems.",
+        "lead-investigator": "Prof John Hearn",
+        "current-funding-amount": 40503,
+        "announced-funding-amount": 50000,
+        "grant-status": "Closed",
+        "primary-field-of-research": null,
+        "anticipated-end-date": "2003-05-05",
+        "investigators": "Prof John Hearn",
+        "lief-register": [],
+        "national-interest-test-statement": null
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/SRI030001"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "PFG002002",
+      "attributes": {
+        "code": "PFG002002",
+        "scheme-name": "ARC Centres of Excellence",
+        "funding-commencement-year": 2002,
+        "scheme-information": {
+          "schemeCode": "CE  ",
+          "program": "Linkage",
+          "submissionYear": 2002,
+          "roundNumber": 1,
+          "schemeRound": "CE02 Round 1"
+        },
+        "current-admin-organisation": "The University of Adelaide",
+        "announcement-admin-organisation": "The University of Adelaide",
+        "grant-summary": "Australian Centre for Plant Functional Genomics. The ACPFG is working to improve the resistance of wheat and barley to hostile environmental conditions, using functional genomics technologies. Scientists at the ACPFG are focusing on stresses that impact agriculture in Australia, including drought, salinity, high or low temperatures and mineral deficiencies or toxicities. These stresses, known as abiotic stresses, are a major cause of cereal crop yield and quality loss throughout the world.",
+        "lead-investigator": "Prof Peter Langridge",
+        "current-funding-amount": 10461544,
+        "announced-funding-amount": 25567902,
+        "grant-status": "Closed",
+        "primary-field-of-research": null,
+        "anticipated-end-date": "2007-12-31",
+        "investigators": "Prof Peter Langridge",
+        "lief-register": [],
+        "national-interest-test-statement": null
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/PFG002002"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LASP02008",
+      "attributes": {
+        "code": "LASP02008",
+        "scheme-name": "Learned Academies Special Projects",
+        "funding-commencement-year": 2002,
+        "scheme-information": {
+          "schemeCode": "LA  ",
+          "program": "Linkage",
+          "submissionYear": 2001,
+          "roundNumber": 1,
+          "schemeRound": "LA02 Round 1"
+        },
+        "current-admin-organisation": "Australian Council of Learned Academies Secretariat Ltd",
+        "announcement-admin-organisation": "National Academies Forum",
+        "grant-summary": "Social impacts of changing water regimes in Australia. Social impacts of changing water regimes in Australia",
+        "lead-investigator": "Prof Malcolm Gillies",
+        "current-funding-amount": 91969,
+        "announced-funding-amount": 90000,
+        "grant-status": "Closed",
+        "primary-field-of-research": null,
+        "anticipated-end-date": "2005-05-30",
+        "investigators": "Prof Malcolm Gillies",
+        "lief-register": [],
+        "national-interest-test-statement": null
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LASP02008"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LASP02006",
+      "attributes": {
+        "code": "LASP02006",
+        "scheme-name": "Learned Academies Special Projects",
+        "funding-commencement-year": 2002,
+        "scheme-information": {
+          "schemeCode": "LA  ",
+          "program": "Linkage",
+          "submissionYear": 2001,
+          "roundNumber": 1,
+          "schemeRound": "LA02 Round 1"
+        },
+        "current-admin-organisation": "Academy of the Social Sciences in Australia",
+        "announcement-admin-organisation": "Academy of the Social Sciences in Australia",
+        "grant-summary": "Rethinking well-being: policy and program issues in disability, disadvantage and community development. Rethinking well-being: policy and program issues in disability, disadvantage and community development",
+        "lead-investigator": "Prof Lenore Manderson",
+        "current-funding-amount": 67947,
+        "announced-funding-amount": 70000,
+        "grant-status": "Closed",
+        "primary-field-of-research": null,
+        "anticipated-end-date": "2002-12-31",
+        "investigators": "Prof Lenore Manderson",
+        "lief-register": [],
+        "national-interest-test-statement": null
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LASP02006"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LASP02005",
+      "attributes": {
+        "code": "LASP02005",
+        "scheme-name": "Learned Academies Special Projects",
+        "funding-commencement-year": 2002,
+        "scheme-information": {
+          "schemeCode": "LA  ",
+          "program": "Linkage",
+          "submissionYear": 2001,
+          "roundNumber": 1,
+          "schemeRound": "LA02 Round 1"
+        },
+        "current-admin-organisation": "Australian Academy of the Humanities",
+        "announcement-admin-organisation": "The Australian Academy of the Humanities",
+        "grant-summary": "Establishment of the Australian E-Humanities Network. Establishment of the Australian E-Humanities Network",
+        "lead-investigator": "Dr David Bennett",
+        "current-funding-amount": 61313,
+        "announced-funding-amount": 60000,
+        "grant-status": "Closed",
+        "primary-field-of-research": null,
+        "anticipated-end-date": "2002-12-31",
+        "investigators": "Dr David Bennett",
+        "lief-register": [],
+        "national-interest-test-statement": null
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LASP02005"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LASP02004",
+      "attributes": {
+        "code": "LASP02004",
+        "scheme-name": "Learned Academies Special Projects",
+        "funding-commencement-year": 2002,
+        "scheme-information": {
+          "schemeCode": "LA  ",
+          "program": "Linkage",
+          "submissionYear": 2001,
+          "roundNumber": 1,
+          "schemeRound": "LA02 Round 1"
+        },
+        "current-admin-organisation": "Australian Academy of the Humanities",
+        "announcement-admin-organisation": "The Australian Academy of the Humanities",
+        "grant-summary": "Towards a Research Strategy for the Creative Arts in Australia – creative practice, publication and research training. Towards a Research Strategy for the Creative Arts in Australia – creative practice, publication and research training",
+        "lead-investigator": "Dr David Bennett",
+        "current-funding-amount": 66251,
+        "announced-funding-amount": 77000,
+        "grant-status": "Closed",
+        "primary-field-of-research": null,
+        "anticipated-end-date": "2002-12-31",
+        "investigators": "Dr David Bennett",
+        "lief-register": [],
+        "national-interest-test-statement": null
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LASP02004"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LASP02002",
+      "attributes": {
+        "code": "LASP02002",
+        "scheme-name": "Learned Academies Special Projects",
+        "funding-commencement-year": 2002,
+        "scheme-information": {
+          "schemeCode": "LA  ",
+          "program": "Linkage",
+          "submissionYear": 2001,
+          "roundNumber": 1,
+          "schemeRound": "LA02 Round 1"
+        },
+        "current-admin-organisation": "Australian Academy of Science",
+        "announcement-admin-organisation": "Australian Academy of Science",
+        "grant-summary": "Authoritative Web-based Information to Support Australian Science and Technology. Authoritative Web-based Information to Support Australian Science and Technology",
+        "lead-investigator": "Ms Joy Dudine",
+        "current-funding-amount": 132844,
+        "announced-funding-amount": 130000,
+        "grant-status": "Closed",
+        "primary-field-of-research": null,
+        "anticipated-end-date": "2002-12-31",
+        "investigators": "Ms Joy Dudine",
+        "lief-register": [],
+        "national-interest-test-statement": null
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LASP02002"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LASP02001",
+      "attributes": {
+        "code": "LASP02001",
+        "scheme-name": "Learned Academies Special Projects",
+        "funding-commencement-year": 2002,
+        "scheme-information": {
+          "schemeCode": "LA  ",
+          "program": "Linkage",
+          "submissionYear": 2001,
+          "roundNumber": 1,
+          "schemeRound": "LA02 Round 1"
+        },
+        "current-admin-organisation": "Australian Academy of Science",
+        "announcement-admin-organisation": "Australian Academy of Science",
+        "grant-summary": "Pesticide Use in Australia. Pesticide Use in Australia",
+        "lead-investigator": "Ms Joy Dudine",
+        "current-funding-amount": 25547,
+        "announced-funding-amount": 25000,
+        "grant-status": "Closed",
+        "primary-field-of-research": null,
+        "anticipated-end-date": "2002-12-31",
+        "investigators": "Ms Joy Dudine",
+        "lief-register": [],
+        "national-interest-test-statement": null
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LASP02001"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "AR04/00252",
+      "attributes": {
+        "code": "AR04/00252",
+        "scheme-name": "Linkage - International",
+        "funding-commencement-year": 2002,
+        "scheme-information": {
+          "schemeCode": "LX  ",
+          "program": "Linkage",
+          "submissionYear": 2003,
+          "roundNumber": 1,
+          "schemeRound": "LX04 Round 1"
+        },
+        "current-admin-organisation": "Australian Astronomical Observatory",
+        "announcement-admin-organisation": "Australian Astronomical Observatory",
+        "grant-summary": "Anglo-Australian Observatory Research Fellowship. The Anglo-Australian Observatory Fellowship is managed by the Anglo-Australian Telescope Board through the Anglo-Australian Observatory (AAO) and co-funded on a 50/50 basis by the ARC and the UK Particle Physics and Astronomy Research Council (PPARC). Each year one Fellowship is awarded alternately to Australian and British early career researchers to undertake postdoctoral work at the Anglo-Australian Observatory. The period of tenure of the Fellowship is two years with provision of an extension of up to 12 months in exceptional circumstances.",
+        "lead-investigator": "Ms E Corbett",
+        "current-funding-amount": null,
+        "announced-funding-amount": 547122,
+        "grant-status": "Closed",
+        "primary-field-of-research": null,
+        "anticipated-end-date": "",
+        "investigators": "",
+        "lief-register": [],
+        "national-interest-test-statement": null
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/AR04/00252"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "ANZCCART",
+      "attributes": {
+        "code": "ANZCCART",
+        "scheme-name": "Special Research Initiatives",
+        "funding-commencement-year": 2002,
+        "scheme-information": {
+          "schemeCode": "SR  ",
+          "program": "Linkage",
+          "submissionYear": 2002,
+          "roundNumber": 1,
+          "schemeRound": "SR02 Round 1"
+        },
+        "current-admin-organisation": "The University of Adelaide",
+        "announcement-admin-organisation": "ANZCCART / University of Adelaide",
+        "grant-summary": "Australian and New Zealand Council for the Care of Animals in Research and Teaching. The ARC contributes to the operation of ANZCCART to provide leadership in developing community consensus on ethical, social and scientific issues relating to the use of animals in research and teaching.",
+        "lead-investigator": "Dr Robert Baker",
+        "current-funding-amount": null,
+        "announced-funding-amount": 504546,
+        "grant-status": "Closed",
+        "primary-field-of-research": null,
+        "anticipated-end-date": "",
+        "investigators": "",
+        "lief-register": [],
+        "national-interest-test-statement": null
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/ANZCCART"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LX0347906",
+      "attributes": {
+        "code": "LX0347906",
+        "scheme-name": "Linkage - International",
+        "funding-commencement-year": 2002,
+        "scheme-information": {
+          "schemeCode": "LX  ",
+          "program": "Linkage",
+          "submissionYear": 2002,
+          "roundNumber": 2,
+          "schemeRound": "LX02 Round 2"
+        },
+        "current-admin-organisation": "Monash University",
+        "announcement-admin-organisation": "Monash University",
+        "grant-summary": "Cooperativity in Spin Crossover Systems: Memory, Magnetism and Microporosity. Spin-crossover centres are a well known form of inorganic electronic switch for which variation of temperature, pressure and irradiation leads to a change in d-electron configuration and therefore changes to structure, colour and magnetism. Here we aim to synthesise and study a wide variety of new spin-crossover systems where cooperativitiy between centres, induced by careful supramolecular design, will lead to molecules and materials having memory retention, magnetic ordering and/or microporosity. The significance of these aims covers several fundamental questions in the science of electronic systems. We also identify a number of potential nanochemical switching applications for the unique systems proposed.",
+        "lead-investigator": "Em/Prof Keith Murray",
+        "current-funding-amount": 32554,
+        "announced-funding-amount": 31650,
+        "grant-status": "Closed",
+        "primary-field-of-research": "0302 - Inorganic Chemistry",
+        "anticipated-end-date": "2005-12-31",
+        "investigators": "Prof H Toftlund; Prof Cameron Kepert; Em/Prof Keith Murray",
+        "lief-register": [],
+        "national-interest-test-statement": null
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LX0347906"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LX0347471",
+      "attributes": {
+        "code": "LX0347471",
+        "scheme-name": "Linkage - International",
+        "funding-commencement-year": 2002,
+        "scheme-information": {
+          "schemeCode": "LX  ",
+          "program": "Linkage",
+          "submissionYear": 2002,
+          "roundNumber": 2,
+          "schemeRound": "LX02 Round 2"
+        },
+        "current-admin-organisation": "Griffith University",
+        "announcement-admin-organisation": "The University of Queensland",
+        "grant-summary": "Spin tunnelling transport and quantum effects in magnetic nanostructures. A new field of \"spintronics\" takes advantage of the spin of electrons and revolutionises electronics leading to quantum devices. By understanding the behaviour of electron spin in materials we can learn new fundamentals in solid-state physics that will lead to a new generation of electronic, optoelectronic and magneto-electronic devices. The aim of this project is to study the spin tunnelling transport and noise, and related quantum effects in various magnetic nanostructures, such as ferromagnet/semiconductor/ferromagnet junctions, using quantum statistics approsches. The outcome of the project is of considerable relevance to the researches of nanostructure and quantum information/computation in Australia.",
+        "lead-investigator": "Dr He Bi Sun",
+        "current-funding-amount": 22316,
+        "announced-funding-amount": 21800,
+        "grant-status": "Closed",
+        "primary-field-of-research": "0105 - Mathematical Physics",
+        "anticipated-end-date": "2005-12-31",
+        "investigators": "Prof Ding Yu Xing; Dr He Bi Sun",
+        "lief-register": [],
+        "national-interest-test-statement": null
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LX0347471"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LX0347195",
+      "attributes": {
+        "code": "LX0347195",
+        "scheme-name": "Linkage - International",
+        "funding-commencement-year": 2002,
+        "scheme-information": {
+          "schemeCode": "LX  ",
+          "program": "Linkage",
+          "submissionYear": 2002,
+          "roundNumber": 2,
+          "schemeRound": "LX02 Round 2"
+        },
+        "current-admin-organisation": "The University of Western Australia",
+        "announcement-admin-organisation": "The University of Western Australia",
+        "grant-summary": "Testing, modelling and engineering applications of topologically interlocking structures. The CI and his international collaborator have recently proposed a new principle of design of materials and structures based on topological interlocking of constituent elements. Elements of simple shape, such as tetrahedra, are assembled in structures that keep their integrity without any binder or connectors. Unusual properties, such as high fracture toughness and damage tolerance were found. The project aims at investigating the mechanical and acoustic properties of the newly discovered interlockable geometries (cubes, octahedra, dodecahedra and icosahedra) and identifying the areas of application. The project will promote the international leading role of the collaborating institutions in this novel field.",
+        "lead-investigator": "Prof Arcady Dyskin",
+        "current-funding-amount": 33632,
+        "announced-funding-amount": 32940,
+        "grant-status": "Closed",
+        "primary-field-of-research": "0912 - Materials Engineering",
+        "anticipated-end-date": "2004-12-31",
+        "investigators": "Prof Arcady Dyskin",
+        "lief-register": [],
+        "national-interest-test-statement": null
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LX0347195"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LX0347190",
+      "attributes": {
+        "code": "LX0347190",
+        "scheme-name": "Linkage - International",
+        "funding-commencement-year": 2002,
+        "scheme-information": {
+          "schemeCode": "LX  ",
+          "program": "Linkage",
+          "submissionYear": 2002,
+          "roundNumber": 2,
+          "schemeRound": "LX02 Round 2"
+        },
+        "current-admin-organisation": "The University of Western Australia",
+        "announcement-admin-organisation": "The University of Western Australia",
+        "grant-summary": "Spin dependent transport in magnetic nanostructures. The ability to use electron spin in electronic circuits has opened new possibilities for designing devices. A well known example is the  giant magnetoresistance, a phenomena discovered over fifteen years ago that now plays a key role in current high density magnetic disc drives. Future developments will involve spin dependent transport through structures wherein quantum interference effects will be important. Two basic problems facing the construction of a complete theory of transport in such ?mesoscopic? conductors will be solved in this project. The results will provide important insights into the dynamics of spin transport through structures such as magnetic nano-wires.",
+        "lead-investigator": "Prof Robert Stamps",
+        "current-funding-amount": 14570,
+        "announced-funding-amount": 14400,
+        "grant-status": "Closed",
+        "primary-field-of-research": "0105 - Mathematical Physics",
+        "anticipated-end-date": "2004-11-09",
+        "investigators": "Prof Robert Stamps",
+        "lief-register": [],
+        "national-interest-test-statement": null
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LX0347190"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LX0347172",
+      "attributes": {
+        "code": "LX0347172",
+        "scheme-name": "Linkage - International",
+        "funding-commencement-year": 2002,
+        "scheme-information": {
+          "schemeCode": "LX  ",
+          "program": "Linkage",
+          "submissionYear": 2002,
+          "roundNumber": 2,
+          "schemeRound": "LX02 Round 2"
+        },
+        "current-admin-organisation": "Macquarie University",
+        "announcement-admin-organisation": "Macquarie University",
+        "grant-summary": "The development of a two-colour flow cytometric assay for the detection of whole cell biosensors in environmental samples. Macquarie University and the University of Copenhagen have expertise in fluorescence detection and whole cell biosensors respectively.  The project will take advantage of these skills and develop a sensitive assay for monitoring biosensor bacteria in soil.  The technology will be significant as it will enable real time analysis of antibiotic production in situ through the detection of GFP expression.  This work will then be used to isolate new antibiotic produces and will be extended to research into the bioavailability of toxic compounds and stress. An existing collaboration between the two institutions will be extended enabling the transfer and application of biosensor technology to Australia.",
+        "lead-investigator": "Prof Duncan Veal",
+        "current-funding-amount": 9640,
+        "announced-funding-amount": 9640,
+        "grant-status": "Closed",
+        "primary-field-of-research": "0605 - Microbiology",
+        "anticipated-end-date": "2003-12-31",
+        "investigators": "Prof Duncan Veal",
+        "lief-register": [],
+        "national-interest-test-statement": null
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LX0347172"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LX0347103",
+      "attributes": {
+        "code": "LX0347103",
+        "scheme-name": "Linkage - International",
+        "funding-commencement-year": 2002,
+        "scheme-information": {
+          "schemeCode": "LX  ",
+          "program": "Linkage",
+          "submissionYear": 2002,
+          "roundNumber": 2,
+          "schemeRound": "LX02 Round 2"
+        },
+        "current-admin-organisation": "University of Wollongong",
+        "announcement-admin-organisation": "University of Wollongong",
+        "grant-summary": "Internet web page mining. This project aims to study the behaviour of internet search engines designed using a best first search strategy, and to improve on the existing designs. The outcome of the project will be a much better design of internet search engine which can be used to search for specific topics. The benefit to the Australian partner will be the gaining of skills in internet search engine design, originating from the Italian partner's group. The benefit to the Italian partner will be the gaining of skills in research techniques, e.g., utilising a support vector machine as a classification tool, data mining techniques developed originally by the Australian partner's group, and in further developments of these techniques with specific applications to the internet web page mining problem.",
+        "lead-investigator": "Prof Ah Chung Tsoi",
+        "current-funding-amount": 22918,
+        "announced-funding-amount": 22800,
+        "grant-status": "Closed",
+        "primary-field-of-research": "0801 - Artificial Intelligence and Image Processing",
+        "anticipated-end-date": "2004-12-31",
+        "investigators": "Prof Ah Chung Tsoi; Prof Marco Gori",
+        "lief-register": [],
+        "national-interest-test-statement": null
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LX0347103"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LX0346972",
+      "attributes": {
+        "code": "LX0346972",
+        "scheme-name": "Linkage - International",
+        "funding-commencement-year": 2002,
+        "scheme-information": {
+          "schemeCode": "LX  ",
+          "program": "Linkage",
+          "submissionYear": 2002,
+          "roundNumber": 2,
+          "schemeRound": "LX02 Round 2"
+        },
+        "current-admin-organisation": "The University of Western Australia",
+        "announcement-admin-organisation": "The University of Western Australia",
+        "grant-summary": "NMR studies on DNA interactions of polynuclear platinum. BBR3464 is representative of a class of structurally unique platinum anticancer drugs, and is currently undergoing clinical trials. The anticancer activity most likely depends on binding to DNA, but the mechanism is different from that of the widely used drug, cisplatin. This project uses NMR spectroscopy to follow in detail the stepwise formation of DNA adducts. Further extension to reactions of polynuclear platinum complexes with sulfur nucleophiles will aid in understanding their metabolism and toxicity. The results of this work will aid in the selection of back-up clinical candidates and the design of drugs that target specific sequences of DNA for use in novel gene-based therapies.",
+        "lead-investigator": "Prof Susan Berners-Price",
+        "current-funding-amount": 32599,
+        "announced-funding-amount": 32000,
+        "grant-status": "Closed",
+        "primary-field-of-research": "0302 - Inorganic Chemistry",
+        "anticipated-end-date": "2005-09-22",
+        "investigators": "Prof Nicholas Farrell; Prof Susan Berners-Price",
+        "lief-register": [],
+        "national-interest-test-statement": null
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LX0346972"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LX0346900",
+      "attributes": {
+        "code": "LX0346900",
+        "scheme-name": "Linkage - International",
+        "funding-commencement-year": 2002,
+        "scheme-information": {
+          "schemeCode": "LX  ",
+          "program": "Linkage",
+          "submissionYear": 2002,
+          "roundNumber": 2,
+          "schemeRound": "LX02 Round 2"
+        },
+        "current-admin-organisation": "The University of Western Australia",
+        "announcement-admin-organisation": "The University of Western Australia",
+        "grant-summary": "Isolation and characterization of cell signalling systems that activate or suppress apoptosis in pathogenic and symbiotic fungal:plant interactions. The key roles of programmed cell death (PCD) in plant disease are becoming apparent. This project will test the hypotheses that successful colonisation by arbuscular mycorrhizae in plant roots requires the plant to up-regulate inhibitors of PCD; that susceptibility in plants to necrotrophic fungal pathogens requires triggering of PCD; and that resistance is the result of activation of inhibitors of PCD. This international project will have important implications biologically and economically for control of plant disease and symbiosis, will train early career researchers in an area of international expertise and will strengthen collaboration between the US and Australian research group",
+        "lead-investigator": "Prof Wallace Cowling",
+        "current-funding-amount": 30776,
+        "announced-funding-amount": 29800,
+        "grant-status": "Closed",
+        "primary-field-of-research": "0703 - Crop and Pasture Production",
+        "anticipated-end-date": "2005-10-06",
+        "investigators": "Prof Wallace Cowling; Dr Susan Barker; Prof David Gilchrist",
+        "lief-register": [],
+        "national-interest-test-statement": null
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LX0346900"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LX0346872",
+      "attributes": {
+        "code": "LX0346872",
+        "scheme-name": "Linkage - International",
+        "funding-commencement-year": 2002,
+        "scheme-information": {
+          "schemeCode": "LX  ",
+          "program": "Linkage",
+          "submissionYear": 2002,
+          "roundNumber": 2,
+          "schemeRound": "LX02 Round 2"
+        },
+        "current-admin-organisation": "The University of Queensland",
+        "announcement-admin-organisation": "The University of Queensland",
+        "grant-summary": "Biased information processing in anxiety:  Low anxiety scores, but still at risk. Information processing in anxious persons is biased if confronted with threatening stimulus materials such as words or pictures. This finding has considerable implications for our understanding of fear acquisition and maintenance and for the design of therapeutic interventions. More recent research has shown, however, that low anxious persons who employ repressive coping styles show similar biases. The present project will follow up on these findings by combining the expertises of the two CIs in contemporary cognitive and psychophysiological research. It will not only provide new insights, but also offer research opportunities for postgraduate students, and prospects for future collaborative funding.",
+        "lead-investigator": "Prof Ottmar Lipp",
+        "current-funding-amount": 26317,
+        "announced-funding-amount": 25570,
+        "grant-status": "Closed",
+        "primary-field-of-research": "1701 - Psychology",
+        "anticipated-end-date": "2004-12-31",
+        "investigators": "Dr Naz Derakshan; Prof Ottmar Lipp",
+        "lief-register": [],
+        "national-interest-test-statement": null
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LX0346872"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LX0346832",
+      "attributes": {
+        "code": "LX0346832",
+        "scheme-name": "Linkage - International",
+        "funding-commencement-year": 2002,
+        "scheme-information": {
+          "schemeCode": "LX  ",
+          "program": "Linkage",
+          "submissionYear": 2002,
+          "roundNumber": 2,
+          "schemeRound": "LX02 Round 2"
+        },
+        "current-admin-organisation": "Swinburne University of Technology",
+        "announcement-admin-organisation": "Swinburne University of Technology",
+        "grant-summary": "The Chemistry of the Milky Way: From Micro- to Macro-Physics. The physics of galaxy formation in the early Universe is driving the development of billion-dollar investments such as the Next Generation Space Telescope and the Square Kilometre Array.  Our team is undertaking a complementary `near-field cosmology' approach, systematically deconstructing the one galaxy in the Universe for which exquisite chemical and kinematical `fingerprints' of its formation remain observable on an individual star-by-star basis - our own Milky Way.  The unique synergy between computational cosmology, galaxy evolution, and stellar nucleosynthesis, intrinsic to our team, allows Australia to be at the forefront of theoretical galaxy formation research, in addition to the leadership role the observational community already enjoys.",
+        "lead-investigator": "Prof Bradley Gibson",
+        "current-funding-amount": 71305,
+        "announced-funding-amount": 70050,
+        "grant-status": "Closed",
+        "primary-field-of-research": "0201 - Astronomical and Space Sciences",
+        "anticipated-end-date": "2003-12-31",
+        "investigators": "Dr Oscar Straniero; Prof Andreas Burkert; Dr Chris Flynn; Prof Bradley Gibson; Prof Francesca Matteucci; Prof John Lattanzio",
+        "lief-register": [],
+        "national-interest-test-statement": null
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LX0346832"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LX0346789",
+      "attributes": {
+        "code": "LX0346789",
+        "scheme-name": "Linkage - International",
+        "funding-commencement-year": 2002,
+        "scheme-information": {
+          "schemeCode": "LX  ",
+          "program": "Linkage",
+          "submissionYear": 2002,
+          "roundNumber": 2,
+          "schemeRound": "LX02 Round 2"
+        },
+        "current-admin-organisation": "The University of Queensland",
+        "announcement-admin-organisation": "Griffith University",
+        "grant-summary": "'The Independents' and Cultural Policy. This project will establish research partnerships between two cultural policy research centres at the University of Belfast and Nottingham Trent University, and Griffith University to develop; (1) best practice frameworks and analytical instruments for research on the independent micro-business sector of the creative industries in Australia and the UK, and (2) the evaluation of cultural policies designed to facilitate and cohere this sector.",
+        "lead-investigator": "Prof Thomas O'Regan",
+        "current-funding-amount": 2358,
+        "announced-funding-amount": 13103,
+        "grant-status": "Closed",
+        "primary-field-of-research": "1605 - Policy and Administration",
+        "anticipated-end-date": "2005-12-31",
+        "investigators": "Dr Lisanne Gibson; Prof Thomas O'Regan",
+        "lief-register": [],
+        "national-interest-test-statement": null
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LX0346789"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LX0346785",
+      "attributes": {
+        "code": "LX0346785",
+        "scheme-name": "Linkage - International",
+        "funding-commencement-year": 2002,
+        "scheme-information": {
+          "schemeCode": "LX  ",
+          "program": "Linkage",
+          "submissionYear": 2002,
+          "roundNumber": 2,
+          "schemeRound": "LX02 Round 2"
+        },
+        "current-admin-organisation": "The University of Queensland",
+        "announcement-admin-organisation": "The University of Queensland",
+        "grant-summary": "Regional Economic Development and Performance: Roles of Leadership and Institutional Factors in Endogenous Growth. Contemporary regional economic development theory emphasises endogenous factors as key determinants of difference in regional economic performance. Leadership and institutional issues require special attention for analysis and in strategy formulation and implementation of regional development plans. This project develops model frameworks for analysing the impact of those endogenous factors on regional economic performance and develops methodologies for their incorporation into regional development strategy, using illustrative case studies. A major book on this topic will result. The collaboration is between researchers at the University of Queensland and George Mason University.",
+        "lead-investigator": "Prof Robert Stimson",
+        "current-funding-amount": 16670,
+        "announced-funding-amount": 16200,
+        "grant-status": "Closed",
+        "primary-field-of-research": "1604 - Human Geography",
+        "anticipated-end-date": "2004-12-31",
+        "investigators": "Prof Robert Stimson",
+        "lief-register": [],
+        "national-interest-test-statement": null
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LX0346785"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LX0346706",
+      "attributes": {
+        "code": "LX0346706",
+        "scheme-name": "Linkage - International",
+        "funding-commencement-year": 2002,
+        "scheme-information": {
+          "schemeCode": "LX  ",
+          "program": "Linkage",
+          "submissionYear": 2002,
+          "roundNumber": 2,
+          "schemeRound": "LX02 Round 2"
+        },
+        "current-admin-organisation": "The University of New South Wales",
+        "announcement-admin-organisation": "The University of New South Wales",
+        "grant-summary": "Preparation and analysis of amorphous GaN thin films. Researchers in New Zealand have developed novel processing techniques to prepare amorphous and partially crystalline gallium nitride thin films with potential application as green-blue-UV opto-electronic devices. However, characterization of the film structure using electron microscopy is essential to understand the relationship between processing conditions and opto-electronic properties. The aim of this project is to draw together specialist expertise and equipment that allows integration of microscopy into the development of these films. Australian researchers will gain access to specialized preparation and testing facilities in New Zealand, whilst researchers from New Zealand will perform structural analysis of these films in Australia.",
+        "lead-investigator": "Prof Paul Munroe",
+        "current-funding-amount": 28573,
+        "announced-funding-amount": 27900,
+        "grant-status": "Closed",
+        "primary-field-of-research": "0205 - Optical Physics",
+        "anticipated-end-date": "2005-12-31",
+        "investigators": "Prof Paul Munroe; Prof H. Trodahl",
+        "lief-register": [],
+        "national-interest-test-statement": null
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LX0346706"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LX0346201",
+      "attributes": {
+        "code": "LX0346201",
+        "scheme-name": "Linkage - International",
+        "funding-commencement-year": 2002,
+        "scheme-information": {
+          "schemeCode": "LX  ",
+          "program": "Linkage",
+          "submissionYear": 2002,
+          "roundNumber": 2,
+          "schemeRound": "LX02 Round 2"
+        },
+        "current-admin-organisation": "Deakin University",
+        "announcement-admin-organisation": "Deakin University",
+        "grant-summary": "New hybrid fibres incorporating nano protein materials. This project aims to develop new cellulose fibres incorporating nano protein materials extracted from animal fibres such as wool. The structure and property of the new hybrid fibres will be studied. Combining cellulose and protein materials within a single fibre is a new and original concept. This will lead to the production of new fibres with enhanced attributes and add significant value to the multi-billion dollar animal fibre industry in Australia. It will also benefit the collaborating country as the major consumer of animal fibres imported from Australia",
+        "lead-investigator": "Prof Xungai Wang",
+        "current-funding-amount": 33733,
+        "announced-funding-amount": 33350,
+        "grant-status": "Closed",
+        "primary-field-of-research": "0910 - Manufacturing Engineering",
+        "anticipated-end-date": "2005-12-31",
+        "investigators": "Prof Xungai Wang; Prof Xushan Gao; Prof Dr Weilin Xu",
+        "lief-register": [],
+        "national-interest-test-statement": null
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LX0346201"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LX0345926",
+      "attributes": {
+        "code": "LX0345926",
+        "scheme-name": "Linkage - International",
+        "funding-commencement-year": 2002,
+        "scheme-information": {
+          "schemeCode": "LX  ",
+          "program": "Linkage",
+          "submissionYear": 2002,
+          "roundNumber": 2,
+          "schemeRound": "LX02 Round 2"
+        },
+        "current-admin-organisation": "The University of Melbourne",
+        "announcement-admin-organisation": "The University of Sydney",
+        "grant-summary": "Inhibitors of enzymes in the lysine biosynthetic pathway. Recent reports of increasing bacterial resistance to antibiotics highlight the need for continual development of new antibacterial agents. Inhibitors of the biosynthesis of the amino acid lysine - an essential component of bacterial proteins and cell wall - may provide a novel class of antibiotics. This project describes investigations of the mechanism of the first two enzymes in the lysine biosynthetic pathway and the design and synthesis of inhibitors of these enzymes.",
+        "lead-investigator": "Prof Craig Hutton",
+        "current-funding-amount": 22712,
+        "announced-funding-amount": 22000,
+        "grant-status": "Closed",
+        "primary-field-of-research": "0304 - Medicinal and Biomolecular Chemistry",
+        "anticipated-end-date": "2006-12-31",
+        "investigators": "Prof Craig Hutton",
+        "lief-register": [],
+        "national-interest-test-statement": null
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LX0345926"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LX0345715",
+      "attributes": {
+        "code": "LX0345715",
+        "scheme-name": "Linkage - International",
+        "funding-commencement-year": 2002,
+        "scheme-information": {
+          "schemeCode": "LX  ",
+          "program": "Linkage",
+          "submissionYear": 2002,
+          "roundNumber": 2,
+          "schemeRound": "LX02 Round 2"
+        },
+        "current-admin-organisation": "Griffith University",
+        "announcement-admin-organisation": "Griffith University",
+        "grant-summary": "Tidal watertable fluctuation in a sandy ocean beach. Tidal dynamics in a sandy beach is important for erosion, saltwater intrusion and biological activities. Most previous researches were based on linearised shallow flow, ignoring capillary effects and soil behaviour, which are particularly important for a sandy beach. In this project, we propose to establish an analytical approximation for the tidal watertable fluctuation in a sandy beach by incorporate the capillary effects and soil behaviour. The analytical work will be supported by numerical and laboratory experiments. The research outcomes will provide a better understanding in tidal waves, beaches and groundwater interaction and also establish a long-term collaboration between two institutes.",
+        "lead-investigator": "Prof Dong Jeng",
+        "current-funding-amount": 10212,
+        "announced-funding-amount": 10100,
+        "grant-status": "Closed",
+        "primary-field-of-research": "0911 - Maritime Engineering",
+        "anticipated-end-date": "2005-12-31",
+        "investigators": "Prof Dong Jeng; Prof David Barry",
+        "lief-register": [],
+        "national-interest-test-statement": null
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LX0345715"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LX0242412",
+      "attributes": {
+        "code": "LX0242412",
+        "scheme-name": "Linkage - International",
+        "funding-commencement-year": 2002,
+        "scheme-information": {
+          "schemeCode": "LX  ",
+          "program": "Linkage",
+          "submissionYear": 2001,
+          "roundNumber": 1,
+          "schemeRound": "LX02 Round 1"
+        },
+        "current-admin-organisation": "University of Technology Sydney",
+        "announcement-admin-organisation": "University of Technology, Sydney",
+        "grant-summary": "Japan, Australia and the Southern Bluefin Tuna (SBT) Fishery: Social and Political Perspectives. In 1999 negotiations over the annual tonnage of the SBT fishery allocated to Japan broke down over disagreements about how much fishing effort SBT stocks could survive. Australia resorted to the international legal system and, although Australia eventually accepted Japan's position, bilateral relations have remained troubled over SBT. Australian public perceptions of the fishery tend to be hostile, especially towards the Japanese side. IN order to achieve a balance between economics and sustainability, fisheries must be managed, and management may be hampered by social and political problems. This project provides social science research to facilitate effective management of SBT.",
+        "lead-investigator": "Prof David Goodman",
+        "current-funding-amount": 33754,
+        "announced-funding-amount": 32460,
+        "grant-status": "Closed",
+        "primary-field-of-research": "1699 - Other Studies In Human Society",
+        "anticipated-end-date": "2004-12-31",
+        "investigators": "Prof David Goodman; Dr Sunhui Koh; Prof Kathryn (Kate) Barclay",
+        "lief-register": [],
+        "national-interest-test-statement": null
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LX0242412"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LX0242388",
+      "attributes": {
+        "code": "LX0242388",
+        "scheme-name": "Linkage - International",
+        "funding-commencement-year": 2002,
+        "scheme-information": {
+          "schemeCode": "LX  ",
+          "program": "Linkage",
+          "submissionYear": 2001,
+          "roundNumber": 1,
+          "schemeRound": "LX02 Round 1"
+        },
+        "current-admin-organisation": "The University of Adelaide",
+        "announcement-admin-organisation": "The University of Adelaide",
+        "grant-summary": "Evolution of host relationships among the parasitic wasps inferred from morphology, DNA sequences and mitochondrial genome organisation. The parasitic Hymenoptera (wasps) are extensively used as biological control agents of agricultural and horticultural pests worldwide, but detailed information on their evolutionary relationships, how they have coevolved with major host groups, and the patterns of host relationships across various wasp families are lacking. This project will employ DNA sequence data from 'new' genes, information on mitochondrial genome organisation, as well as morphology, to generate robust phylogenies for braconid and scelionid wasps that can be used to determine patterns of host utilisation and predict hosts for wasp groups where this information is currently unknown.",
+        "lead-investigator": "Em/Prof Andrew Austin",
+        "current-funding-amount": 15175,
+        "announced-funding-amount": 14000,
+        "grant-status": "Closed",
+        "primary-field-of-research": "0603 - Evolutionary Biology",
+        "anticipated-end-date": "2004-08-31",
+        "investigators": "Prof James Whitfield; Em/Prof Andrew Austin",
+        "lief-register": [],
+        "national-interest-test-statement": null
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LX0242388"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LX0242386",
+      "attributes": {
+        "code": "LX0242386",
+        "scheme-name": "Linkage - International",
+        "funding-commencement-year": 2002,
+        "scheme-information": {
+          "schemeCode": "LX  ",
+          "program": "Linkage",
+          "submissionYear": 2001,
+          "roundNumber": 1,
+          "schemeRound": "LX02 Round 1"
+        },
+        "current-admin-organisation": "Charles Sturt University",
+        "announcement-admin-organisation": "Charles Sturt University",
+        "grant-summary": "On-Line Identity, Interpersonal Relationships And Society. This project will provide a thoroughgoing account of the implications of the communication context provided by the Internet for the development of our identity as persons and as a society. Its significance is grounded in the fact that the context of our communication with others significantly affects the kind of relationships we develop and so the sort of person and society we become. The Internet has now emerged as a central communication context through which our professional, business and personal lives are pursued.",
+        "lead-investigator": "Dr Dean Cocking",
+        "current-funding-amount": 39209,
+        "announced-funding-amount": 37466,
+        "grant-status": "Closed",
+        "primary-field-of-research": "2203 - Philosophy",
+        "anticipated-end-date": "2005-12-31",
+        "investigators": "Prof Joos de Mul; Prof Jeroen Van den Hoven; Dr Dean Cocking; Dr Emma Rooksby; Prof John Weckert",
+        "lief-register": [],
+        "national-interest-test-statement": null
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LX0242386"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LX0242385",
+      "attributes": {
+        "code": "LX0242385",
+        "scheme-name": "Linkage - International",
+        "funding-commencement-year": 2002,
+        "scheme-information": {
+          "schemeCode": "LX  ",
+          "program": "Linkage",
+          "submissionYear": 2001,
+          "roundNumber": 1,
+          "schemeRound": "LX02 Round 1"
+        },
+        "current-admin-organisation": "Queensland University of Technology",
+        "announcement-admin-organisation": "Queensland University of Technology",
+        "grant-summary": "Promoting Mathematical Development through Model-Eliciting Case Studies. Rapid changes in the way mathematics is being used in the workplace means that workers now require diverse profiles of mathematical and scientific abililites, the development of which has to begin in the school years.  Building on our existing democratic access to powerful mathematics that will enable all students to develop the conceptual tools needed for success beyond school.  Working with teachers and graduate students, we will implement semester-long sequences of model-eliciting activities (authentic case studies) that will develop students' higher-order mathematical understandings and abilities, especially those whose outstanding abilities in complex real-world situations often go undetected in the classroom.",
+        "lead-investigator": "Em/Prof Lyn English",
+        "current-funding-amount": 63208,
+        "announced-funding-amount": 65000,
+        "grant-status": "Closed",
+        "primary-field-of-research": "1302 - Curriculum and Pedagogy",
+        "anticipated-end-date": "2006-06-30",
+        "investigators": "Em/Prof Lyn English; Dr Karen Koellner-Clark; Prof Richard Lesh; Dr H Doerr; Prof Roberta Schorr",
+        "lief-register": [],
+        "national-interest-test-statement": null
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LX0242385"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LX0242381",
+      "attributes": {
+        "code": "LX0242381",
+        "scheme-name": "Linkage - International",
+        "funding-commencement-year": 2002,
+        "scheme-information": {
+          "schemeCode": "LX  ",
+          "program": "Linkage",
+          "submissionYear": 2001,
+          "roundNumber": 1,
+          "schemeRound": "LX02 Round 1"
+        },
+        "current-admin-organisation": "University of Wollongong",
+        "announcement-admin-organisation": "University of Wollongong",
+        "grant-summary": "Migration, Ethnicity and Workforce Segmentation in the Asia-Pacific. Globalisation has produced new polarised patterns in working populations, including ethnically segmented labour. The related dynamics of work, ethnicity and labour segmentation have very significant long-term consequences.  Systematic studies are available for advanced economies, but are far less developed for newly industrialised countries. This program investigates these changes in major Asia-Pacific urban-industrial centres. Innovative analyses from large-scale datasets and from strategic localised case studies will meet this shortfall in knowledge. They will also connect with more extensive ongoing studies of social transformations. Research outcomes and theoretical re-assessments will be presented in two workshops, and published in refereed journals and a book.",
+        "lead-investigator": "Prof Kenneth Young",
+        "current-funding-amount": 20171,
+        "announced-funding-amount": 19600,
+        "grant-status": "Closed",
+        "primary-field-of-research": "1608 - Sociology",
+        "anticipated-end-date": "2004-03-30",
+        "investigators": "Prof Kenneth Young; Prof Kevin Hewison; Dr Fei Guo; Dr V Wee",
+        "lief-register": [],
+        "national-interest-test-statement": null
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LX0242381"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LX0242376",
+      "attributes": {
+        "code": "LX0242376",
+        "scheme-name": "Linkage - International",
+        "funding-commencement-year": 2002,
+        "scheme-information": {
+          "schemeCode": "LX  ",
+          "program": "Linkage",
+          "submissionYear": 2001,
+          "roundNumber": 1,
+          "schemeRound": "LX02 Round 1"
+        },
+        "current-admin-organisation": "The University of New South Wales",
+        "announcement-admin-organisation": "The University of New South Wales",
+        "grant-summary": "Cooperative Management of Virtual Teams and Enterprises. Thanks to the proliferation of the Internet and web technologies, it is now possible to exploit the power of these technologies to facilitate the cooperation of teams of workers across distances. Such virtual teams and virtual enterprises are expected to overcome many problems associated in the modern service industry spanning continents. Countries (such as Australia) that are located far from the main markets (e,g, Europe and North America) stand to gain substantially from successful deployment of such virtual organisations. Researchers from UNSW and LORIA France have been working together on the development of cooperative management models for virtual enterprises. This application seeks funding for the travel of researchers across these countries to facilitate this research.",
+        "lead-investigator": "Prof Pradeep Ray",
+        "current-funding-amount": 14589,
+        "announced-funding-amount": 14000,
+        "grant-status": "Closed",
+        "primary-field-of-research": "0806 - Information Systems",
+        "anticipated-end-date": "2004-12-31",
+        "investigators": "Prof Claude Godart; Prof Pradeep Ray",
+        "lief-register": [],
+        "national-interest-test-statement": null
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LX0242376"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LX0242375",
+      "attributes": {
+        "code": "LX0242375",
+        "scheme-name": "Linkage - International",
+        "funding-commencement-year": 2002,
+        "scheme-information": {
+          "schemeCode": "LX  ",
+          "program": "Linkage",
+          "submissionYear": 2001,
+          "roundNumber": 1,
+          "schemeRound": "LX02 Round 1"
+        },
+        "current-admin-organisation": "The University of New South Wales",
+        "announcement-admin-organisation": "Queensland University of Technology",
+        "grant-summary": "Development of micro abrasive water jetting technology for micro machining and polishing on small complex curved surfaces. The fabrication of micro-parts such as those used in integrated sensors and micro-actuators is a new challenge for the rapid development of this industry.  Many existing technologies either find limitations or result in defects on the machined surfaces.  This project will develop an innovative abrasive water-jetting technology for micro machining and polishing.  It will develop the fundamentals and prototype for further development by industry.  New nozzle designs will be analyzed and optimized by computational fluid dynamics studies and experimental investigations using a Particle Image Velocimeter.  Mathematical models for the processing performance will also be developed for use in process control.",
+        "lead-investigator": "Em/Prof Jun Wang",
+        "current-funding-amount": 43441,
+        "announced-funding-amount": 41400,
+        "grant-status": "Closed",
+        "primary-field-of-research": "0910 - Manufacturing Engineering",
+        "anticipated-end-date": "2006-12-31",
+        "investigators": "Prof Tsunemoto Kuriyagawa; Em/Prof Jun Wang",
+        "lief-register": [],
+        "national-interest-test-statement": null
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LX0242375"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LX0242374",
+      "attributes": {
+        "code": "LX0242374",
+        "scheme-name": "Linkage - International",
+        "funding-commencement-year": 2002,
+        "scheme-information": {
+          "schemeCode": "LX  ",
+          "program": "Linkage",
+          "submissionYear": 2001,
+          "roundNumber": 1,
+          "schemeRound": "LX02 Round 1"
+        },
+        "current-admin-organisation": "The University of Sydney",
+        "announcement-admin-organisation": "The University of Sydney",
+        "grant-summary": "Nonlinear Phenomena in RF Plasmas for Materials Processing Applications. This coordinated and experimental and theoretical proposal focuses on the investigation of the nonlinear phenomena in radio frequency plasma discharges suitable for material processing applications.  The effect of time-varying and steady-state nonlinear plasma responses on the electromagnetic fields and the working parameters of the low-frequency inductively coupled plasmas will be investigated theoretically and experimentally.  The expected outcome of the project will be used for optimizing the performance and stability of the low frequency inductively coupled plasma devices.",
+        "lead-investigator": "Prof Serguei Vladimirov",
+        "current-funding-amount": 21674,
+        "announced-funding-amount": 20700,
+        "grant-status": "Closed",
+        "primary-field-of-research": "0202 - Atomic, Molecular, Nuclear, Particle and Plasma Physics",
+        "anticipated-end-date": "2006-12-31",
+        "investigators": "Prof Serguei Vladimirov",
+        "lief-register": [],
+        "national-interest-test-statement": null
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LX0242374"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LX0242364",
+      "attributes": {
+        "code": "LX0242364",
+        "scheme-name": "Linkage - International",
+        "funding-commencement-year": 2002,
+        "scheme-information": {
+          "schemeCode": "LX  ",
+          "program": "Linkage",
+          "submissionYear": 2001,
+          "roundNumber": 1,
+          "schemeRound": "LX02 Round 1"
+        },
+        "current-admin-organisation": "The University of Adelaide",
+        "announcement-admin-organisation": "The University of Adelaide",
+        "grant-summary": "Laboratory and Field Testing of a Leak Detection Technique Using Fluid Transients. A major problem in fluid pipelines and pipe networks is undetected leakage. This research collaboration will develop new approaches that will enable systematic leak detection using advanced numerical modelling and inverse techniques with the ultimate goal of implementing these leak detection methods in practice. In addition to the numerical model development, an extensive series of laboratory experiments will be undertaken by researchers from both universities using the laboratory facilities in Adelaide to verify and extend the new approaches. The researchers will conduct similar experiments under field conditions on much larger pipe systems in Toronto and generally in Canada.",
+        "lead-investigator": "Em/Prof Angus Simpson",
+        "current-funding-amount": 32546,
+        "announced-funding-amount": 40800,
+        "grant-status": "Closed",
+        "primary-field-of-research": "0905 - Civil Engineering",
+        "anticipated-end-date": "2005-12-31",
+        "investigators": "Em/Prof Angus Simpson; Em/Prof Martin Lambert; Prof Bryan Karney",
+        "lief-register": [],
+        "national-interest-test-statement": null
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LX0242364"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LX0242363",
+      "attributes": {
+        "code": "LX0242363",
+        "scheme-name": "Linkage - International",
+        "funding-commencement-year": 2002,
+        "scheme-information": {
+          "schemeCode": "LX  ",
+          "program": "Linkage",
+          "submissionYear": 2001,
+          "roundNumber": 1,
+          "schemeRound": "LX02 Round 1"
+        },
+        "current-admin-organisation": "University of Wollongong",
+        "announcement-admin-organisation": "University of Wollongong",
+        "grant-summary": "Effects of oxide scale on the mechanics of contacts in hot strip rolling. This project simulates the oxide scale of hot strip rolling by numerical method, and to obtain a robust and efficient solution technique for hot strip rolling. The innovation of this new research area is in the determination of the thermal coefficients of oxide scale and its modelling by elastic-plastic finite element method. The BHP Institute for Steel Processing and Products, UoW will collaborate with the School of Materials Science and Engineering, University of Science and Technology Beijing, China on the development of sophisticated theory, coupled simulation model and experimental research of the rolling of strip covering oxide scale with cracks. ",
+        "lead-investigator": "Prof Kiet Tieu",
+        "current-funding-amount": 88453,
+        "announced-funding-amount": 84490,
+        "grant-status": "Closed",
+        "primary-field-of-research": "0910 - Manufacturing Engineering",
+        "anticipated-end-date": "2005-12-31",
+        "investigators": "Prof Kiet Tieu; Prof Jingtao Han",
+        "lief-register": [],
+        "national-interest-test-statement": null
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LX0242363"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LX0242362",
+      "attributes": {
+        "code": "LX0242362",
+        "scheme-name": "Linkage - International",
+        "funding-commencement-year": 2002,
+        "scheme-information": {
+          "schemeCode": "LX  ",
+          "program": "Linkage",
+          "submissionYear": 2001,
+          "roundNumber": 1,
+          "schemeRound": "LX02 Round 1"
+        },
+        "current-admin-organisation": "Monash University",
+        "announcement-admin-organisation": "Monash University",
+        "grant-summary": "Control of Transitions in Wakes and Swirling Flows. We will attack industrially-important problems in fluid mechanics by building new, and substantially enhancing existing, international collaborations between key complementary teams of internationally-recognised French and Australian researchers. Funding will support the exchange of 6 senior staff and 3 graduate students, which, in turn, will measurably benefit the research output of a further 20 graduate students and 7 post-doctoral fellows associated with closely-related projects.  From the Australian perspective, the planned exchanges will bring new research expertise, knowledge and skills, which will be focussed on a diverse range of applications. Target industries (with existing collaborations) include Airbus and Dassault Aviation in Europe, and Aerosonde and Warman pumps in Australia. ",
+        "lead-investigator": "Prof Kerry Hourigan",
+        "current-funding-amount": 40877,
+        "announced-funding-amount": 39856,
+        "grant-status": "Closed",
+        "primary-field-of-research": "0901 - Aerospace Engineering",
+        "anticipated-end-date": "2004-12-31",
+        "investigators": "Dr Thomas Leweke; Prof Mark Thompson; Prof Michel Provansal; Prof Kerry Hourigan",
+        "lief-register": [],
+        "national-interest-test-statement": null
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LX0242362"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LX0242360",
+      "attributes": {
+        "code": "LX0242360",
+        "scheme-name": "Linkage - International",
+        "funding-commencement-year": 2002,
+        "scheme-information": {
+          "schemeCode": "LX  ",
+          "program": "Linkage",
+          "submissionYear": 2001,
+          "roundNumber": 1,
+          "schemeRound": "LX02 Round 1"
+        },
+        "current-admin-organisation": "Victoria University",
+        "announcement-admin-organisation": "Victoria University of Technology",
+        "grant-summary": "Thulium doped silica-based optical fibres - towards the realisation of an optical amplifier. In the last decade the data capacity of a single optical fibre has grown way beyond all expectations. However, our ability to utilise the available capacity continues to keep pace with any advance. This project has the potential to add substantially to the transmission capacity by developing an optical amplifier at wavelengths which, although available within the fibre, can not currently be utilised. The focus of the project is the study of thulium doped silica-based fibres for amplification in the 1460 to 1530 nm wavelength region. ",
+        "lead-investigator": "Prof Gregory Baxter",
+        "current-funding-amount": 13704,
+        "announced-funding-amount": 13279,
+        "grant-status": "Closed",
+        "primary-field-of-research": "0205 - Optical Physics",
+        "anticipated-end-date": "2003-12-31",
+        "investigators": "Prof Gregory Baxter",
+        "lief-register": [],
+        "national-interest-test-statement": null
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LX0242360"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LX0242359",
+      "attributes": {
+        "code": "LX0242359",
+        "scheme-name": "Linkage - International",
+        "funding-commencement-year": 2002,
+        "scheme-information": {
+          "schemeCode": "LX  ",
+          "program": "Linkage",
+          "submissionYear": 2001,
+          "roundNumber": 1,
+          "schemeRound": "LX02 Round 1"
+        },
+        "current-admin-organisation": "The Australian National University",
+        "announcement-admin-organisation": "The Australian National University",
+        "grant-summary": "Expressive power and complexity of temporal logics for model-checking. Hardware verification based upon mathematical logic is now routinely\r\nused in industry to verify the correctness of large digital circuits\r\nusing a technique called model-checking. Such discrete systems move\r\nfrom one state to another according to the regular ticks of a clock.\r\nThe challenge now is to find tractable methods for reasoning about\r\nreal-time systems and hybrid systems that move in a continuous manner\r\nwith respect to time: examples include aeroplanes flying according to\r\nthe laws of physics and a moving robot arm. We shall invent new logics\r\nwhich are specifically tailored for tractable reasoning about\r\nreal-time and hybrid systems.",
+        "lead-investigator": "Prof Rajeev Gore",
+        "current-funding-amount": 5322,
+        "announced-funding-amount": 11000,
+        "grant-status": "Closed",
+        "primary-field-of-research": "0802 - Computation Theory and Mathematics",
+        "anticipated-end-date": "2003-04-30",
+        "investigators": "Dr Jennifer Davoren; Prof Rajeev Gore; Prof Jean Goubault-Larrecq; Dr Stephane Demri",
+        "lief-register": [],
+        "national-interest-test-statement": null
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LX0242359"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LX0242357",
+      "attributes": {
+        "code": "LX0242357",
+        "scheme-name": "Linkage - International",
+        "funding-commencement-year": 2002,
+        "scheme-information": {
+          "schemeCode": "LX  ",
+          "program": "Linkage",
+          "submissionYear": 2001,
+          "roundNumber": 1,
+          "schemeRound": "LX02 Round 1"
+        },
+        "current-admin-organisation": "The University of Melbourne",
+        "announcement-admin-organisation": "The University of Melbourne",
+        "grant-summary": "Research on Organizational Discourse. This collaboration links Melbourne and Sydney Universities with McGill University and Kings College, the University of London in an international research network that will conduct research and doctoral training on organizational discourse. Organizational discourse represents an important new theoretical and methodological development in organization and management theory and, in carrying out this program, researchers will be working at the leading edge of theory development, as well as developing research expertise in Australia. Projects include a Handbook, a special issue of a leading international journal, a new journal, a research methods book, an ARC Discovery application and a series of workshops.",
+        "lead-investigator": "Prof William Harley",
+        "current-funding-amount": 66063,
+        "announced-funding-amount": 63370,
+        "grant-status": "Closed",
+        "primary-field-of-research": "1503 - Business and Management",
+        "anticipated-end-date": "2005-12-31",
+        "investigators": "Dr Nelson Phillips; Prof Cynthia Hardy; Prof Nick Wailes; Prof William Harley; Prof David Grant; Prof Graham Sewell; Prof Clifford Oswick; Dr Grant Michelson; Prof Steven Maguire; Dr Tom Keenoy",
+        "lief-register": [],
+        "national-interest-test-statement": null
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LX0242357"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LX0242354",
+      "attributes": {
+        "code": "LX0242354",
+        "scheme-name": "Linkage - International",
+        "funding-commencement-year": 2002,
+        "scheme-information": {
+          "schemeCode": "LX  ",
+          "program": "Linkage",
+          "submissionYear": 2001,
+          "roundNumber": 1,
+          "schemeRound": "LX02 Round 1"
+        },
+        "current-admin-organisation": "Deakin University",
+        "announcement-admin-organisation": "Deakin University",
+        "grant-summary": "Organotin Oxo-clusters Based Hybrid Materials. Hybrid materials are composites which contain both organic and inorganic components, intimately mixed at the microscopic (nanometer) scale. They have applications in areas ranging from recoverable chemical catalysts to micro-chip technology. We will provide new oganometallic components of suitable architecture for assessment as new materials. ",
+        "lead-investigator": "Prof Dainis Dakternieks",
+        "current-funding-amount": 7153,
+        "announced-funding-amount": 7000,
+        "grant-status": "Closed",
+        "primary-field-of-research": "0303 - Macromolecular and Materials Chemistry",
+        "anticipated-end-date": "2004-12-31",
+        "investigators": "Dr Francois Ribot; Prof Dainis Dakternieks",
+        "lief-register": [],
+        "national-interest-test-statement": null
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LX0242354"
+      }
+    }
+  ]
+}

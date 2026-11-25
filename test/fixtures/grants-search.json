@@ -1,0 +1,647 @@
+{
+  "meta": {
+    "requested-page-number": 1,
+    "requested-page-size": 10,
+    "actual-page-size": 10,
+    "total-pages": 3,
+    "total-size": 23,
+    "search-description": {
+      "ast": {
+        "Name": "FilterAndExpression",
+        "TokenText": "climate",
+        "TokenString": null,
+        "ChildNodes": [
+          {
+            "Name": "PrimaryExpression",
+            "TokenText": "climate",
+            "TokenString": null,
+            "ChildNodes": [
+              {
+                "Name": "Term",
+                "TokenText": "climate",
+                "TokenString": "climate",
+                "ChildNodes": null
+              }
+            ]
+          },
+          {
+            "Name": "=>",
+            "TokenText": "=>",
+            "TokenString": "=>",
+            "ChildNodes": null
+          },
+          {
+            "Name": "FilterBinaryExpression",
+            "TokenText": "status",
+            "TokenString": null,
+            "ChildNodes": [
+              {
+                "Name": "FilterPrimaryExpression",
+                "TokenText": "status",
+                "TokenString": null,
+                "ChildNodes": [
+                  {
+                    "Name": "FilterPrimaryExpression",
+                    "TokenText": "status",
+                    "TokenString": null,
+                    "ChildNodes": [
+                      {
+                        "Name": "StatusExpression",
+                        "TokenText": "status",
+                        "TokenString": null,
+                        "ChildNodes": [
+                          {
+                            "Name": "status",
+                            "TokenText": "status",
+                            "TokenString": "status",
+                            "ChildNodes": null
+                          },
+                          {
+                            "Name": "=",
+                            "TokenText": "=",
+                            "TokenString": "=",
+                            "ChildNodes": null
+                          },
+                          {
+                            "Name": "FilterPhrase",
+                            "TokenText": "\"active\"",
+                            "TokenString": "Active",
+                            "ChildNodes": null
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Name": "and",
+                "TokenText": "and",
+                "TokenString": "and",
+                "ChildNodes": null
+              },
+              {
+                "Name": "FilterPrimaryExpression",
+                "TokenText": "lief-register",
+                "TokenString": null,
+                "ChildNodes": [
+                  {
+                    "Name": "FilterPrimaryExpression",
+                    "TokenText": "lief-register",
+                    "TokenString": null,
+                    "ChildNodes": [
+                      {
+                        "Name": "LiefRegisterExpression",
+                        "TokenText": "lief-register",
+                        "TokenString": null,
+                        "ChildNodes": [
+                          {
+                            "Name": "lief-register",
+                            "TokenText": "lief-register",
+                            "TokenString": "lief-register",
+                            "ChildNodes": null
+                          },
+                          {
+                            "Name": "=",
+                            "TokenText": "=",
+                            "TokenString": "=",
+                            "ChildNodes": null
+                          },
+                          {
+                            "Name": "FilterPhrase",
+                            "TokenText": "\"true\"",
+                            "TokenString": "true",
+                            "ChildNodes": null
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "types": {
+        "Inflectional": 1,
+        "Thesaurus": 2,
+        "Exact": 3
+      }
+    },
+    "sort-by": ""
+  },
+  "links": {
+    "self": "http://dataportal.arc.gov.au/NCGP/API/grants?page%5Bnumber%5D=1&page%5Bsize%5D=10&filter=climate%20%3D%3E%20%28status%3D%22Active%22%29%20AND%28lief-register%3D%22true%22%29",
+    "first": "http://dataportal.arc.gov.au/NCGP/API/grants?page%5Bnumber%5D=1&page%5Bsize%5D=10&filter=climate%20%3D%3E%20%28status%3D%22Active%22%29%20AND%28lief-register%3D%22true%22%29",
+    "last": "http://dataportal.arc.gov.au/NCGP/API/grants?page%5Bnumber%5D=3&page%5Bsize%5D=10&filter=climate%20%3D%3E%20%28status%3D%22Active%22%29%20AND%28lief-register%3D%22true%22%29",
+    "prev": "http://dataportal.arc.gov.au/NCGP/API/grants?page%5Bnumber%5D=1&page%5Bsize%5D=10&filter=climate%20%3D%3E%20%28status%3D%22Active%22%29%20AND%28lief-register%3D%22true%22%29",
+    "next": "http://dataportal.arc.gov.au/NCGP/API/grants?page%5Bnumber%5D=2&page%5Bsize%5D=10&filter=climate%20%3D%3E%20%28status%3D%22Active%22%29%20AND%28lief-register%3D%22true%22%29"
+  },
+  "data": [
+    {
+      "type": "grants",
+      "id": "LE260100123",
+      "attributes": {
+        "code": "LE260100123",
+        "scheme-name": "Linkage Infrastructure, Equipment and Facilities",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "LE  ",
+          "program": "Linkage",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "LE26 Round 1"
+        },
+        "current-admin-organisation": "The University of New South Wales",
+        "announcement-admin-organisation": "The University of New South Wales",
+        "grant-summary": "Australian Smart Environmental Observatory to Shape Future Cities. This project aims to establish national capabilities to address key interconnected challenges—urban heat, air quality, and noise—that significantly impact the vulnerability and resilience of cities. The Australian Smart Environmental Observatory expects to generate new knowledge fundamental to understanding and responding to these interconnected challenges by deploying a large-scale integrated sensor network in key resilient city hubs across Australia. Expected outcomes include long-term robust monitoring of climatic and environmental stressors in Australian cities. This should provide significant benefits for research innovation, collaboration and capacity building, and evidence-based policymaking for urban planning and health sectors.",
+        "lead-investigator": "Prof Deo Prasad",
+        "current-funding-amount": 1209463,
+        "announced-funding-amount": 1209463,
+        "grant-status": "Active",
+        "primary-field-of-research": "3301 - Architecture",
+        "anticipated-end-date": "2027-12-31",
+        "investigators": "Prof Deo Prasad; Prof Matthaios Santamouris; A/Prof Lan Ding; Prof Philip Oldfield; A/Prof Riccardo Paolini; Prof Sotiris Vardoulakis; A/Prof Arianna Brambilla; Dr Shamila Haddad; Dr Nigel Goodman; Prof Nasser Bagheri; Prof Priyadarsini Rajagopalan; Dr Konstantina Vasilakopoulou; Mr Matthew Riley; Dr Lisa Chang; Ms Judith Bruinsma",
+        "lief-register": [
+          {
+            "primaryItem": "Item 1: High-quality weather stations measuring air temperature, humidity, air pressure and wind speed and direction in 8 urban reference locations.",
+            "isItemAvailable": true
+          },
+          {
+            "primaryItem": "Item 10: High-quality particulate matter sensor, measuring Total PM, PM1, PM2.5, PM4, and PM10 at 3 locations.",
+            "isItemAvailable": true
+          },
+          {
+            "primaryItem": "Item 11: High-quality Black Carbon sensor for continuous measurement at 3 locations.",
+            "isItemAvailable": true
+          },
+          {
+            "primaryItem": "Item 12: Spectral noise meters with automated spectral data analysis for noise type detection and continuous measurement at 5 urban locations.",
+            "isItemAvailable": true
+          },
+          {
+            "primaryItem": "Item 13: Good quality noise level meters (non-spectral) for continuous measurement at 12 locations in urban areas.",
+            "isItemAvailable": true
+          },
+          {
+            "primaryItem": "Item 14: Temperature and humidity sensors for continuous measurement at 50 street or pedestrian area locations.",
+            "isItemAvailable": true
+          },
+          {
+            "primaryItem": "Item 15: Indoor sensors for continuous measurement of temperature, humidity, CO2 and particulate matter in social housing and heatwave shelters (30).",
+            "isItemAvailable": true
+          },
+          {
+            "primaryItem": "Item 16: People counters (infrared count, anonymous) for continuous quantification of outdoor space use at 36 locations in urban areas. ",
+            "isItemAvailable": true
+          },
+          {
+            "primaryItem": "Item 17: SDI-12 firmware development.",
+            "isItemAvailable": true
+          },
+          {
+            "primaryItem": "Item 18: Data plan for 2 years for the transfer of measured data.",
+            "isItemAvailable": true
+          },
+          {
+            "primaryItem": "Item 19: Database and schema development for networked sensor data",
+            "isItemAvailable": true
+          },
+          {
+            "primaryItem": "Item 2: Good quality weather stations + PM2.5 and PM10 for 29 street locations and pedestrian areas.",
+            "isItemAvailable": true
+          },
+          {
+            "primaryItem": "Item 20: Custom software 1 which includes multiple application interfaces for extracting measurements from different types of sensors",
+            "isItemAvailable": true
+          },
+          {
+            "primaryItem": "Item 21: Custom software 2 that includes a web-based data sharing and GIS-based visualisation platform integrating sensors data and urban typologies ",
+            "isItemAvailable": true
+          },
+          {
+            "primaryItem": "Item 22: (1) SQL interface for advanced data selection; (2) a query API to allow programmatic extraction of measurement data (unlike SQL interface)",
+            "isItemAvailable": true
+          },
+          {
+            "primaryItem": "Item 23: Installation costs",
+            "isItemAvailable": true
+          },
+          {
+            "primaryItem": "Item 3: High-quality solar radiometers to measure global horizontal and direct normal irradiance (automated) at 3 locations (2 Sydney + 1 Melbourne).",
+            "isItemAvailable": true
+          },
+          {
+            "primaryItem": "Item 4: High-quality pyrgeometers to measure infrared radiation from sky at 3 locations.",
+            "isItemAvailable": true
+          },
+          {
+            "primaryItem": "Item 5: UV-E radiometers to measure erythemal ultraviolet irradiance and thus the UV index, at 7 locations.",
+            "isItemAvailable": true
+          },
+          {
+            "primaryItem": "Item 6: Good quality pyranometers and pyrgeometers to measure global solar horizontal irradiance and infrared radiation from the sky, at 5 locations.",
+            "isItemAvailable": true
+          },
+          {
+            "primaryItem": "Item 7: Weather mast, PV panels and batteries to provide power, and enclosure to house dataloggers (for the main stations at 8 locations).",
+            "isItemAvailable": true
+          },
+          {
+            "primaryItem": "Item 8: Datalogger to collect and record measured data (for the main stations at 8 locations).",
+            "isItemAvailable": true
+          },
+          {
+            "primaryItem": "Item 9: High-quality light pollution sensors: luminance, illuminance and spectral visible radiation for nighttime measurements at 2 locations.",
+            "isItemAvailable": true
+          }
+        ],
+        "national-interest-test-statement": "Australians living in cities and towns face serious risks from natural hazards. Although heat is the biggest killer, poor air quality from bushfires, transport and other sources also account for deaths and economic costs every year. Climate change will exacerbate these impacts over coming decades. Noise and light pollution also have significant health impacts in Australia’s urban centres.\nThe occurrence, intensity and impact of urban heat, air quality and other environmental hazards are very much influenced by local factors such as land use, topography, built form, infrastructure design and operations, socio-economic factors and local policy settings. These effects can be largely mitigated by appropriate building, urban design and operational practises, and community empowerment programs.\nThis research infrastructure will make available a comprehensive range of interconnected environmental measurements to inform research into local conditions, causal factors, mitigations and adaptation solutions. It will provide the localised, robust data needed to support evidence for place specific policy and investments made by governments and industry.\nThe infrastructure is designed around representative urban typologies and a standardised approach to data collection and sharing. These allow scaling of research projects and mitigation solutions to all Australian communities. This approach will foster collaboration within the researcher community and between researchers and policy makers."
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LE260100123"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LE240100116",
+      "attributes": {
+        "code": "LE240100116",
+        "scheme-name": "Linkage Infrastructure, Equipment and Facilities",
+        "funding-commencement-year": 2024,
+        "scheme-information": {
+          "schemeCode": "LE  ",
+          "program": "Linkage",
+          "submissionYear": 2023,
+          "roundNumber": 1,
+          "schemeRound": "LE24 Round 1"
+        },
+        "current-admin-organisation": "Adelaide University",
+        "announcement-admin-organisation": "The University of Adelaide",
+        "grant-summary": "Facilities for Atmospheric Boundary Layer Evaluation and Testing. This proposal aims to establish state-of-the-art stationary and mobile facilities for atmospheric wind, dust and plume measurements with unique capability to quantify the effect of climate change, surface topography and urbanisation on near-surface microclimate where humans live. To better predict microclimate, mitigate air pollution impacts and exploit local conditions for improved urban planning and agricultural yield, high quality observations of the near-surface atmosphere at fine temporal and spatial resolutions are required. The proposed Facilities for Atmospheric Boundary Layer Evaluation and Testing (FABLET) will advance Australia’s capability to make these difficult measurements of atmospheric boundary layer.",
+        "lead-investigator": "Prof Maziar Arjomandi",
+        "current-funding-amount": 1200000,
+        "announced-funding-amount": 1200000,
+        "grant-status": "Active",
+        "primary-field-of-research": "3702 - Climate Change Science",
+        "anticipated-end-date": "2027-06-02",
+        "investigators": "Prof Maziar Arjomandi; Prof Jason Monty; Prof Theodore Steinberg; A/Prof Michael Cholette; Dr Giovanni Picotti; Dr Kapil Chauhan; Dr Michael Heisel; Dr Matthew Emes; Dr Azadeh Jafari; Prof Ivan Marusic; Prof Seth Westra; Prof Nicholas Hutchins; Prof Matthew Tucker",
+        "lief-register": [
+          {
+            "primaryItem": "Eddy Covariance Sensors",
+            "isItemAvailable": true
+          },
+          {
+            "primaryItem": "High resolution WindCube Scanning LiDARs",
+            "isItemAvailable": true
+          },
+          {
+            "primaryItem": "Photoionization Detectors",
+            "isItemAvailable": true
+          },
+          {
+            "primaryItem": "Tracking Cleanliness Sensors",
+            "isItemAvailable": true
+          },
+          {
+            "primaryItem": "Ultrasonic Wind Sensors",
+            "isItemAvailable": true
+          }
+        ],
+        "national-interest-test-statement": "The proposed Facilities for Atmospheric Boundary Layer Evaluation and Testing (FABLET) will provide unique data that is needed to understand the impact of climate change and urbanisation on human life, which currently does not exist. Both academia and industry can extensively benefit from FABLET. In academia FABLET can provide the required dataset for development of fundamental understanding of the changes in atmospheric boundary layer and ultimately microclimate due to global warming and urbanisation. FABLET also can support development of new technologies in different sectors; for example, FABLET data can support increasing agricultural productivity, reducing cost of solar and wind energy technologies, and improving the comfort and health of humans around the world. By taking advantage of the state-of-the-art stationary and mobile facility, FABLET will allow unprecedented benchmarking and capability to assess and predict pollution, dust and wind in different environments including rural, urban, in densely populated cities or in the harsh Australian outback. FABLET data will be shared beyond academia using open-access web-based platforms. The facilities will establish the required fundamental and applied knowledge with a goal to improve accuracy and precision in predicting and measuring the impact of environmental changes caused by climate and local factors and provide significant support to the Australian Government’s Science and Research Priority on Environmental Change."
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LE240100116"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LE260100043",
+      "attributes": {
+        "code": "LE260100043",
+        "scheme-name": "Linkage Infrastructure, Equipment and Facilities",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "LE  ",
+          "program": "Linkage",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "LE26 Round 1"
+        },
+        "current-admin-organisation": "University of Wollongong",
+        "announcement-admin-organisation": "University of Wollongong",
+        "grant-summary": "State of the Art Coastal Elevation and Bathymetry Facility (CoastElBathy). Green laser LiDAR technology enhances the capacity to develop seamless elevation and bathymetric models and integration with remote-piloted aircraft (RPA/drones) provides the opportunity to address significant data gaps in shallow-water coastal environments, including beaches and estuaries. When RPA-mounted, surveys can target regions where data are sparse, access is limited and can be optimised to characterise morphological change. Data generated from the CoastElBathy facility will underpin development of models urgently needed to project shoreline change due to storms, climate variability, and sea-level rise. Collaboration with industry ensures CoastElBathy informs decisions that seek to minimise coastal risk and maximise public benefit.",
+        "lead-investigator": "Prof Kerrylee Rogers",
+        "current-funding-amount": 650000,
+        "announced-funding-amount": 650000,
+        "grant-status": "Active",
+        "primary-field-of-research": "3709 - Physical Geography and Environmental Geoscience",
+        "anticipated-end-date": "2026-12-31",
+        "investigators": "Prof Kerrylee Rogers; A/Prof Sarah Hamylton; Prof Barbara Bollard; Prof Neil Saintilan; Prof Kirstie Fryirs; A/Prof Hannah Power; Dr Christopher Owers; Dr Michael Kinsela; A/Prof Mitchell Harley; Dr Thomas Oliver; Prof Ana Vila Concejo; A/Prof Eleanor Bruce; Dr Thomas Doyle; Mr Patrick Dwyer; Dr Timothy Rawling",
+        "lief-register": [
+          {
+            "primaryItem": "Amuse Oneself Processing software",
+            "isItemAvailable": true
+          },
+          {
+            "primaryItem": "High quality shallow-water bathymetric green laser LiDAR and suitable remotely piloted aircraft",
+            "isItemAvailable": true
+          },
+          {
+            "primaryItem": "Shallow-water bathymetric green laser LiDAR for DJI M300/350 remotely piloted aircraft",
+            "isItemAvailable": true
+          }
+        ],
+        "national-interest-test-statement": "This project addresses a significant coastal data gap and expands modelling capacity by developing the facility. The facility will provide access to green laser LiDAR technology, suitable remotely piloted aircraft (RPA or drones), and a community of practice that will develop resources to the support successful application of RPA-mounted green laser LiDAR technology for coastal research. The seamless elevation and bathymetric models that will be developed as an outcome of this facility will traverse the coastal zone from shallow water environments, across the intertidal and beyond. These 3D models are crucial for understanding coastal morphodynamics and hydrodynamics, particularly in the context of a changing climate and sea-level rise. Improvements to models will enhance coastal decision-making that seeks to optimise risk minimisation for coastal assets, including infrastructure, dwellings and ecosystems while maximising public benefit through ongoing supply of ecosystem services. In doing so, this project provides economic, social and environmental benefits to the people of NSW and across Australia. Collaboration with industry and government ensures project outcomes support decision-making and are appropriately communicated. "
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LE260100043"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LE260100034",
+      "attributes": {
+        "code": "LE260100034",
+        "scheme-name": "Linkage Infrastructure, Equipment and Facilities",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "LE  ",
+          "program": "Linkage",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "LE26 Round 1"
+        },
+        "current-admin-organisation": "Adelaide University",
+        "announcement-admin-organisation": "The University of Adelaide",
+        "grant-summary": "Australian Optical Dating and Archaeological Luminescence Facility: AusOpAL. AusOpAL aims to transform our understanding of human evolution and past human interactions using next-generation innovations in luminescence dating. It addresses significant limitations in the scope and capacity of the national geochronology portfolio, unlocking Australian-first capabilities in emergent feldspar and quartz dating techniques and direct dating of archaeological materials such as stone tools. Expected outcomes include benchmark reconstructions of past human dispersals and cultures, advances in dating reliability and training of future geoscience expertise. This will provide important benefits for improved temporal appraisals of human history, including timing of human settlement and causes of megafauna extinction in Australia.",
+        "lead-investigator": "A/Prof Lee Arnold",
+        "current-funding-amount": 688334,
+        "announced-funding-amount": 688334,
+        "grant-status": "Active",
+        "primary-field-of-research": "4301 - Archaeology",
+        "anticipated-end-date": "2027-04-16",
+        "investigators": "A/Prof Lee Arnold; Dr Martina Demuro; Prof Bruno David; Prof Andy Herries; Dr Matthew Meredith-Williams; Prof Mike Morley; Prof Gavin Prideaux; A/Prof Bastien Llamas; Dr Elizabeth Reed; Dr Anna Kotarba; Dr Ashleigh Rogers; Dr Mathieu Duval; Dr Justin Shiner; Dr Shaun Adams; A/Prof Tiina Manne",
+        "lief-register": [
+          {
+            "primaryItem": "Broadband EMCCD imaging attachment for spatially resolved luminescence measurements.",
+            "isItemAvailable": true
+          },
+          {
+            "primaryItem": "Luminescence dating reader with dual detector infrared photoluminescence (IRPL) attachment.",
+            "isItemAvailable": true
+          },
+          {
+            "primaryItem": "Luminescence dating reader with high-sensitivity emission spectrometer for spectrally resolved TL, OSL, IRSL, TT-OSL and pIR-IRSL measurements.",
+            "isItemAvailable": true
+          },
+          {
+            "primaryItem": "Modified dual laser single-grain luminescence dating attachment for continuous and pulsed IRPL stimulation of individual grains.",
+            "isItemAvailable": true
+          },
+          {
+            "primaryItem": "Optical dating measurement facility with capabilities in spectrally and spatially resolved luminescence and infrared photoluminescence (IRPL) dating.",
+            "isItemAvailable": true
+          }
+        ],
+        "national-interest-test-statement": "This LIEF project will establish a world-leading geochronology laboratory (AusOpAL) with state-of-the-art capabilities in dating archaeological, palaeontological and geological materials. It will address major gaps in our understanding of Australia’s past climates, long-term biodiversity changes and environmental history, and it will provide critical new insights into the evolution and global dispersal history of our species, including when humans first arrived on our continent.\n\nThe facility will improve Australia’s skill base by training students with sought-after geoscience expertise, and it will sustain new and streamlined commercial dating services that benefit archaeology consultancy, mining and government sectors. It will ensure cultural benefits by strengthening research partnerships with Indigenous communities and heritage management, raising awareness of deep-time connections with Country and promoting science-based conservation initiatives at Australian heritage sites. By improving reconstructions of past climate change, AusOpAL will provide critical calibration datasets for climate forecast models, thereby optimising projections of future environmental changes affecting Australia.\n\nAusOpAL’s high-profile findings will be promoted beyond academia via social and mainstream media, popular science articles, public seminars, on-Country community meetings, and by hosting immersive student learning experiences, high-school outreach and laboratory showcasing events."
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LE260100034"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LE260100176",
+      "attributes": {
+        "code": "LE260100176",
+        "scheme-name": "Linkage Infrastructure, Equipment and Facilities",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "LE  ",
+          "program": "Linkage",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "LE26 Round 1"
+        },
+        "current-admin-organisation": "Flinders University",
+        "announcement-admin-organisation": "Flinders University",
+        "grant-summary": "Submerged Environments Survey and Sampling Suite. The Submerged Environments Survey and Sampling Suite includes two marine geophysical sonar sensors and one marine geotechnical coring platform. Together these marine survey items provide an integrated affordable capacity for Australian universities to expand their research into deeper waters and deeper underwater sediments in both marine and freshwater environments. The R2Sonic Multibeam is optimised for high resolution 3D sonar seabed mapping, paired with an Innomar Compact Subbottom Profiler to map the shape and depth of shallow sediments below the seabed. A floating UWITEC coring platform then allows recovery of deep samples of those sediments to extract evidence of past environments for archaeological and paleoenvironmental research. ",
+        "lead-investigator": "Dr John McCarthy",
+        "current-funding-amount": 450603,
+        "announced-funding-amount": 450603,
+        "grant-status": "Active",
+        "primary-field-of-research": "4301 - Archaeology",
+        "anticipated-end-date": "2026-12-31",
+        "investigators": "Dr John McCarthy; A/Prof Jonathan Tyler; Dr Alexander Francke; A/Prof John Tibby; Prof Jonathan Benjamin; Dr Chelsea Wiseman; Prof Ian Moffat; Prof Sean Ulm; Prof Julien Louys; Dr Mark de Bruyn; A/Prof Graziela Miot da Silva; Miss Jennifer Brindle",
+        "lief-register": [
+          {
+            "primaryItem": "Multibeam sonar (R2Sonic 2022V Plus with Ultra-High Resolution add-on, for creating detailed 3D maps of underwater palaeoenvironmental features.",
+            "isItemAvailable": true
+          },
+          {
+            "primaryItem": "Sub-bottom Profiler (Innomar Compact): marine acoustic device for fine-scale mapping of Pleistocene/Holocene sediment layers beneath the seabed",
+            "isItemAvailable": true
+          },
+          {
+            "primaryItem": "UWITEC Coring Platform: A floating rig capable of extracting deep sediment cores, for sediment characterisation and palaeoenvironmental sampling.",
+            "isItemAvailable": true
+          }
+        ],
+        "national-interest-test-statement": "Submerged landscapes hold invaluable records of past climate shifts, landscape transformations, human and animal activity in Australia’s deep past. However, accessing these underwater archives has long posed a challenge to researchers. This project overcomes that challenge by integrating advanced survey and sampling technologies to investigate submerged marine and freshwater environments. This equipment will enable the capture of high-resolution sonar 3D maps of the seabed, sonic mapping of underlying sediments accumulated over tens of thousands of years, and extraction of sediment cores for dating and analysis. The data generated will shed light on Australia’s changing environments over deep time, providing valuable insights into the archaeology of submerged ancient landscapes, past climate change, offshore geomorphological history and ancient flora and fauna. Archaeological surveys will expand submerged landscape research beyond Western Australia, covering the entire country in close partnership with Traditional Owners. This will support the management of Australia’s Sea Country, including sustainable offshore development for renewable energy and resource exploration, coastal management, and climate adaptation strategies. Project partners will collaborate on public outreach, leveraging a wide range of media and immersive digital techniques to communicate discoveries."
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LE260100176"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LE230100044",
+      "attributes": {
+        "code": "LE230100044",
+        "scheme-name": "Linkage Infrastructure, Equipment and Facilities",
+        "funding-commencement-year": 2023,
+        "scheme-information": {
+          "schemeCode": "LE  ",
+          "program": "Linkage",
+          "submissionYear": 2022,
+          "roundNumber": 1,
+          "schemeRound": "LE23 Round 1"
+        },
+        "current-admin-organisation": "The Australian National University",
+        "announcement-admin-organisation": "The Australian National University",
+        "grant-summary": "Australian Membership of the International Ocean Discovery Program 2023-24. This proposal is for a 2 year membership of the International Ocean Discovery Program (IODP), the world’s largest collaborative research program in Earth and ocean sciences. IODP membership delivers access to global-ranging research infrastructure that provides unique enabling capabilities to explore, sample and monitor geological and biological activity deep beneath the seafloor. The IODP facilitates research into past global environmental change on multiple time scales, the deep biosphere, plate tectonics, formation and distribution of resources, and generation of hazards.  This research addresses multiple national science and research priorities, and underpins future societal and economic prosperity. ",
+        "lead-investigator": "Prof Andrew Roberts",
+        "current-funding-amount": 4378196,
+        "announced-funding-amount": 4378196,
+        "grant-status": "Active",
+        "primary-field-of-research": "3705 - Geology",
+        "anticipated-end-date": "2025-12-31",
+        "investigators": "Prof Helen Bostock; Prof Nathan Daczko; Prof Kliti Grice; Dr Richard Jones; Dr Agathe Lisé-Pronovost; Prof Helen McGregor; A/Prof Michael O'Leary; A/Prof Jonathan Tyler; Prof Jody Webster; Prof Joanne Whittaker; Dr David Robinson; Prof Andrew Roberts; A/Prof Luke Nothdurft; Dr Indrani Mukherjee",
+        "lief-register": [
+          {
+            "primaryItem": "Australian Membership of the International Ocean Discovery Program",
+            "isItemAvailable": true
+          }
+        ],
+        "national-interest-test-statement": "Australia's oceans contribute to quality of life and economic prosperity in many ways - tourism, fisheries, resources, and recreation. Our challenge is to sustainably access these benefits into the future despite economic and existential threats linked to warming, rising sea levels, earthquakes, and tsunamis. To develop this capability, Australia needs a deeper understanding of the environmental and geological processes that affect our oceans and seafloor environments, which requires access to samples of sediments, rocks, fluids, and microbes from deep below the seafloor. Our project aims to secure this access through continued membership of the globally unique International Ocean Discovery Program. This will benefit Australia by improving its capacity to mitigate, and adapt to, the impacts of environmental and geological processes on Australia’s coasts and marine resources, and by detailing the formation processes and distribution of critical resources for the present and the future."
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LE230100044"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LE260100026",
+      "attributes": {
+        "code": "LE260100026",
+        "scheme-name": "Linkage Infrastructure, Equipment and Facilities",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "LE  ",
+          "program": "Linkage",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "LE26 Round 1"
+        },
+        "current-admin-organisation": "University of Technology Sydney",
+        "announcement-admin-organisation": "University of Technology Sydney",
+        "grant-summary": "Facility for Next-Generation Volatilomics Analysis of Complex Samples. Measuring volatile organic compounds (VOCs) is critical to gain a better understanding of our world; and is used to locate missing persons, monitor environmental contaminants and infer health status, with major implications across climate change, human safety and entire ecological communities. The proposed project will establish novel mass spectrometry capabilities that overcome current limitations, leveraging two state-of-the-art mass spectrometry systems that offer complementary capabilities for unprecedented comprehensive VOC covering. This will lead to increased understanding that will inform policy and the development of new interventions to prevent species decline, improve safety and ultimately helping to preserve our natural world.",
+        "lead-investigator": "A/Prof Maiken Ueland",
+        "current-funding-amount": 1787524,
+        "announced-funding-amount": 1787524,
+        "grant-status": "Active",
+        "primary-field-of-research": "3401 - Analytical Chemistry",
+        "anticipated-end-date": "2026-12-31",
+        "investigators": "A/Prof Maiken Ueland; Prof Matthew Padula; Prof Brian Oliver; Dr Jennifer Matthews; Prof William Donald; Prof Richard Stuetz; A/Prof Mark Raftery; Dr Martin Lindley; Dr Malcolm Possell; A/Prof Philip Barton; Prof Xavier Conlan; Prof Brett Neilan; Prof Jay Horvat; Dr Celine Kelso; Dr Jody Moller",
+        "lief-register": [
+          {
+            "primaryItem": "Automated thermal desorption (ATD) coupled with Orbitrap GC",
+            "isItemAvailable": true
+          },
+          {
+            "primaryItem": "Waters Atmospheric Pressure Gas Chromatography (APGC) coupled with Cyclic Ion Mobility Spectrometry (IMS)",
+            "isItemAvailable": true
+          }
+        ],
+        "national-interest-test-statement": "Measuring volatile organic compounds (VOCs) is critical to gain a better understanding of our world; and is used to locate missing persons, monitor environmental contaminants and infer health status, with major implications across climate change, human safety and entire ecological communities. In order to understand these signalling chemicals and their critical role as indicators of reef, terrestrial and atmospheric health, this project looks into improving the process of volatile analysis. Improved detection and identification of volatiles will allow for the development of new technologies and intervention strategies which will have a significant impact across numerous fields, especially in analytical chemistry and environmental sciences. The generated capability will be unique in Australia and position Australia as a global leader in volatilomics research, furthering international prestige and collaborations. This will bring notable benefit to the Australian society at large as it will help to safeguard our population and Australian environment. The project aims at promoting knowledge on environmental risks and human safety through awareness raising, research publications and interaction with media."
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LE260100026"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LE260100137",
+      "attributes": {
+        "code": "LE260100137",
+        "scheme-name": "Linkage Infrastructure, Equipment and Facilities",
+        "funding-commencement-year": 2026,
+        "scheme-information": {
+          "schemeCode": "LE  ",
+          "program": "Linkage",
+          "submissionYear": 2025,
+          "roundNumber": 1,
+          "schemeRound": "LE26 Round 1"
+        },
+        "current-admin-organisation": "University of Tasmania",
+        "announcement-admin-organisation": "University of Tasmania",
+        "grant-summary": "Expanding Australia’s ocean observatory of biogeochemical Argo floats. Robotic biogeochemical Argo floats autonomously measure ocean physics, biology and chemistry for <5% of the cost of ship-based measurements. This data can, and has, addressed important climate and societal issues spanning ocean carbon storage, acidification, deoxygenation and fisheries management. Science and societal impact scales with the number of floats in the water. This project will fund 12 floats with novel hyperspectral sensors to strengthen the array in waters strategically important to Australia. The expected outcomes include an improved understanding of ocean processes relevant to biogeochemical cycles, ecosystems and climate around Australia, increased scientific publications targeting this region, and a well-trained work force.",
+        "lead-investigator": "Prof Peter Strutton",
+        "current-funding-amount": 1490619,
+        "announced-funding-amount": 1490619,
+        "grant-status": "Active",
+        "primary-field-of-research": "3708 - Oceanography",
+        "anticipated-end-date": "2027-12-31",
+        "investigators": "Prof Peter Strutton; Dr Pauline Latour; Dr Tyler Rohr; Dr Tamara Schlosser; Dr Jakob Weis; Prof Laurie Menviel; Prof Matthew England; Prof Moninya Roughan; Dr Klaus Meiners; Dr Patricia Miloslavich; Prof Petra Heil; Dr Karen Westwood",
+        "lief-register": [
+          {
+            "primaryItem": "12 Biogeochemical Argo floats to measure ocean temperature, salinity, depth, dissolved oxygen, chlorophyll, particles and light.",
+            "isItemAvailable": true
+          }
+        ],
+        "national-interest-test-statement": "For 200 years we have observed the ocean from ships; they are still necessary but expensive. A fleet of robotic floats has revolutionised oceanography over the past 20 years; 4000 floats currently measure ocean temperature and salinity. The data unequivocally document ocean warming and sea level rise. We can now make float measurements of oxygen, acidity, nutrients and productivity that are transforming our understanding of marine ecosystems and carbon storage in a changing climate. Australia has so far deployed only 4% of the global fleet, relying on international partnerships to serve our needs. International future funding is uncertain, so the community needs Australia to elevate our contribution. Doing so will safeguard our scientific autonomy, ensure strategic float coverage around Australia, and strengthen our capacity to address important climate and societal issues spanning ocean carbon storage, deoxygenation and fisheries management. We will develop a skilled Australian work force that collaborates internationally, communicates complex science to the nation, and reaches sectors that are yet to realize the potential of these data. In light of emerging proposals to use the oceans to absorb CO2 and meet net zero emissions targets, this game-changing ocean observing system will enable Australia to monitor and predict the safety and efficacy of ocean-based climate intervention technologies. It also bolsters Australia’s standing as a leader in global ocean research."
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LE260100137"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LE230100038",
+      "attributes": {
+        "code": "LE230100038",
+        "scheme-name": "Linkage Infrastructure, Equipment and Facilities",
+        "funding-commencement-year": 2023,
+        "scheme-information": {
+          "schemeCode": "LE  ",
+          "program": "Linkage",
+          "submissionYear": 2022,
+          "roundNumber": 1,
+          "schemeRound": "LE23 Round 1"
+        },
+        "current-admin-organisation": "Flinders University",
+        "announcement-admin-organisation": "Flinders University",
+        "grant-summary": "Coastal Bathymetry with Advanced Technologies (CoastBAT). This proposal will fund Coastal Bathymetry with Advanced Technologies (CoastBAT), a facility that will provide high resolution bathymetry in nearshore and inland waters, where information is currently limited due to high cost and/or difficult access by traditional surveying operations. The access to such information (and capability to monitor change) will unlock research opportunities in areas related to coastal sciences, while benefiting industry and training students in the use of the most up-to-date bathymetric surveying methods. This equipment facility represents a low-cost solution not currently available in other academic institutions in Australia and will facilitate collaborations across institutions nationally and internationally.",
+        "lead-investigator": "A/Prof Graziela Miot da Silva",
+        "current-funding-amount": 387250,
+        "announced-funding-amount": 387250,
+        "grant-status": "Active",
+        "primary-field-of-research": "3709 - Physical Geography and Environmental Geoscience",
+        "anticipated-end-date": "2025-12-31",
+        "investigators": "A/Prof Graziela Miot da Silva; Prof David Bruce; Prof Daniel Ierodiaconou; Prof Patrick Hesp; Prof Adrian Werner; Prof Ruth Reef; Dr Ryan Baring; Mr Jason Quinn; Dr Milena Fernandes; Mr James Holyman",
+        "lief-register": [
+          {
+            "primaryItem": "Autonomous survey vessel integrated integrated with multibeam echosounder.",
+            "isItemAvailable": true
+          },
+          {
+            "primaryItem": "High resolution topographic and bathymetric LiDAR integrated with drone.",
+            "isItemAvailable": true
+          }
+        ],
+        "national-interest-test-statement": "With Australia’s vast coastline and intensifying stresses on nearshore and freshwater systems, there is an urgent need to obtain reliable datasets to inform research and policy. The CoastBAT facility will provide bathymetric information in coastal areas that are normally out of reach to traditional surveying operations given high hydrodynamic energy, difficult access and/or cost of operation, affording Australian researchers access to information that is typically scarce, non-existent or at insufficient resolution. The data obtained will have important economic, social and cultural impacts as it will allow researchers to have a far better understanding of the drivers of coastal change, and provide Councils and State Government with science-based guidelines for adaptation and management response to sea level rise and climate change. This facility will also provide wider, important economic outcomes by providing information at the centimetre scale resolution that can be used to improve navigational safety and protect coastal infrastructure. "
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LE230100038"
+      }
+    },
+    {
+      "type": "grants",
+      "id": "LE240100064",
+      "attributes": {
+        "code": "LE240100064",
+        "scheme-name": "Linkage Infrastructure, Equipment and Facilities",
+        "funding-commencement-year": 2024,
+        "scheme-information": {
+          "schemeCode": "LE  ",
+          "program": "Linkage",
+          "submissionYear": 2023,
+          "roundNumber": 1,
+          "schemeRound": "LE24 Round 1"
+        },
+        "current-admin-organisation": "Griffith University",
+        "announcement-admin-organisation": "Griffith University",
+        "grant-summary": "Sediment Drilling Facility for environmental and genetic archives. This Sediment Drilling Facility for Environmental and Genetic Archives combines versatile augers with new field spectrometers that will enable sediment extraction and rapid, in situ measurements from coastal, lake and riverine environments.  The facility includes a compact geotechnical drill rig, a portable power auger with hydraulic extraction unit, a vibracorer with motorised pontoon, laser induced breakdown spectrometer and magnetic susceptibility.  With access co-ordinated through the Queensland Geochronology Alliance, the new facility will enable university researchers unprecedented access to field equipment required to address questions about changing ecology, landscape and climate on recent and geological timescales.  ",
+        "lead-investigator": "Dr Justine Kemp",
+        "current-funding-amount": 193125,
+        "announced-funding-amount": 193125,
+        "grant-status": "Active",
+        "primary-field-of-research": "3709 - Physical Geography and Environmental Geoscience",
+        "anticipated-end-date": "2027-03-24",
+        "investigators": "Dr Justine Kemp; Dr Mark de Bruyn; Prof David Lambert; Dr Andrew Gunn; Dr An Yi Annie Lau; A/Prof Renjie Zhou; Hon Prof Hongbo Zheng; Prof Patrick Moss; Dr Timothy Pietsch; A/Prof Andrew Brooks",
+        "lief-register": [
+          {
+            "primaryItem": "Geoprobe 540MT Percussion Drill; Wacker Hammer Drill, Laser Induced Breakdown Spectrometer, magnetic suceptiblity meter, Vibracorer",
+            "isItemAvailable": true
+          }
+        ],
+        "national-interest-test-statement": "This facility will contribute to our understanding of climate and environmental change in Australia and neighbouring Pacific islands by enabling the reconstruction of environmental records from sedimentary archives contained in lakes, swamps and floodplains.  In the past, extracting long sediment cores from terrestrial environments required professional drillers at significant cost.  This new infrastructure aims to provide inexpensive, mobile coring rigs with state-of-the-art field spectrometers that make possible efficient data collection relating to changes in catchment erosion, changing ecology, the occurrence of natural hazards, and fluctuations in rainfall and temperature.  Such information is vital for the development of effective management strategies, and enables better management outcomes for culturally, environmentally and economically important landscapes including the tropical savanna, semiarid rangelands, wetlands, and the Great Barrier Reef.  These projects provide critical data required for Australian national climate models, which are used to predict seasonal rainfall for agriculture and disaster planning in the light of recent and projected anthropogenic warming.  More broadly, long records of climate change and variability are critical to answer the arguments of climate sceptics that greenhouse warming is within the range of natural variability.  "
+      },
+      "links": {
+        "self": "http://dataportal.arc.gov.au/NCGP/API/grants/LE240100064"
+      }
+    }
+  ]
+}

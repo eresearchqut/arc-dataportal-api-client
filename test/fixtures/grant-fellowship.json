@@ -1,0 +1,105 @@
+{
+  "links": {
+    "self": "http://dataportal.arc.gov.au/NCGP/API/grants/FT260100001"
+  },
+  "data": {
+    "type": "grant-details",
+    "id": "FT260100001",
+    "attributes": {
+      "code": "FT260100001",
+      "administering-organisation": "The University of Melbourne",
+      "announcement-administering-organisation": "The University of Melbourne",
+      "scheme-name": "ARC Future Fellowships",
+      "grant-status": "Active",
+      "funding-commencement-year": 2026,
+      "years-funded": 4,
+      "project-start-date": "2026-07-01",
+      "anticipated-end-date": "2030-06-30",
+      "grant-summary": "A novel integrated framework to study bacterial metabolism . This project will decipher how bacteria maintain metabolic homeostasis. Using an integrated approach that combines insights from enzyme chemistry with multi-omics datasets, it will study how bacteria regulate nutrient use to balance energy production and biosynthesis under changing conditions. The outcomes will include textbook-level knowledge of bacterial metabolism, revealing weak points in the metabolic network, and allowing us to explain and predict how bacteria adapt to nutrient stress. This innovative approach will set a new standard for linking how enzymes work with how cells behave. In the long term, the insights will inform antibiotic development and microbial engineering, strengthening Australia’s health and biotech capabilities.",
+      "funding-current": 1170067,
+      "funding-at-announcement": 1166563,
+      "investigators-current": [
+        {
+          "title": "Dr",
+          "firstName": "Ivanhoe",
+          "familyName": "Leung",
+          "roleName": "Future Fellowship",
+          "roleCode": "FT",
+          "isFellowship": true,
+          "orcidIdentifier": "0000-0003-0633-6771 "
+        }
+      ],
+      "investigators-at-announcement": [
+        {
+          "title": "Dr",
+          "firstName": "Ivanhoe",
+          "familyName": "Leung",
+          "roleName": "Future Fellowship",
+          "roleCode": "FT",
+          "isFellowship": true,
+          "orcidIdentifier": "0000-0003-0633-6771 "
+        }
+      ],
+      "organisations-current": [
+        {
+          "organisationName": "The University of Melbourne",
+          "roleName": "Administering Organisation",
+          "state": "VIC"
+        }
+      ],
+      "organisations-at-announcement": [
+        {
+          "organisationName": "The University of Melbourne",
+          "roleName": "Administering Organisation",
+          "state": "VIC"
+        }
+      ],
+      "field-of-research": [
+        {
+          "isPrimary": false,
+          "code": "310101",
+          "name": "Analytical Biochemistry",
+          "type": "FOR20"
+        },
+        {
+          "isPrimary": false,
+          "code": "340106",
+          "name": "Metabolomic Chemistry",
+          "type": "FOR20"
+        },
+        {
+          "isPrimary": true,
+          "code": "3404",
+          "name": "Medicinal and Biomolecular Chemistry",
+          "type": "FOR20"
+        },
+        {
+          "isPrimary": false,
+          "code": "340403",
+          "name": "Characterisation of Biological MacRomolecules",
+          "type": "FOR20"
+        }
+      ],
+      "socio-economic-objective": [
+        {
+          "code": "280102",
+          "name": "Expanding Knowledge In the Biological Sciences",
+          "type": "SEO20"
+        },
+        {
+          "code": "280105",
+          "name": "Expanding Knowledge In the Chemical Sciences",
+          "type": "SEO20"
+        }
+      ],
+      "international-collaboration": [
+        "England",
+        "Japan",
+        "New Zealand"
+      ],
+      "lief-register": [],
+      "achievement-summary": null,
+      "national-interest-test-statement": "Bacteria are essential to life on Earth, sustaining ecosystems, driving industrial processes and affecting human health. However, we still know very little about how bacteria control the use of nutrients that keep them alive. This lack of understanding limits our ability to harness their potential and manage their risks. This project will address this gap by uncovering how the bacteria that cause tuberculosis manage nutrient allocation and use under changing conditions. Understanding these processes will help Australia tackle challenges across multiple sectors. In health, it could lead to new strategies for treating infections such as tuberculosis, which disproportionately affects indigenous and migrant communities. In agriculture, it could contribute to controlling tuberculosis affecting livestock, potentially benefiting animal health, improving farming productivity and supporting an industry vital to Australia. In biotechnology, potential advances include sustainable manufacturing by improving microbial systems for water treatment, waste recycling and bio-based manufacturing. This project will also provide world-class training to the next generation of scientists. The results will be shared beyond academia through partnerships with industry, open-access data and public engagement. It will strengthen Australia’s capabilities in health, sustainability and biotechnology, while deepening our understanding of the fundamental biology that underpins these national priorities."
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "links": {
+    "self": "http://dataportal.arc.gov.au/NCGP/API/grants/FF0241206"
+  },
+  "data": {
+    "type": "grant-details",
+    "id": "FF0241206",
+    "attributes": {
+      "code": "FF0241206",
+      "administering-organisation": "The University of Western Australia",
+      "announcement-administering-organisation": "The University of Western Australia",
+      "scheme-name": "Federation Fellowships",
+      "grant-status": "Closed",
+      "funding-commencement-year": 2002,
+      "years-funded": null,
+      "project-start-date": "2002-01-01",
+      "anticipated-end-date": "2004-12-31",
+      "grant-summary": "Structural and Biological Chemistry of Marine Natural Products. Australia's unique marine biodiversity provides a source of novel biologically active compounds with potential for development as pharmaceuticals.  This program seeks to explore the structural and biological chemistry of novel marine compounds from marine invertebrates and to evaluate their potential benefit is training of scientists in organic and biological chemistry and advancement of drug-discovery from Australian biodiversity.",
+      "funding-current": 0,
+      "funding-at-announcement": 0,
+      "investigators-current": [
+        {
+          "title": "Prof",
+          "firstName": "Tadeusz",
+          "familyName": "Molinski",
+          "roleName": "Federation Fellowship",
+          "roleCode": "FF",
+          "isFellowship": true,
+          "orcidIdentifier": null
+        }
+      ],
+      "investigators-at-announcement": [
+        {
+          "title": "Prof",
+          "firstName": "Tadeusz",
+          "familyName": "Molinski",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": null
+        }
+      ],
+      "organisations-current": [
+        {
+          "organisationName": "The University of Western Australia",
+          "roleName": "Administering Organisation",
+          "state": "WA"
+        }
+      ],
+      "organisations-at-announcement": [
+        {
+          "organisationName": "The University of Western Australia",
+          "roleName": "Administering Organisation",
+          "state": "WA"
+        }
+      ],
+      "field-of-research": [
+        {
+          "isPrimary": true,
+          "code": "0304",
+          "name": "Medicinal and Biomolecular Chemistry",
+          "type": "FOR08"
+        },
+        {
+          "isPrimary": false,
+          "code": "250302",
+          "name": "Biological and Medical Chemistry",
+          "type": "RFCD98"
+        }
+      ],
+      "socio-economic-objective": [
+        {
+          "code": "670403",
+          "name": "Treatments (E.G. Chemicals, Antibiotics)",
+          "type": "SEO98"
+        },
+        {
+          "code": "770403",
+          "name": "Living Resources (Flora and Fauna)",
+          "type": "SEO98"
+        },
+        {
+          "code": "780103",
+          "name": "Chemical Sciences",
+          "type": "SEO98"
+        }
+      ],
+      "international-collaboration": [
+        "United States"
+      ],
+      "lief-register": [],
+      "achievement-summary": null,
+      "national-interest-test-statement": null
+    }
+  }
+}

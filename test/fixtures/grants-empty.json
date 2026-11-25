@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "requested-page-number": 1,
+    "requested-page-size": 10,
+    "actual-page-size": 0,
+    "total-pages": 0,
+    "total-size": 0,
+    "search-description": {
+      "ast": {
+        "Name": "ExpressionOnly",
+        "TokenText": "zzqxnotaword",
+        "TokenString": null,
+        "ChildNodes": [
+          {
+            "Name": "PrimaryExpression",
+            "TokenText": "zzqxnotaword",
+            "TokenString": null,
+            "ChildNodes": [
+              {
+                "Name": "Term",
+                "TokenText": "zzqxnotaword",
+                "TokenString": "zzqxnotaword",
+                "ChildNodes": null
+              }
+            ]
+          }
+        ]
+      },
+      "types": {
+        "Inflectional": 1,
+        "Thesaurus": 2,
+        "Exact": 3
+      }
+    },
+    "sort-by": ""
+  },
+  "links": {
+    "self": "http://dataportal.arc.gov.au/NCGP/API/grants?page%5Bnumber%5D=1&page%5Bsize%5D=10&filter=zzqxnotaword"
+  },
+  "data": []
+}

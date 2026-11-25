@@ -1,0 +1,49 @@
+{
+  "links": {
+    "self": "http://dataportal.arc.gov.au/NCGP/API/grants/AR04/00252"
+  },
+  "data": {
+    "type": "grant-details",
+    "id": "AR04/00252",
+    "attributes": {
+      "code": "AR04/00252",
+      "administering-organisation": null,
+      "announcement-administering-organisation": "Australian Astronomical Observatory",
+      "scheme-name": "Linkage - International",
+      "grant-status": "Closed",
+      "funding-commencement-year": 2002,
+      "years-funded": 11,
+      "project-start-date": "",
+      "anticipated-end-date": "",
+      "grant-summary": "Anglo-Australian Observatory Research Fellowship. The Anglo-Australian Observatory Fellowship is managed by the Anglo-Australian Telescope Board through the Anglo-Australian Observatory (AAO) and co-funded on a 50/50 basis by the ARC and the UK Particle Physics and Astronomy Research Council (PPARC). Each year one Fellowship is awarded alternately to Australian and British early career researchers to undertake postdoctoral work at the Anglo-Australian Observatory. The period of tenure of the Fellowship is two years with provision of an extension of up to 12 months in exceptional circumstances.",
+      "funding-current": null,
+      "funding-at-announcement": 547122,
+      "investigators-current": [],
+      "investigators-at-announcement": [
+        {
+          "title": "Ms",
+          "firstName": "E",
+          "familyName": "Corbett",
+          "roleName": "Chief Investigator",
+          "roleCode": "CI",
+          "isFellowship": false,
+          "orcidIdentifier": null
+        }
+      ],
+      "organisations-current": [],
+      "organisations-at-announcement": [
+        {
+          "organisationName": "Australian Astronomical Observatory",
+          "roleName": "Administering Organisation",
+          "state": "NSW"
+        }
+      ],
+      "field-of-research": [],
+      "socio-economic-objective": [],
+      "international-collaboration": [],
+      "lief-register": [],
+      "achievement-summary": null,
+      "national-interest-test-statement": null
+    }
+  }
+}
